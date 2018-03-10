@@ -7,13 +7,13 @@
       <column name="statistic_id" type="integer" />
     </header>
     <rows>
+      <!-- RealismReworked -->
+      <row quest_asset_id="16" quest_id="60537812" statistic_id="30" />
+      <!-- RealismReworked -->
       <row quest_asset_id="5" quest_id="59913127" statistic_id="5" />
       <row quest_asset_id="6" quest_id="60537812" statistic_id="43" />
       <row quest_asset_id="8" quest_id="59913127" statistic_id="72" />
       <row quest_asset_id="15" quest_id="60537812" statistic_id="18" />
-      <!-- RealismReworked -->
-      <row quest_asset_id="16" quest_id="60537812" statistic_id="30" />
-      <!-- RealismReworked -->
       <row quest_asset_id="23" quest_id="60537812" statistic_id="95" />
       <row quest_asset_id="38" quest_id="53358398" statistic_id="5" />
       <row quest_asset_id="533" quest_id="49026310" statistic_id="18" />

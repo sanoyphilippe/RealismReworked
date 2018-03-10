@@ -12,6 +12,9 @@
       <column name="user_id" type="integer" />
     </header>
     <rows>
+      <!-- RealismReworked -->
+      <row count="1" map_asset_id="" objective_id="14" on_map="False" pos="760,420,0" quest_asset_id="16" quest_id="60537812" user_id="0" />
+      <!-- RealismReworked -->
       <row count="1" map_asset_id="" objective_id="4" on_map="True" pos="-150,-250,0" quest_asset_id="6" quest_id="668347" user_id="7" />
       <row count="0" map_asset_id="" objective_id="4" on_map="True" pos="-1030,-130,0" quest_asset_id="21" quest_id="6083011" user_id="101" />
       <row count="0" map_asset_id="45" objective_id="4" on_map="True" pos="-540,270,0" quest_asset_id="" quest_id="8499990" user_id="0" />
@@ -331,9 +334,6 @@
       <row count="220" map_asset_id="26" objective_id="13" on_map="True" pos="-180,-40,0" quest_asset_id="17" quest_id="87746300" user_id="0" />
       <row count="1" map_asset_id="" objective_id="13" on_map="True" pos="-30,510,0" quest_asset_id="5" quest_id="96457441" user_id="0" />
       <row count="1" map_asset_id="15" objective_id="13" on_map="True" pos="90,620,0" quest_asset_id="" quest_id="100715427" user_id="0" />
-      <!-- RealismReworked -->
-      <row count="1" map_asset_id="" objective_id="14" on_map="False" pos="760,420,0" quest_asset_id="16" quest_id="60537812" user_id="0" />
-      <!-- RealismReworked -->
       <row count="1" map_asset_id="" objective_id="14" on_map="True" pos="2160,-220,0" quest_asset_id="15" quest_id="12142010" user_id="0" />
       <row count="0" map_asset_id="" objective_id="14" on_map="True" pos="0,410,0" quest_asset_id="178" quest_id="13101515" user_id="0" />
       <row count="1" map_asset_id="" objective_id="14" on_map="True" pos="1990,-430,0" quest_asset_id="23" quest_id="18195001" user_id="0" />
@@ -436,7 +436,7 @@
       <row count="1" map_asset_id="" objective_id="19" on_map="False" pos="500,-590,0" quest_asset_id="14" quest_id="50222777" user_id="0" />
       <row count="1" map_asset_id="" objective_id="19" on_map="False" pos="-1190,-1240,0" quest_asset_id="489" quest_id="50330758" user_id="17" />
       <row count="1" map_asset_id="" objective_id="19" on_map="True" pos="-170,1780,0" quest_asset_id="169" quest_id="52074508" user_id="0" />
-      <row count="120" map_asset_id="" objective_id="19" on_map="False" pos="970,1000,0" quest_asset_id="25" quest_id="52739772" user_id="0" />
+      <row count="60" map_asset_id="" objective_id="19" on_map="False" pos="970,1000,0" quest_asset_id="25" quest_id="52739772" user_id="0" />
       <row count="1" map_asset_id="" objective_id="20" on_map="False" pos="1690,30,0" quest_asset_id="235" quest_id="13691296" user_id="0" />
       <row count="1" map_asset_id="36" objective_id="20" on_map="True" pos="1430,-40,0" quest_asset_id="" quest_id="26815832" user_id="0" />
       <row count="1" map_asset_id="" objective_id="20" on_map="False" pos="160,970,0" quest_asset_id="69" quest_id="28119465" user_id="0" />
@@ -444,7 +444,7 @@
       <row count="1" map_asset_id="101" objective_id="20" on_map="True" pos="3860,-180,0" quest_asset_id="" quest_id="41184054" user_id="0" />
       <row count="1" map_asset_id="28" objective_id="20" on_map="True" pos="-570,-580,0" quest_asset_id="" quest_id="47902748" user_id="0" />
       <row count="1" map_asset_id="159" objective_id="20" on_map="True" pos="2870,-1700,0" quest_asset_id="" quest_id="52074508" user_id="0" />
-      <row count="60" map_asset_id="698" objective_id="20" on_map="True" pos="970,1170,0" quest_asset_id="26" quest_id="52739772" user_id="0" />
+      <row count="30" map_asset_id="698" objective_id="20" on_map="True" pos="970,1170,0" quest_asset_id="26" quest_id="52739772" user_id="0" />
       <row count="1" map_asset_id="205" objective_id="20" on_map="True" pos="790,2340,0" quest_asset_id="" quest_id="52745351" user_id="0" />
       <row count="1" map_asset_id="111" objective_id="20" on_map="True" pos="-660,-270,0" quest_asset_id="" quest_id="53442887" user_id="0" />
       <row count="1" map_asset_id="64" objective_id="20" on_map="True" pos="1410,370,0" quest_asset_id="" quest_id="88181353" user_id="0" />
@@ -457,7 +457,7 @@
       <row count="1" map_asset_id="22" objective_id="21" on_map="True" pos="620,920,0" quest_asset_id="" quest_id="37887295" user_id="0" />
       <row count="1" map_asset_id="" objective_id="21" on_map="True" pos="-420,-190,0" quest_asset_id="14" quest_id="44283227" user_id="0" />
       <row count="1" map_asset_id="591" objective_id="21" on_map="True" pos="470,-450,0" quest_asset_id="" quest_id="49026310" user_id="0" />
-      <row count="12" map_asset_id="" objective_id="21" on_map="False" pos="970,1320,0" quest_asset_id="27" quest_id="52739772" user_id="0" />
+      <row count="6" map_asset_id="" objective_id="21" on_map="False" pos="970,1320,0" quest_asset_id="27" quest_id="52739772" user_id="0" />
       <row count="2" map_asset_id="" objective_id="21" on_map="True" pos="-90,3980,0" quest_asset_id="27" quest_id="52745351" user_id="0" />
       <row count="1" map_asset_id="91" objective_id="21" on_map="True" pos="-40,-530,0" quest_asset_id="" quest_id="53442887" user_id="0" />
       <row count="1" map_asset_id="14" objective_id="21" on_map="True" pos="-590,-890,0" quest_asset_id="" quest_id="54489849" user_id="0" />
@@ -472,7 +472,7 @@
       <row count="1" map_asset_id="" objective_id="22" on_map="True" pos="2390,50,0" quest_asset_id="109" quest_id="27875920" user_id="0" />
       <row count="1" map_asset_id="101" objective_id="22" on_map="True" pos="2220,180,0" quest_asset_id="" quest_id="41184054" user_id="0" />
       <row count="1" map_asset_id="" objective_id="22" on_map="False" pos="500,-1130,0" quest_asset_id="16" quest_id="50222777" user_id="0" />
-      <row count="10" map_asset_id="" objective_id="22" on_map="False" pos="-290,2280,0" quest_asset_id="32" quest_id="50510365" user_id="0" />
+      <row count="100" map_asset_id="" objective_id="22" on_map="False" pos="-290,2280,0" quest_asset_id="32" quest_id="50510365" user_id="0" />
       <row count="1" map_asset_id="" objective_id="22" on_map="False" pos="2270,2700,0" quest_asset_id="324" quest_id="52074508" user_id="0" />
       <row count="2" map_asset_id="" objective_id="22" on_map="True" pos="-90,4200,0" quest_asset_id="29" quest_id="52745351" user_id="0" />
       <row count="1" map_asset_id="90" objective_id="22" on_map="True" pos="-40,-270,0" quest_asset_id="" quest_id="53442887" user_id="0" />
@@ -573,11 +573,12 @@
       <row count="1" map_asset_id="" objective_id="32" on_map="True" pos="160,-230,0" quest_asset_id="30" quest_id="32364606" user_id="0" />
       <row count="1" map_asset_id="" objective_id="32" on_map="False" pos="630,-2390,0" quest_asset_id="35" quest_id="45407921" user_id="0" />
       <row count="1" map_asset_id="" objective_id="32" on_map="True" pos="760,-330,0" quest_asset_id="21" quest_id="52825048" user_id="22" />
+      <row count="1" map_asset_id="61" objective_id="32" on_map="True" pos="200,590,0" quest_asset_id="" quest_id="71656333" user_id="0" />
       <row count="45" map_asset_id="26" objective_id="32" on_map="True" pos="-140,470,0" quest_asset_id="11" quest_id="84887206" user_id="0" />
       <row count="1" map_asset_id="" objective_id="32" on_map="True" pos="1320,880,0" quest_asset_id="33" quest_id="100608810" user_id="0" />
       <row count="1" map_asset_id="" objective_id="33" on_map="True" pos="680,500,0" quest_asset_id="42" quest_id="19138011" user_id="43" />
       <row count="1" map_asset_id="" objective_id="33" on_map="True" pos="2730,-2550,0" quest_asset_id="27" quest_id="31662772" user_id="0" />
-      <row count="5" map_asset_id="" objective_id="33" on_map="False" pos="-3450,4360,0" quest_asset_id="35" quest_id="33995473" user_id="0" />
+      <row count="60" map_asset_id="161" objective_id="33" on_map="True" pos="-3450,4360,0" quest_asset_id="35" quest_id="33995473" user_id="0" />
       <row count="1" map_asset_id="" objective_id="33" on_map="False" pos="-2080,440,0" quest_asset_id="35" quest_id="34072744" user_id="0" />
       <row count="1" map_asset_id="" objective_id="33" on_map="True" pos="580,-1530,0" quest_asset_id="35" quest_id="39438237" user_id="0" />
       <row count="1" map_asset_id="" objective_id="33" on_map="False" pos="630,-2170,0" quest_asset_id="36" quest_id="45407921" user_id="0" />
@@ -605,6 +606,7 @@
       <row count="1" map_asset_id="" objective_id="38" on_map="False" pos="-1190,-570,0" quest_asset_id="24" quest_id="39626950" user_id="0" />
       <row count="1" map_asset_id="" objective_id="38" on_map="True" pos="80,1050,0" quest_asset_id="39" quest_id="55067906" user_id="0" />
       <row count="1" map_asset_id="" objective_id="38" on_map="False" pos="1520,-610,0" quest_asset_id="67" quest_id="71582720" user_id="0" />
+      <row count="1" map_asset_id="61" objective_id="38" on_map="True" pos="2390,610,0" quest_asset_id="" quest_id="71656333" user_id="0" />
       <row count="1" map_asset_id="" objective_id="38" on_map="True" pos="1320,1340,0" quest_asset_id="39" quest_id="100608810" user_id="0" />
       <row count="1" map_asset_id="39" objective_id="38" on_map="True" pos="90,1340,0" quest_asset_id="" quest_id="100715427" user_id="0" />
       <row count="1" map_asset_id="" objective_id="39" on_map="True" pos="210,-170,0" quest_asset_id="40" quest_id="26065604" user_id="0" />
@@ -677,7 +679,6 @@
       <row count="10" map_asset_id="" objective_id="52" on_map="False" pos="900,-1030,0" quest_asset_id="111" quest_id="50510365" user_id="0" />
       <row count="1" map_asset_id="" objective_id="52" on_map="True" pos="760,-1210,0" quest_asset_id="51" quest_id="52825048" user_id="22" />
       <row count="1" map_asset_id="" objective_id="53" on_map="False" pos="-20,-3760,0" quest_asset_id="52" quest_id="38833711" user_id="0" />
-      <row count="1" map_asset_id="142" objective_id="53" on_map="True" pos="560,1830,0" quest_asset_id="" quest_id="44792891" user_id="0" />
       <row count="3" map_asset_id="" objective_id="53" on_map="True" pos="110,-710,0" quest_asset_id="102" quest_id="78154747" user_id="0" />
       <row count="1" map_asset_id="" objective_id="53" on_map="True" pos="-80,-550,0" quest_asset_id="26" quest_id="96797623" user_id="0" />
       <row count="1" map_asset_id="" objective_id="54" on_map="True" pos="210,-960,0" quest_asset_id="55" quest_id="26065604" user_id="0" />
@@ -797,7 +798,7 @@
       <row count="1" map_asset_id="" objective_id="83" on_map="False" pos="180,-2450,0" quest_asset_id="279" quest_id="50222777" user_id="0" />
       <row count="1" map_asset_id="" objective_id="83" on_map="False" pos="-660,-1580,0" quest_asset_id="80" quest_id="52745351" user_id="0" />
       <row count="1" map_asset_id="" objective_id="83" on_map="False" pos="1570,450,0" quest_asset_id="69" quest_id="55067906" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="83" on_map="False" pos="-200,-2510,0" quest_asset_id="80" quest_id="55076619" user_id="0" />
+      <row count="1" map_asset_id="" objective_id="83" on_map="False" pos="-200,-2730,0" quest_asset_id="80" quest_id="55076619" user_id="0" />
       <row count="1" map_asset_id="81" objective_id="83" on_map="True" pos="450,-720,0" quest_asset_id="18" quest_id="71682392" user_id="0" />
       <row count="1" map_asset_id="" objective_id="84" on_map="False" pos="4800,-3330,0" quest_asset_id="245" quest_id="49193821" user_id="0" />
       <row count="1" map_asset_id="" objective_id="84" on_map="True" pos="1780,2830,0" quest_asset_id="284" quest_id="50510365" user_id="0" />
@@ -813,7 +814,7 @@
       <row count="1" map_asset_id="" objective_id="86" on_map="False" pos="-620,-3660,0" quest_asset_id="92" quest_id="45407921" user_id="0" />
       <row count="1" map_asset_id="" objective_id="86" on_map="False" pos="180,-2230,0" quest_asset_id="84" quest_id="50222777" user_id="0" />
       <row count="1" map_asset_id="" objective_id="86" on_map="False" pos="-660,-1360,0" quest_asset_id="84" quest_id="52745351" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="86" on_map="False" pos="-200,-2290,0" quest_asset_id="84" quest_id="55076619" user_id="0" />
+      <row count="1" map_asset_id="" objective_id="86" on_map="False" pos="-200,-2510,0" quest_asset_id="84" quest_id="55076619" user_id="0" />
       <row count="1" map_asset_id="" objective_id="86" on_map="False" pos="-140,630,0" quest_asset_id="84" quest_id="55696749" user_id="0" />
       <row count="1" map_asset_id="" objective_id="87" on_map="True" pos="600,1290,0" quest_asset_id="89" quest_id="27531404" user_id="90" />
       <row count="1" map_asset_id="" objective_id="87" on_map="False" pos="-620,-3520,0" quest_asset_id="95" quest_id="45407921" user_id="0" />
@@ -829,7 +830,7 @@
       <row count="1" map_asset_id="" objective_id="89" on_map="False" pos="180,-2680,0" quest_asset_id="87" quest_id="50222777" user_id="0" />
       <row count="1" map_asset_id="" objective_id="89" on_map="False" pos="3520,2660,0" quest_asset_id="91" quest_id="50510365" user_id="0" />
       <row count="1" map_asset_id="" objective_id="89" on_map="False" pos="-660,-1130,0" quest_asset_id="87" quest_id="52745351" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="89" on_map="False" pos="-200,-2060,0" quest_asset_id="87" quest_id="55076619" user_id="0" />
+      <row count="1" map_asset_id="" objective_id="89" on_map="False" pos="-200,-2280,0" quest_asset_id="87" quest_id="55076619" user_id="0" />
       <row count="1" map_asset_id="93" objective_id="89" on_map="True" pos="-1570,-340,0" quest_asset_id="" quest_id="71656333" user_id="0" />
       <row count="1" map_asset_id="64" objective_id="89" on_map="True" pos="910,630,0" quest_asset_id="" quest_id="88181353" user_id="0" />
       <row count="1" map_asset_id="" objective_id="90" on_map="False" pos="-270,-530,0" quest_asset_id="56" quest_id="26061588" user_id="85" />
@@ -844,7 +845,7 @@
       <row count="1" map_asset_id="" objective_id="92" on_map="False" pos="180,-2010,0" quest_asset_id="280" quest_id="50222777" user_id="0" />
       <row count="1" map_asset_id="" objective_id="92" on_map="False" pos="-1190,-1090,0" quest_asset_id="99" quest_id="50330758" user_id="17" />
       <row count="1" map_asset_id="" objective_id="92" on_map="False" pos="-660,-910,0" quest_asset_id="90" quest_id="52745351" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="92" on_map="False" pos="-200,-1840,0" quest_asset_id="90" quest_id="55076619" user_id="0" />
+      <row count="1" map_asset_id="" objective_id="92" on_map="False" pos="-200,-2060,0" quest_asset_id="90" quest_id="55076619" user_id="0" />
       <row count="1" map_asset_id="" objective_id="92" on_map="True" pos="-730,-500,0" quest_asset_id="181" quest_id="56276264" user_id="22" />
       <row count="1" map_asset_id="27" objective_id="93" on_map="True" pos="1130,1550,0" quest_asset_id="98" quest_id="37887295" user_id="28" />
       <row count="1" map_asset_id="159" objective_id="93" on_map="True" pos="2700,1290,0" quest_asset_id="" quest_id="52074508" user_id="0" />
@@ -959,7 +960,7 @@
       <row count="1" map_asset_id="" objective_id="137" on_map="False" pos="-230,1870,0" quest_asset_id="145" quest_id="41184054" user_id="0" />
       <row count="1" map_asset_id="305" objective_id="137" on_map="True" pos="-3960,-4540,0" quest_asset_id="" quest_id="49193821" user_id="0" />
       <row count="1" map_asset_id="" objective_id="138" on_map="False" pos="1390,2270,0" quest_asset_id="146" quest_id="11106161" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="138" on_map="True" pos="5360,510,0" quest_asset_id="149" quest_id="19412827" user_id="0" />
+      <row count="1" map_asset_id="" objective_id="138" on_map="True" pos="5820,810,0" quest_asset_id="149" quest_id="19412827" user_id="0" />
       <row count="1" map_asset_id="" objective_id="138" on_map="False" pos="-230,2350,0" quest_asset_id="146" quest_id="41184054" user_id="0" />
       <row count="1" map_asset_id="" objective_id="139" on_map="False" pos="1390,2540,0" quest_asset_id="147" quest_id="11106161" user_id="0" />
       <row count="1" map_asset_id="" objective_id="139" on_map="False" pos="140,-1260,0" quest_asset_id="140" quest_id="28044299" user_id="0" />
@@ -1033,7 +1034,7 @@
       <row count="1" map_asset_id="262" objective_id="176" on_map="True" pos="2400,1580,0" quest_asset_id="" quest_id="52745351" user_id="0" />
       <row count="1" map_asset_id="" objective_id="177" on_map="True" pos="-3460,2930,0" quest_asset_id="159" quest_id="33995473" user_id="0" />
       <row count="1" map_asset_id="221" objective_id="177" on_map="True" pos="120,420,0" quest_asset_id="" quest_id="45407921" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="177" on_map="True" pos="-420,4010,0" quest_asset_id="176" quest_id="47892696" user_id="0" />
+      <row count="1" map_asset_id="176" objective_id="177" on_map="True" pos="-420,4010,0" quest_asset_id="" quest_id="47892696" user_id="0" />
       <row count="0" map_asset_id="289" objective_id="177" on_map="True" pos="-490,-3490,0" quest_asset_id="" quest_id="53858429" user_id="0" />
       <row count="1" map_asset_id="84" objective_id="177" on_map="True" pos="-140,470,0" quest_asset_id="" quest_id="55696749" user_id="0" />
       <row count="1" map_asset_id="" objective_id="180" on_map="False" pos="-120,-860,0" quest_asset_id="178" quest_id="44792891" user_id="0" />
@@ -1202,8 +1203,10 @@
       <row count="1" map_asset_id="" objective_id="342" on_map="True" pos="500,-280,0" quest_asset_id="343" quest_id="18268009" user_id="0" />
       <row count="1" map_asset_id="337" objective_id="342" on_map="True" pos="-1200,-3670,0" quest_asset_id="358" quest_id="33046666" user_id="47" />
       <row count="1" map_asset_id="336" objective_id="343" on_map="True" pos="-1200,-3470,0" quest_asset_id="359" quest_id="33046666" user_id="47" />
+      <row count="1" map_asset_id="142" objective_id="343" on_map="True" pos="540,2040,0" quest_asset_id="" quest_id="44792891" user_id="0" />
       <row count="1" map_asset_id="" objective_id="344" on_map="False" pos="-1600,-170,0" quest_asset_id="249" quest_id="13691296" user_id="0" />
       <row count="1" map_asset_id="335" objective_id="344" on_map="True" pos="-1200,-3270,0" quest_asset_id="360" quest_id="33046666" user_id="47" />
+      <row count="1" map_asset_id="346" objective_id="344" on_map="True" pos="550,2280,0" quest_asset_id="" quest_id="44792891" user_id="0" />
       <row count="1" map_asset_id="370" objective_id="345" on_map="True" pos="-1130,430,0" quest_asset_id="" quest_id="54479418" user_id="0" />
       <row count="0" map_asset_id="186" objective_id="346" on_map="True" pos="-2080,-220,0" quest_asset_id="" quest_id="34072744" user_id="0" />
       <row count="1" map_asset_id="" objective_id="347" on_map="False" pos="1540,160,0" quest_asset_id="119" quest_id="50510365" user_id="0" />
@@ -1234,7 +1237,7 @@
       <row count="1" map_asset_id="271" objective_id="377" on_map="True" pos="4420,2720,0" quest_asset_id="" quest_id="60010910" user_id="0" />
       <row count="1" map_asset_id="271" objective_id="378" on_map="True" pos="4420,3010,0" quest_asset_id="" quest_id="60010910" user_id="0" />
       <row count="1" map_asset_id="" objective_id="380" on_map="False" pos="-3450,2340,0" quest_asset_id="376" quest_id="33995473" user_id="0" />
-      <row count="1" map_asset_id="" objective_id="380" on_map="True" pos="-680,4010,0" quest_asset_id="176" quest_id="47892696" user_id="0" />
+      <row count="1" map_asset_id="176" objective_id="380" on_map="True" pos="-680,4010,0" quest_asset_id="" quest_id="47892696" user_id="0" />
       <row count="1" map_asset_id="" objective_id="381" on_map="True" pos="500,-1430,0" quest_asset_id="97" quest_id="18268009" user_id="0" />
       <row count="1" map_asset_id="" objective_id="381" on_map="False" pos="-3450,2560,0" quest_asset_id="49" quest_id="33995473" user_id="0" />
       <row count="1" map_asset_id="345" objective_id="381" on_map="True" pos="2910,-130,0" quest_asset_id="" quest_id="61209157" user_id="0" />
@@ -1289,6 +1292,7 @@
       <row count="1" map_asset_id="456" objective_id="453" on_map="True" pos="3380,140,0" quest_asset_id="" quest_id="54479418" user_id="0" />
       <row count="1" map_asset_id="569" objective_id="459" on_map="True" pos="3750,-290,0" quest_asset_id="" quest_id="53442887" user_id="0" />
       <row count="1" map_asset_id="" objective_id="460" on_map="False" pos="-1570,-1140,0" quest_asset_id="480" quest_id="48091733" user_id="0" />
+      <row count="1" map_asset_id="" objective_id="462" on_map="True" pos="-1360,-920,0" quest_asset_id="489" quest_id="47892696" user_id="0" />
       <row count="1" map_asset_id="" objective_id="464" on_map="False" pos="3150,-2420,0" quest_asset_id="468" quest_id="50510365" user_id="0" />
       <row count="1" map_asset_id="467" objective_id="468" on_map="True" pos="2120,-3490,0" quest_asset_id="" quest_id="72289807" user_id="0" />
       <row count="1" map_asset_id="" objective_id="476" on_map="False" pos="-1570,-770,0" quest_asset_id="482" quest_id="48091733" user_id="0" />
