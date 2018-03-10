@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+    <table name="perk2perk_exclusivity" version="1">
+        <header>
+            <column name="first_perk_id" type="uuid" />
+            <column name="second_perk_id" type="uuid" />
+        </header>
+        <rows>
+            <!-- Highborn II - Bard/Knight Errant -->
+            <row first_perk_id="2366a77c-540c-42fc-8ef5-c96a120b1969" second_perk_id="9a3d02e0-ce39-4c61-ac89-7bd906f1dd03" />
+
+            <!-- Lowborn II - Rogue/Ruffian -->
+            <row first_perk_id="9dc8588e-ffc8-4f77-ad2d-0fd5eb939561" second_perk_id="7f8c781b-142d-4bca-a9ab-2ba11dc9dfd6" />
+
+            <row first_perk_id="04b1bb73-1397-4938-9098-f7bf15591c53" second_perk_id="beb2bf89-350c-46e6-8858-7aa448f2700c" />
+            <row first_perk_id="09e17e51-f85e-4e2d-871d-1b2b7783377f" second_perk_id="5657f764-dc7e-451d-a484-29754535161f" />
+            <row first_perk_id="1888a786-2fc2-4a21-962f-9d70da838d01" second_perk_id="09a5f2a0-d59f-42c2-a80c-bec9ad7ca168" />
+            <row first_perk_id="1888a786-2fc2-4a21-962f-9d70da838d01" second_perk_id="619456f9-0462-4e27-8e9f-bd297dd94527" />
+            <row first_perk_id="1888a786-2fc2-4a21-962f-9d70da838d01" second_perk_id="7ec42d44-d406-46b8-8f83-6c5da3868a87" />
+            <row first_perk_id="1888a786-2fc2-4a21-962f-9d70da838d01" second_perk_id="f3178ac4-c895-4f9e-9e21-985aa64c665b" />
+            <row first_perk_id="5b76b323-306a-4029-b602-c4843cc6f721" second_perk_id="99dfdd67-6da7-4215-878f-6a35fe7a3f6a" />
+            <row first_perk_id="619456f9-0462-4e27-8e9f-bd297dd94527" second_perk_id="09a5f2a0-d59f-42c2-a80c-bec9ad7ca168" />
+            <row first_perk_id="619456f9-0462-4e27-8e9f-bd297dd94527" second_perk_id="7ec42d44-d406-46b8-8f83-6c5da3868a87" />
+            <row first_perk_id="619456f9-0462-4e27-8e9f-bd297dd94527" second_perk_id="f3178ac4-c895-4f9e-9e21-985aa64c665b" />
+            <row first_perk_id="7ec42d44-d406-46b8-8f83-6c5da3868a87" second_perk_id="09a5f2a0-d59f-42c2-a80c-bec9ad7ca168" />
+            <row first_perk_id="7ec42d44-d406-46b8-8f83-6c5da3868a87" second_perk_id="f3178ac4-c895-4f9e-9e21-985aa64c665b" />
+            <row first_perk_id="869dfebb-617d-47d0-b455-669b71334ed5" second_perk_id="85e9756f-7b18-4842-bf94-004aceec5af5" />
+            <row first_perk_id="a631196d-e697-4d1d-886c-7e74a58d1fd4" second_perk_id="fe59bbf6-86df-4d34-b80f-21e52da5f92b" />
+            <row first_perk_id="c84a0e84-d342-4635-a3e0-acb915888582" second_perk_id="736a7f7f-98a6-4b12-88c9-d15e2e76ac6b" />
+            <row first_perk_id="f19f542a-979a-4627-8d1c-9038f7dfc7be" second_perk_id="84c272a9-d81f-4e7b-bee9-0142bdb7a116" />
+            <row first_perk_id="f3178ac4-c895-4f9e-9e21-985aa64c665b" second_perk_id="09a5f2a0-d59f-42c2-a80c-bec9ad7ca168" />
+        </rows>
+    </table>
+</database>

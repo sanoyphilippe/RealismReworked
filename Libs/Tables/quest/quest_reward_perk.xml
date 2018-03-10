@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="quest_reward_perk" version="1">
+    <header>
+      <column name="is_immediate" type="boolean" />
+      <column name="objective_id" type="integer" />
+      <column name="only_unlock" type="boolean" />
+      <column name="perk_id" type="uuid" />
+      <column name="pos" type="character varying" />
+      <column name="quest_id" type="integer" />
+      <column name="quest_reward_perk_id" type="integer" />
+      <column name="soul_id" type="uuid" />
+    </header>
+    <rows>
+      <row is_immediate="True" objective_id="75" only_unlock="False" perk_id="0133008f-09cf-4b68-a434-ea7f7b0283b3" pos="-290,-1670,0" quest_id="11544573" quest_reward_perk_id="81" soul_id="" />
+      <row is_immediate="True" objective_id="1453" only_unlock="False" perk_id="ad889d46-e087-4752-95d9-fa6652e8cab3" pos="-2570,-1140,0" quest_id="13691296" quest_reward_perk_id="1579" soul_id="41bb20df-0860-9371-6df0-55fc2cab2eb4" />
+      <row is_immediate="True" objective_id="1454" only_unlock="False" perk_id="72e2a19b-53e9-4002-8fc5-6f751aa8ea85" pos="-2570,-920,0" quest_id="13691296" quest_reward_perk_id="1580" soul_id="4bae19f7-e5f9-2284-823b-0c7e630489a9" />
+      <row is_immediate="True" objective_id="99" only_unlock="False" perk_id="8c76c38b-d4f8-4bb5-afec-170cbc9ae28a" pos="-1900,260,0" quest_id="27875920" quest_reward_perk_id="616" soul_id="" />
+      <row is_immediate="True" objective_id="99" only_unlock="False" perk_id="cb9c2cf9-66e9-4dbd-b8f1-54fd5b738ef0" pos="-1900,370,0" quest_id="27875920" quest_reward_perk_id="617" soul_id="" />
+      <row is_immediate="True" objective_id="27" only_unlock="False" perk_id="b93eb1ce-34bf-4188-909a-03f2b56b40b7" pos="-60,170,0" quest_id="32364606" quest_reward_perk_id="58" soul_id="" />
+      <row is_immediate="True" objective_id="41" only_unlock="False" perk_id="b93eb1ce-34bf-4188-909a-03f2b56b40b7" pos="-60,610,0" quest_id="32364606" quest_reward_perk_id="59" soul_id="" />
+      <row is_immediate="True" objective_id="7" only_unlock="False" perk_id="64485ae9-3a6d-4bd8-927e-c96a6727d3f8" pos="-1450,80,0" quest_id="33046666" quest_reward_perk_id="2003" soul_id="" />
+      <row is_immediate="True" objective_id="9" only_unlock="False" perk_id="01e845c3-34ca-4bd1-9f08-72ac0e19af57" pos="-1340,550,0" quest_id="33046666" quest_reward_perk_id="2004" soul_id="" />
+      <row is_immediate="True" objective_id="10" only_unlock="False" perk_id="01e845c3-34ca-4bd1-9f08-72ac0e19af57" pos="-1340,660,0" quest_id="33046666" quest_reward_perk_id="2005" soul_id="" />
+      <row is_immediate="True" objective_id="20" only_unlock="False" perk_id="cd828aff-33fb-4a10-90bf-0437a7e35957" pos="-1380,430,0" quest_id="33046666" quest_reward_perk_id="2006" soul_id="" />
+      <row is_immediate="True" objective_id="138" only_unlock="False" perk_id="9babbe52-36cb-455d-b36c-2b4d8d21c722" pos="370,540,0" quest_id="33046666" quest_reward_perk_id="2007" soul_id="" />
+      <row is_immediate="True" objective_id="182" only_unlock="False" perk_id="46f3ea9c-2564-4801-99d4-8ac2d8903ff0" pos="6110,230,0" quest_id="33046666" quest_reward_perk_id="2008" soul_id="" />
+      <row is_immediate="True" objective_id="949" only_unlock="False" perk_id="cb7b1507-77dc-41a5-9cbd-6add9487928c" pos="2410,310,0" quest_id="33046666" quest_reward_perk_id="2009" soul_id="" />
+      <row is_immediate="True" objective_id="1516" only_unlock="False" perk_id="4e2c4279-6b16-4a62-8ff2-3e989c6f8946" pos="-970,890,0" quest_id="33046666" quest_reward_perk_id="2010" soul_id="43144483-f3bb-fab8-9ceb-f77e3020598a" />
+      <row is_immediate="True" objective_id="5" only_unlock="False" perk_id="2542f0bd-ebb1-4dc7-a13a-08deb50f1204" pos="-250,-210,0" quest_id="39088162" quest_reward_perk_id="70" soul_id="" />
+      <row is_immediate="True" objective_id="26" only_unlock="False" perk_id="8b25fd45-893e-4ef3-8d46-6450bd2ba619" pos="5400,670,0" quest_id="41184054" quest_reward_perk_id="330" soul_id="" />
+      <row is_immediate="True" objective_id="427" only_unlock="False" perk_id="82dd4343-8faf-4dad-a96d-c6bdbd17c497" pos="2730,1040,0" quest_id="45073577" quest_reward_perk_id="2130" soul_id="" />
+      <row is_immediate="True" objective_id="11" only_unlock="False" perk_id="0856ace1-3956-4cec-8283-f3c5374f5d1a" pos="730,1500,0" quest_id="46019608" quest_reward_perk_id="255" soul_id="" />
+      <row is_immediate="True" objective_id="11" only_unlock="False" perk_id="3c934831-99c9-44e5-9f1c-7c3ace7b3b37" pos="730,1620,0" quest_id="46019608" quest_reward_perk_id="256" soul_id="" />
+      <row is_immediate="True" objective_id="11" only_unlock="False" perk_id="b8adc80a-7ce4-4923-bf69-f54bc3a32ff2" pos="730,1740,0" quest_id="46019608" quest_reward_perk_id="257" soul_id="" />
+      <row is_immediate="True" objective_id="61" only_unlock="False" perk_id="032ecad8-f7fd-48d6-b268-573025598e37" pos="4180,-420,0" quest_id="48004272" quest_reward_perk_id="380" soul_id="" />
+      <row is_immediate="True" objective_id="248" only_unlock="False" perk_id="35c6cae3-59a1-44d2-b39f-5314d9ba5141" pos="3860,620,0" quest_id="50330758" quest_reward_perk_id="1736" soul_id="" />
+      <row is_immediate="True" objective_id="100" only_unlock="False" perk_id="67977093-2552-44be-a318-93792580fa58" pos="-1100,370,0" quest_id="52739772" quest_reward_perk_id="1012" soul_id="" />
+      <row is_immediate="True" objective_id="100" only_unlock="False" perk_id="4c9a9491-cb87-46c4-985b-f37f1a2b2501" pos="-1100,490,0" quest_id="52739772" quest_reward_perk_id="1013" soul_id="" />
+      <row is_immediate="True" objective_id="623" only_unlock="False" perk_id="f8a10003-e212-43c8-8a40-128e2b2629e4" pos="-270,-600,0" quest_id="60010910" quest_reward_perk_id="930" soul_id="41bb20df-0860-9371-6df0-55fc2cab2eb4" />
+      <row is_immediate="True" objective_id="623" only_unlock="False" perk_id="7c88fdb1-d18c-486d-8d2f-21c21f98dc76" pos="-270,-490,0" quest_id="60010910" quest_reward_perk_id="931" soul_id="4bae19f7-e5f9-2284-823b-0c7e630489a9" />
+      <row is_immediate="True" objective_id="4" only_unlock="False" perk_id="85b2b5a4-fac9-4463-ab91-ffb2d7ef7500" pos="760,20,0" quest_id="60537812" quest_reward_perk_id="27" soul_id="" />
+      <row is_immediate="True" objective_id="13" only_unlock="False" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a9" pos="760,480,0" quest_id="60537812" quest_reward_perk_id="28" soul_id="" />
+      <!-- RealismReworked -->
+      <row is_immediate="True" objective_id="14" only_unlock="False" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a8" pos="760,580,0" quest_id="60537812" quest_reward_perk_id="30" soul_id="" />
+      <!-- RealismReworked -->
+      <row is_immediate="True" objective_id="21" only_unlock="False" perk_id="0dd2c3df-9f61-4743-b5ca-8c3ac39fb57d" pos="760,880,0" quest_id="60537812" quest_reward_perk_id="29" soul_id="" />
+      <row is_immediate="True" objective_id="13" only_unlock="False" perk_id="075e3563-168f-481b-8a25-d0566763a05c" pos="2210,-630,0" quest_id="67432904" quest_reward_perk_id="307" soul_id="" />
+    </rows>
+  </table>
+</database>

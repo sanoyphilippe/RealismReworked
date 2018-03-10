@@ -1,0 +1,101 @@
+<AmbushNPCConfigurations>
+  <configurations>
+  	<cfg align="bandits">
+  		<spawnGroups>
+  			<grp class="bandits" minCnt="7" maxCnt="12" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+  	<cfg align="bandits">
+  		<spawnGroups>
+  			<grp class="bandits" minCnt="7" maxCnt="10" />
+  			<grp class="raubritters" minCnt="2" maxCnt="3" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+  	<cfg align="cumans">
+  		<spawnGroups>
+  			<grp class="cumans" minCnt="7" maxCnt="10" />
+  			<grp class="cumanArchers" minCnt="2" maxCnt="3" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+	
+	<cfg align="deserters">
+  		<spawnGroups>
+  			<grp class="deserters" minCnt="7" maxCnt="12" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+	
+  	<cfg align="cumans">
+  		<spawnGroups>
+  			<grp class="cumans" minCnt="7" maxCnt="10" />
+  			<grp class="cumanArchers" minCnt="2" maxCnt="3" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+  	<cfg align="civilians">
+  		<spawnGroups>
+  			<grp class="merchants" minCnt="1" maxCnt="2" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+  	<cfg align="civilians">
+  		<spawnGroups>
+  			<grp class="merchants" minCnt="1" maxCnt="2" />
+  		</spawnGroups>
+  		<carts>
+				<cart phaseId="2" />
+			</carts>
+  	</cfg>
+  	<cfg align="civilians">
+  		<spawnGroups>
+  			<grp class="civilians" minCnt="1" maxCnt="2" />
+  		</spawnGroups>
+  		<carts>
+				<cart phaseId="3" />
+				<cart phaseId="3" />
+			</carts>
+  	</cfg>
+  	<cfg align="civilians">
+  		<spawnGroups>
+  			<grp class="civilians" minCnt="1" maxCnt="2" />
+  		</spawnGroups>
+  		<carts>
+				<cart phaseId="4" />
+				<cart phaseId="4" />
+			</carts>
+  	</cfg>
+    <cfg align="soldiers" location="rat">
+  		<spawnGroups>
+  			<grp class="soldiers_rat" minCnt="2" maxCnt="44" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+    <cfg align="soldiers" location="sas">
+  		<spawnGroups>
+  			<grp class="soldiers_sas" minCnt="4" maxCnt="6" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+    <cfg align="soldiers" location="tal">
+  		<spawnGroups>
+  			<grp class="soldiers_tal" minCnt="4" maxCnt="6" />
+  		</spawnGroups>
+  		<carts> </carts>
+  	</cfg>
+  </configurations>
+  <classWarfare>
+    	<combination attacker="soldiers" defender="deserters" />
+		  	<combination attacker="deserters" defender="civilians" />
+  	<combination attacker="soldiers" defender="cumans" />
+  	<combination attacker="soldiers" defender="bandits" />
+	  	 <combination attacker="bandits" defender="civilians" /> 
+  	<combination attacker="bandits" defender="bandits" />
+  	 <combination attacker="bandits" defender="cumans" />
+  	<combination attacker="bandits" defender="soldiers" />
+  	<combination attacker="cumans" defender="civilians" />
+  	<combination attacker="cumans" defender="bandits" />
+  </classWarfare>
+</AmbushNPCConfigurations>

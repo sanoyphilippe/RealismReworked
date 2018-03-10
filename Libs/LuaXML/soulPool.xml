@@ -1,0 +1,22 @@
+<SoulPoolDefinitions>
+  <pools>
+    <pool name="cumans" filter="^event_spawn_cuman[0-9]+" />
+    <pool name="cumanArchers" filter="^event_spawn_cumanArcher.*" />
+    <pool name="civilians" filter="^event_spawn_civilian.*" />
+    <pool name="merchants" filter="^event_spawn_merchant.*" />
+    <pool name="soldiers" filter="^event_spawn_soldier.*" />
+    <pool name="soldiers_rat" filter="^event_spawn_soldier_rat.*" />
+    <pool name="soldiers_sas" filter="^event_spawn_soldier_sas.*" />
+    <pool name="soldiers_tal" filter="^event_spawn_soldier_tal.*" />
+    <pool name="bandits" filter="^event_spawn_bandit.*" />
+    <pool name="raubritters" filter="^event_spawn_raubritter.*" />
+    <pool name="lynchmob" filter="^event_spawn_lynchmob.*" />
+    <pool name="pigs" filter="^event_spawn_pig.*" />
+    <pool name="lure" filter="^event_spawn_lure.*" />
+    <pool name="drunkards" filter="^event_spawn_drunkard.*" />
+    <pool name="horses" filter="^event_spawn_runningHorse.*" />
+	<pool name="deserters" filter="^event_spawn_deserter.*" />
+	<pool name="bosses" filter="^event_spawn_boss.*" />
+	<pool name="merrylads" filter="^event_spawn_merrylads.*" />
+  </pools>
+</SoulPoolDefinitions>

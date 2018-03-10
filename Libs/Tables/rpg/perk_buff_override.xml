@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+    <table name="perk_buff_override" version="1">
+        <header>
+            <column name="perk_id" type="uuid" />
+            <column name="source_buff_id" type="uuid" />
+            <column name="target_buff_id" type="uuid" />
+        </header>
+        <rows>
+            <!-- Thickblooded I -->
+            <row perk_id="c85ac0b2-c7b9-49d1-9c82-267d8127fd33" source_buff_id="0c903899-fcc9-4cf2-9ee3-1130ac08b0fc" target_buff_id="3e9b2099-d1e5-493d-8fe4-8de9ea9e9e8a" />
+
+            <!-- Thickblooded II -->
+            <row perk_id="a2609177-1e33-45e2-859c-ccf8e744f2e0" source_buff_id="0c903899-fcc9-4cf2-9ee3-1130ac08b0fc" target_buff_id="81c91cdd-3294-4958-b27e-e076ca8c8692" />
+
+            <row perk_id="2d2ac570-8d78-4030-83bc-a994d3569ff7" source_buff_id="7e252c71-5e41-472c-ad32-f223a664faab" target_buff_id="" />
+            <row perk_id="7a2393fb-622f-4c74-a456-89f99cc5a09c" source_buff_id="b152dbb8-d883-4e67-acba-b89829542e3e" target_buff_id="46769b14-d592-4a7c-a6bc-811e3366affa" />
+            <row perk_id="94250765-92f5-4102-82e4-3c8d39c8e8f8" source_buff_id="9b308d86-b3c5-4b85-b6fc-c1a4c4af2abf" target_buff_id="d2dde403-c8cf-4013-a42c-81da2c36da7f" />
+            <row perk_id="ad840150-ca47-4c8f-8e05-fd9ef632e685" source_buff_id="88e6cb97-af82-4b75-8d4f-388246cd7489" target_buff_id="efab3328-a1f7-4df1-a1df-eeaf86972b10" />
+            <row perk_id="ed285ee6-6f92-4950-b4f2-8d85478020b5" source_buff_id="e855944d-493e-4a25-b77c-005dcdf503fe" target_buff_id="bc182ea1-4123-4bcf-b14d-c4815c752d6e" />
+            <row perk_id="f6c2fc1a-f18f-4b55-8305-60ab116df1b8" source_buff_id="7f0e2530-abc9-4800-8ae1-5db8a9aa86b1" target_buff_id="" />
+            <row perk_id="f976bad2-f96f-4d6f-8ecc-8a75f2845783" source_buff_id="eab9a787-9460-4c90-96ec-8e69c4a82d8d" target_buff_id="feb22377-20e5-4b48-99a5-ead424fca392" />
+        </rows>
+    </table>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="rpg_movement_type" version="1">
+    <header>
+      <column name="armor_load_to_regen" type="real" />
+      <column name="armor_load_to_speed" type="real" />
+      <column name="min_surface_speed_multiplier" type="real" />
+      <column name="rpg_movement_type_id" type="integer" />
+      <column name="rpg_movement_type_name" type="character varying" />
+      <column name="stamina_regen" type="real" />
+      <column name="stamina_regen_is_relative" type="boolean" />
+      <column name="visibility_penalization" type="real" />
+    </header>
+    <rows>
+      <row armor_load_to_regen="0" armor_load_to_speed="0" min_surface_speed_multiplier="0" rpg_movement_type_id="0" rpg_movement_type_name="stand" stamina_regen="1" stamina_regen_is_relative="True" visibility_penalization="0" />
+      <row armor_load_to_regen="-0.25" armor_load_to_speed="-0.50" min_surface_speed_multiplier="0" rpg_movement_type_id="1" rpg_movement_type_name="walk" stamina_regen="0.80" stamina_regen_is_relative="True" visibility_penalization="0.2" />
+      <row armor_load_to_regen="-0.50" armor_load_to_speed="-0.75" min_surface_speed_multiplier="0" rpg_movement_type_id="2" rpg_movement_type_name="run" stamina_regen="0.70" stamina_regen_is_relative="True" visibility_penalization="0.5" />
+      <row armor_load_to_regen="1" armor_load_to_speed="-1" min_surface_speed_multiplier="0.35" rpg_movement_type_id="3" rpg_movement_type_name="sprint" stamina_regen="-5" stamina_regen_is_relative="False" visibility_penalization="2" />
+      <row armor_load_to_regen="-0.50" armor_load_to_speed="-0.75" min_surface_speed_multiplier="0" rpg_movement_type_id="4" rpg_movement_type_name="horse_sprint" stamina_regen="0.5" stamina_regen_is_relative="True" visibility_penalization="2" />
+      <row armor_load_to_regen="1" armor_load_to_speed="-1" min_surface_speed_multiplier="0.35" rpg_movement_type_id="5" rpg_movement_type_name="horse_dash" stamina_regen="-2.5" stamina_regen_is_relative="False" visibility_penalization="2.5" />
+    </rows>
+  </table>
+</database>
