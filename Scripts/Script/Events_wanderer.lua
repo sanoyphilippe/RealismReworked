@@ -59,6 +59,9 @@ EventSystem.wandererConfig = {
         probability = 1.25,
         attentionMonolog = "event_wanderer_duelist_att",
         farewellMonolog = "event_wanderer_duelist_bye",
+        condition = function ( location )
+            return not QuestSystem.IsObjectiveCompleted('event_wanderer_persistent','metDuelist');
+        end,
         combatFromFader = true,
         keywords = {"duel","duelist"},
     },
