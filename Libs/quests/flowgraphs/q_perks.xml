@@ -10,41 +10,41 @@
       <Inputs In="" />
     </Node>
     <Node Id="4" Class="Quest:Objective" pos="1360,0,0">
-      <Inputs In="" Tracked="" Name="perk_Educated" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="0" />
+      <Inputs In="" Tracked="" Name="perk_Educated" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="0" />
       <Outputs Out="" />
     </Node>
     <Node Id="13" Class="Quest:Objective" pos="1360,460,0">
-      <Inputs In="" Tracked="" Name="perk_CumansDoom" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_CumansDoom" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <!-- RR START OBJECTIVES-->
     <!-- manslayer -->
     <Node Id="14" Class="Quest:Objective" pos="1360,760,0">
-      <Inputs In="" Tracked="" Name="perk_manSlayer" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_manSlayer" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <!-- arms dealer -->
     <Node Id="12" Class="Quest:Objective" pos="1360,760,0">
-      <Inputs In="" Tracked="" Name="perk_armsDealer" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_armsDealer" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <!-- politician -->
     <Node Id="11" Class="Quest:Objective" pos="1360,760,0">
-      <Inputs In="" Tracked="" Name="perk_politician" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_politician" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <!-- white death -->
     <Node Id="10" Class="Quest:Objective" pos="1360,760,0">
-      <Inputs In="" Tracked="" Name="perk_whiteDeath" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_whiteDeath" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <!-- RR END OBJECTIVES -->
     <Node Id="17" Class="Quest:Objective" pos="1840,0,0">
-      <Inputs In="" Tracked="" Name="perk_AllUnlocked" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_AllUnlocked" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <Node Id="21" Class="Quest:Objective" pos="1360,860,0">
-      <Inputs In="" Tracked="" Name="perk_Resistance" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Inputs In="" Tracked="" Name="perk_Resistance" Exp="0" IsHidden="1" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
     <Node Id="6" pos="400,160,0" Class="Quest:AssetStatistic">
