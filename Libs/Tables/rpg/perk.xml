@@ -16,7 +16,24 @@
       <column name="visibility" type="integer" />
     </header>
     <rows>
-      <!-- RealismReworked manslayer -->
+      <!-- ========================================================== -->
+      <!-- MORE PERKS / BEGIN -->
+      <!-- ========================================================== -->
+      <!-- Hidden perks -->
+      <!-- Arms Dealer -->
+      <row icon_id="burgess" 
+        level="10" 
+        metaperk_id="" 
+        parent_id="" 
+        perk_id="35168285-1dcb-4301-88bc-f4888cdb79ec" 
+        perk_name="Arms Dealer" 
+        perk_ui_desc="perk_arms_dealer_desc" 
+        perk_ui_name="perk_arms_dealer_name" 
+        skill_selector=""
+        stat_selector="3" 
+        ui_priority="0" 
+        visibility="1" />
+      <!-- manslayer -->
       <row icon_id="cuman_killer"
            level="5"
            metaperk_id=""
@@ -25,13 +42,37 @@
            perk_name="Manslayer"
            perk_ui_desc="perk_man_in_killer"
            perk_ui_name="perk_man_nm_killer"
-           skill_selector=""
+           skill_selector="2"
            stat_selector=""
            ui_priority="0"
            visibility="1" />
-      <!-- ========================================================== -->
-      <!-- MORE PERKS / BEGIN -->
-      <!-- ========================================================== -->
+      <!-- White Death -->
+      <row icon_id="crouching_chameleon"
+           level="5"
+           metaperk_id=""
+           parent_id=""
+           perk_id="a66149e3-71a7-440a-b287-60c23efce7a3"
+           perk_name="White Death"
+           perk_ui_desc="perk_white_death_desc"
+           perk_ui_name="perk_white_death_name"
+           skill_selector="18"
+           stat_selector=""
+           ui_priority="0"
+           visibility="1" />
+      <!-- Politician -->
+      <row icon_id="golden_tongue"
+           level="20"
+           metaperk_id=""
+           parent_id=""
+           perk_id="a66149e3-71a7-440a-b287-60c23efbe6a7"
+           perk_name="Politician"
+           perk_ui_desc="perk_politician_desc"
+           perk_ui_name="perk_politician_name"
+           skill_selector=""
+           stat_selector="3"
+           ui_priority="0"
+           visibility="1" />
+      <!-- Hidden perks end -->
       <!-- Weapon-cruncher -->
       <row icon_id="forte"
         level="4"
@@ -41,102 +82,11 @@
         perk_name="weapon_cruncher"
         perk_ui_desc="perk_weapon_cruncher_desc"
         perk_ui_name="perk_weapon_cruncher_name"
-        skill_selector="24"
-        stat_selector=""
-        ui_priority="0"
-        visibility="2" />
-      <!-- Drunken Brawler -->
-      <row icon_id="drunk"
-        level="8"
-        metaperk_id=""
-        parent_id=""
-        perk_id="010b08d3-5346-402c-a7cb-a084d624b62e"
-        perk_name="Drunken Brawler"
-        perk_ui_desc="perk_drunken_brawler_desc"
-        perk_ui_name="perk_drunken_brawler_name"
-        skill_selector="13"
-        stat_selector=""
-        ui_priority="0"
-        visibility="2" />
-      <!-- Fast Striker I -->
-      <row icon_id="fast_striker"
-        level="8"
-        metaperk_id=""
-        parent_id=""
-        perk_id="97aac44f-2789-4030-8438-a8421c7ae5e2"
-        perk_name="Fast striker"
-        perk_ui_desc="perk_fast_striker_desc"
-        perk_ui_name="perk_fast_striker_name"
-        skill_selector=""
-        stat_selector="1"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Fast Striker II -->
-      <row icon_id="fast_striker"
-        level="12"
-        metaperk_id=""
-        parent_id="97aac44f-2789-4030-8438-a8421c7ae5e2"
-        perk_id="32002d32-190f-4f99-a6ff-3b440543347c"
-        perk_name="Fast striker 2"
-        perk_ui_desc="perk_fast_striker2_desc"
-        perk_ui_name="perk_fast_striker2_name"
-        skill_selector=""
-        stat_selector="1"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Fast Striker III -->
-      <row icon_id="fast_striker"
-        level="16"
-        metaperk_id=""
-        parent_id="32002d32-190f-4f99-a6ff-3b440543347c"
-        perk_id="32002d33-190f-4f99-a6ff-3b440543347c"
-        perk_name="Fast striker 3"
-        perk_ui_desc="perk_fast_striker3_desc"
-        perk_ui_name="perk_fast_striker3_name"
-        skill_selector=""
-        stat_selector="1"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Featherweight I -->
-      <row icon_id="like_a_feather"
-        level="4"
-        metaperk_id=""
-        parent_id=""
-        perk_id="010b08c7-5346-402c-a7cb-a084d624b62e"
-        perk_name="Like a feather"
-        perk_ui_desc="perk_like_a_feather_desc"
-        perk_ui_name="perk_like_a_feather_name"
-        skill_selector=""
-        stat_selector="1"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Firm Grip I -->
-      <row icon_id="firm_hand"
-        level="4"
-        metaperk_id=""
-        parent_id=""
-        perk_id="d17df55d-3ff2-45e6-9c4f-a9dc0f83a830"
-        perk_name="Firm hand"
-        perk_ui_desc="perk_film_grip_desc"
-        perk_ui_name="perk_film_grip_name"
         skill_selector="15"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Firm Grip II -->
-      <row icon_id="firm_hand"
-       level="8"
-       metaperk_id=""
-       parent_id="d17df55d-3ff2-45e6-9c4f-a9dc0f83a830"
-       perk_id="d17df55e-3ff2-45e6-9c4f-a9dc0f83a830"
-       perk_name="Firm hand"
-       perk_ui_desc="perk_film_grip2_desc"
-       perk_ui_name="perk_film_grip2_name"
-       skill_selector="15"
-       stat_selector=""
-       ui_priority="0"
-       visibility="2" />
-      <!-- Grappling I -->
+      <!-- Amateur Grappler -->
       <row icon_id="clinch_master"
         level="4"
         metaperk_id=""
@@ -149,7 +99,7 @@
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Grappling II -->
+      <!-- Adept Grappler -->
       <row icon_id="clinch_master"
         level="8"
         metaperk_id=""
@@ -162,7 +112,7 @@
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Grappling III -->
+      <!-- Master Grappler -->
       <row icon_id="clinch_master"
         level="12"
         metaperk_id=""
@@ -236,32 +186,6 @@
         perk_name="Heavy swing"
         perk_ui_desc="perk_heavy_swing_desc"
         perk_ui_name="perk_heavy_swing_name"
-        skill_selector=""
-        stat_selector="0"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Heavy Swing II -->
-      <row icon_id="heavy_swing"
-        level="12"
-        metaperk_id=""
-        parent_id="4b54447c-d283-4338-b433-6153969612fc"
-        perk_id="8f7c618d-9b6e-4be8-95d4-72e3588ac452"
-        perk_name="Heavy swing 2"
-        perk_ui_desc="perk_heavy_swing2_desc"
-        perk_ui_name="perk_heavy_swing2_name"
-        skill_selector=""
-        stat_selector="0"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Heavy Swing III -->
-      <row icon_id="heavy_swing"
-        level="16"
-        metaperk_id=""
-        parent_id="8f7c618d-9b6e-4be8-95d4-72e3588ac452"
-        perk_id="49528c27-f4c1-4461-986d-cedeaccac029"
-        perk_name="Heavy swing 3"
-        perk_ui_desc="perk_heavy_swing3_desc"
-        perk_ui_name="perk_heavy_swing3_name"
         skill_selector=""
         stat_selector="0"
         ui_priority="0"
@@ -344,228 +268,98 @@
         stat_selector="3"
         ui_priority="0"
         visibility="2" />
-      <!-- Lowborn II - Rogue -->
+      <!-- Lowborn II - Dutertian -->
       <row icon_id="lowborn"
         level="8"
         metaperk_id=""
         parent_id="84c272a9-d81f-4e7b-bee9-0142bdb7a116"
         perk_id="9dc8588e-ffc8-4f77-ad2d-0fd5eb939561"
-        perk_name="rogue"
+        perk_name="Dutertian"
         perk_ui_desc="perk_rogue_desc"
         perk_ui_name="perk_rogue_name"
         skill_selector=""
         stat_selector="3"
         ui_priority="0"
         visibility="2" />
-      <!-- Lowborn II - Ruffian -->
+      <!-- Lowborn II - Leekuanian -->
       <row icon_id="lowborn"
         level="8"
         metaperk_id=""
         parent_id="84c272a9-d81f-4e7b-bee9-0142bdb7a116"
         perk_id="7f8c781b-142d-4bca-a9ab-2ba11dc9dfd6"
-        perk_name="ruffian"
+        perk_name="Leekuanian"
         perk_ui_desc="perk_ruffian_desc"
         perk_ui_name="perk_ruffian_name"
         skill_selector=""
         stat_selector="3"
         ui_priority="0"
         visibility="2" />
-      <!-- Marathon Man I -->
-      <row icon_id="marathon_man"
-        level="3"
-        metaperk_id=""
-        parent_id=""
-        perk_id="736a7f7f-98a6-4b12-88c9-d15e2e76ac6b"
-        perk_name="Marathon man"
-        perk_ui_desc="perk_marathon_man_desc"
-        perk_ui_name="perk_marathon_man_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Marathon Man II -->
-      <row icon_id="marathon_man"
-        level="6"
-        metaperk_id=""
-        parent_id="736a7f7f-98a6-4b12-88c9-d15e2e76ac6b"
-        perk_id="736a7f7e-98a6-4b12-88c9-d15e2e76ac6b"
-        perk_name="Marathon man2"
-        perk_ui_desc="perk_marathon_man2_desc"
-        perk_ui_name="perk_marathon_man2_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Marathon Man III -->
-      <row icon_id="marathon_man"
-        level="9"
-        metaperk_id=""
-        parent_id="736a7f7e-98a6-4b12-88c9-d15e2e76ac6b"
-        perk_id="736a7f7d-98a6-4b12-88c9-d15e2e76ac6b"
-        perk_name="Marathon man3"
-        perk_ui_desc="perk_marathon_man3_desc"
-        perk_ui_name="perk_marathon_man3_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Natural Speed -->
+      <!-- Apex Performance -->
       <row icon_id="marathon_man"
         level="4"
         metaperk_id=""
         parent_id=""
         perk_id="010b08d1-5346-402c-a7cb-a084d624b62e"
-        perk_name="Natural Speed"
+        perk_name="Apex Performance"
         perk_ui_desc="perk_physical_fitness_desc"
         perk_ui_name="perk_physical_fitness_name"
         skill_selector="24"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Physical Fitness -->
+      <!-- Gladiator -->
       <row icon_id="crowd_control"
         level="15"
         metaperk_id=""
         parent_id=""
         perk_id="010b08d7-5346-402c-a7cb-a084d624b62e"
-        perk_name="Physical Fitness"
-        perk_ui_desc="perk_fighting_spirit_desc"
-        perk_ui_name="perk_fighting_spirit_name"
+        perk_name="Gladiator"
+        perk_ui_desc="perk_gladiator_desc"
+        perk_ui_name="perk_gladiator_name"
         skill_selector="24"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Revenant I -->
-      <row icon_id="revenant"
-        level="12"
-        metaperk_id=""
-        parent_id=""
-        perk_id="170757df-5808-4ca4-b710-f646a823ed13"
-        perk_name="Revenant"
-        perk_ui_desc="perk_revenant_desc"
-        perk_ui_name="perk_revenant_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Revenant II -->
-      <row icon_id="revenant"
-        level="16"
-        metaperk_id=""
-        parent_id="170757df-5808-4ca4-b710-f646a823ed13"
-        perk_id="f496c6ff-0ab8-4a2c-b8bd-3ed4f8555afb"
-        perk_name="Revenant2"
-        perk_ui_desc="perk_revenant2_desc"
-        perk_ui_name="perk_revenant2_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Revenant III -->
-      <row icon_id="revenant"
-        level="20"
-        metaperk_id=""
-        parent_id="f496c6ff-0ab8-4a2c-b8bd-3ed4f8555afb"
-        perk_id="236367a7-bc03-495c-80a9-2a6d59b7c72c"
-        perk_name="Revenant3"
-        perk_ui_desc="perk_revenant3_desc"
-        perk_ui_name="perk_revenant3_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Secret Pockets -->
-      <row icon_id="secret_pockets"
-        level="2"
-        metaperk_id=""
-        parent_id=""
-        perk_id="4dcedbb3-7173-4e28-bf9e-51bd9249fc85"
-        perk_name="Shakedown"
-        perk_ui_desc="perk_secret_pockets_desc"
-        perk_ui_name="perk_secret_pockets_name"
-        skill_selector="5"
-        stat_selector=""
-        ui_priority="0"
-        visibility="2" />
-      <!-- Sprinter I -->
-      <row icon_id="sprinter"
-        level="3"
-        metaperk_id=""
-        parent_id=""
-        perk_id="c84a0e84-d342-4635-a3e0-acb915888582"
-        perk_name="Sprinter"
-        perk_ui_desc="perk_sprinter_desc"
-        perk_ui_name="perk_sprinter_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Sprinter II -->
-      <row icon_id="sprinter"
-        level="6"
-        metaperk_id=""
-        parent_id="c84a0e84-d342-4635-a3e0-acb915888582"
-        perk_id="50df2711-d1a4-45ad-84c2-ab563ea032c4"
-        perk_name="Sprinter2"
-        perk_ui_desc="perk_sprinter2_desc"
-        perk_ui_name="perk_sprinter2_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Sprinter III -->
-      <row icon_id="sprinter"
-        level="9"
-        metaperk_id=""
-        parent_id="50df2711-d1a4-45ad-84c2-ab563ea032c4"
-        perk_id="e9904b07-d1e2-4c27-aaa4-2f62d200de89"
-        perk_name="Sprinter3"
-        perk_ui_desc="perk_sprinter3_desc"
-        perk_ui_name="perk_sprinter3_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Steady Shot I -->
+      <!-- marksman 1 -->
       <row icon_id="huntsman"
         level="2"
         metaperk_id=""
         parent_id=""
         perk_id="010b08d8-5346-402c-a7cb-a084d624b62e"
-        perk_name="Steady Shot I"
-        perk_ui_desc="perk_steady_shot_desc_1"
-        perk_ui_name="perk_steady_shot_name_1"
+        perk_name="Novice Marksman"
+        perk_ui_desc="perk_marksman_desc_1"
+        perk_ui_name="perk_marksman_name_1"
         skill_selector="18"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Steady Shot II -->
+      <!-- marksman 2 -->
       <row icon_id="huntsman"
         level="8"
         metaperk_id=""
         parent_id="010b08d8-5346-402c-a7cb-a084d624b62e"
         perk_id="010b08d9-5346-402c-a7cb-a084d624b62e"
-        perk_name="Steady Shot II"
-        perk_ui_desc="perk_steady_shot_desc_2"
-        perk_ui_name="perk_steady_shot_name_2"
+        perk_name="Adept Marksman"
+        perk_ui_desc="perk_marksman_desc_2"
+        perk_ui_name="perk_marksman_name_2"
         skill_selector="18"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Steady Shot III -->
+      <!-- marksman 3 -->
       <row icon_id="huntsman"
         level="18"
         metaperk_id=""
         parent_id="010b08d9-5346-402c-a7cb-a084d624b62e"
         perk_id="010b08e0-5346-402c-a7cb-a084d624b62e"
-        perk_name="Steady Shot III"
-        perk_ui_desc="perk_steady_shot_desc_3"
-        perk_ui_name="perk_steady_shot_name_3"
+        perk_name="Master Marksman"
+        perk_ui_desc="perk_marksman_desc_3"
+        perk_ui_name="perk_marksman_name_3"
         skill_selector="18"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Street Fighter -->
+      <!-- Street Brawler -->
       <row icon_id="dodger"
         level="2"
         metaperk_id=""
@@ -578,68 +372,16 @@
         stat_selector=""
         ui_priority="0"
         visibility="2" />
-      <!-- Thickblooded I -->
-      <row icon_id="thickblooded"
-        level="3"
-        metaperk_id=""
-        parent_id=""
-        perk_id="c85ac0b2-c7b9-49d1-9c82-267d8127fd33"
-        perk_name="Thickblooded"
-        perk_ui_desc="perk_thickblooded_desc"
-        perk_ui_name="perk_thickblooded_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Thickblooded II -->
-      <row icon_id="thickblooded"
-        level="12"
-        metaperk_id=""
-        parent_id="c85ac0b2-c7b9-49d1-9c82-267d8127fd33"
-        perk_id="a2609177-1e33-45e2-859c-ccf8e744f2e0"
-        perk_name="Thickblooded2"
-        perk_ui_desc="perk_thickblooded2_desc"
-        perk_ui_name="perk_thickblooded2_name"
-        skill_selector=""
-        stat_selector="2"
-        ui_priority="0"
-        visibility="2" />
-      <!-- Venomous Blade I -->
-      <row icon_id="venomous_blade"
-        level="5"
-        metaperk_id=""
-        parent_id=""
-        perk_id="6b3f9cde-eb05-4072-9875-0853c85dc4a6"
-        perk_name="Venomous blade"
-        perk_ui_desc="perk_venomous_blade_desc"
-        perk_ui_name="perk_venomous_blade_name"
-        skill_selector="6"
-        stat_selector=""
-        ui_priority="0"
-        visibility="2" />
-      <!-- Venomous Blade II -->
-      <row icon_id="venomous_blade"
-        level="10"
-        metaperk_id=""
-        parent_id="6b3f9cde-eb05-4072-9875-0853c85dc4a6"
-        perk_id="23c0d750-d817-456a-b759-882b1abd3c4c"
-        perk_name="Venomous blade 2"
-        perk_ui_desc="perk_venomous_blade2_desc"
-        perk_ui_name="perk_venomous_blade2_name"
-        skill_selector="6"
-        stat_selector=""
-        ui_priority="0"
-        visibility="2" />
       <!-- Veteran -->
       <row icon_id="blacksmiths_son"
         level="12"
         metaperk_id=""
         parent_id=""
         perk_id="010b08e4-5346-402c-a7cb-a084d624b62e"
-        perk_name="Veteran"
+        perk_name="War Veteran"
         perk_ui_desc="perk_proficiency_desc"
         perk_ui_name="perk_proficiency_name"
-        skill_selector="18"
+        skill_selector="2"
         stat_selector=""
         ui_priority="0"
         visibility="2" />
@@ -781,7 +523,7 @@
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="3e45a6d5-f5e3-464e-858c-c63f3eb2a10c" perk_name="codex_gen_napoje" perk_ui_desc="" perk_ui_name="ui_codex_name_napoje" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="crouching_chameleon" level="5" metaperk_id="" parent_id="" perk_id="3e582720-4cc1-426f-88aa-015cd6e3ace7" perk_name="Crouching chameleon" perk_ui_desc="perk_crouching_chameleon_desc" perk_ui_name="perk_crouching_chameleon_name" skill_selector="0" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="3e69e852-2bb6-44c4-8e6a-be659a4ff496" perk_name="tutorial_horse" perk_ui_desc="" perk_ui_name="ui_tutorial_name_horse" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
-      <row icon_id="clinch_master" level="4" metaperk_id="" parent_id="" perk_id="3e76fac9-cdff-4fbe-b3d2-85dd0ca26fc5" perk_name="Clinch master" perk_ui_desc="perk_clinch_master_desc" perk_ui_name="perk_clinch_master_name" skill_selector="" stat_selector="0" ui_priority="0" visibility="2" />
+      <!-- <row icon_id="clinch_master" level="4" metaperk_id="" parent_id="" perk_id="3e76fac9-cdff-4fbe-b3d2-85dd0ca26fc5" perk_name="Clinch master" perk_ui_desc="perk_clinch_master_desc" perk_ui_name="perk_clinch_master_name" skill_selector="" stat_selector="0" ui_priority="0" visibility="2" /> -->
       <row icon_id="pomelstrike_shortsword" level="3" metaperk_id="" parent_id="" perk_id="3e87c467-681d-48b5-9a8c-485443adcd42" perk_name="Combo srt 03 pommelstrike shs META" perk_ui_desc="perk_w_short_comb3_desc" perk_ui_name="perk_w_short_comb3" skill_selector="16" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="4029a057-492c-4b6c-9a47-1616bc658f81" perk_name="Player" perk_ui_desc="" perk_ui_name="" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="7959e9ed-f4a9-4c6b-9227-b90195f59d2e" perk_id="41724884-caef-40d0-bccd-5d1f985b179c" perk_name="codex_char_vilem_z_talmberka" perk_ui_desc="" perk_ui_name="ui_codex_name_vilem_z_talmberka" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
@@ -798,7 +540,7 @@
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="48136e07-2fe8-47ae-af70-e00102a8b0b9" perk_name="codex_gen_taboreni" perk_ui_desc="" perk_ui_name="ui_codex_name_teboreni" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="49a73b4e-d0b3-4c2e-91df-f82db5a2f4bd" perk_name="codex_gen_klasterni_hierar" perk_ui_desc="" perk_ui_name="ui_codex_name_klaster_hier" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="troubadour" level="8" metaperk_id="" parent_id="" perk_id="4b1183ba-4a5d-4a8b-9d32-c6a2146136d0" perk_name="Troubadour" perk_ui_desc="perk_troubadour_desc" perk_ui_name="perk_troubadour_name" skill_selector="" stat_selector="3" ui_priority="0" visibility="2" />
-      <row icon_id="heavy_swing" level="8" metaperk_id="" parent_id="" perk_id="4b54447c-d283-4338-b433-6153969612fc" perk_name="Heavy swing" perk_ui_desc="perk_heavy_swing_desc" perk_ui_name="perk_heavy_swing_name" skill_selector="" stat_selector="0" ui_priority="0" visibility="2" />
+      <!-- <row icon_id="heavy_swing" level="8" metaperk_id="" parent_id="" perk_id="4b54447c-d283-4338-b433-6153969612fc" perk_name="Heavy swing" perk_ui_desc="perk_heavy_swing_desc" perk_ui_name="perk_heavy_swing_name" skill_selector="" stat_selector="0" ui_priority="0" visibility="2" /> -->
       <row icon_id="wanderer" level="2" metaperk_id="" parent_id="" perk_id="4bdfea61-94ba-4f8c-bba7-9ad5a9b864ec" perk_name="Wanderer" perk_ui_desc="perk_wanderer_desc" perk_ui_name="perk_wanderer_name" skill_selector="" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="4c7fcec4-0daf-47f6-8473-03d13ee5087a" perk_name="codex_gen_crime" perk_ui_desc="" perk_ui_name="ui_codex_name_crime" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="lucky_thief" level="12" metaperk_id="" parent_id="" perk_id="4c895db7-088e-4456-a61a-39bce0407e55" perk_name="Lucky Thief" perk_ui_desc="perk_lock_lucky_desc" perk_ui_name="perk_lock_lucky_name" skill_selector="4" stat_selector="" ui_priority="0" visibility="2" />
@@ -993,7 +735,7 @@
       <row icon_id="salty" level="10" metaperk_id="" parent_id="" perk_id="ae1e2b5b-a4c0-4cdc-8681-6ddaf6ea285b" perk_name="Salty" perk_ui_desc="perk_salty_desc" perk_ui_name="perk_salty_name" skill_selector="14" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="pommel_strike" level="10" metaperk_id="" parent_id="" perk_id="ae52cf70-aa76-41b6-b244-c7a501b9a15e" perk_name="Combo lsw 02 punch throw" perk_ui_desc="perk_w_ls_combo02_desc" perk_ui_name="perk_w_ls_combo02_name" skill_selector="16" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="" level="" metaperk_id="" parent_id="e3d3f5b8-0772-493a-9f43-33270f9f533c" perk_id="aed06953-239b-4157-a15f-5be46e4eaaac" perk_name="codex_char_clement" perk_ui_desc="" perk_ui_name="ui_codex_name_clement" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
-      <row icon_id="forte" level="4" metaperk_id="" parent_id="" perk_id="afbbe0d9-c1a1-40de-9c93-9cecc3dd181d" perk_name="weapon_cruncher" perk_ui_desc="perk_weapon_cruncher_desc" perk_ui_name="perk_weapon_cruncher_name" skill_selector="15" stat_selector="" ui_priority="0" visibility="2" />
+      <!-- <row icon_id="forte" level="4" metaperk_id="" parent_id="" perk_id="afbbe0d9-c1a1-40de-9c93-9cecc3dd181d" perk_name="weapon_cruncher" perk_ui_desc="perk_weapon_cruncher_desc" perk_ui_name="perk_weapon_cruncher_name" skill_selector="15" stat_selector="" ui_priority="0" visibility="2" /> -->
       <row icon_id="" level="" metaperk_id="4b1183ba-4a5d-4a8b-9d32-c6a2146136d0" parent_id="" perk_id="b115b0cf-8b5f-4cf9-a2c1-84bcee4103d1" perk_name="Troubadour - buff" perk_ui_desc="" perk_ui_name="" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="b2af4100-e823-4958-93bc-bb24bcd3c8ae" perk_name="codex_char_ruprecht" perk_ui_desc="" perk_ui_name="ui_codex_name_ruprecht" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="b3890081-841f-492f-8bdf-b3ae40f07694" perk_name="codex_soc_butcher" perk_ui_desc="" perk_ui_name="ui_codex_name_butcher" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />

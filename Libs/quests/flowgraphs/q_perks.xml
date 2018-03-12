@@ -17,12 +17,28 @@
       <Inputs In="" Tracked="" Name="perk_CumansDoom" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
-    <!-- RR -->
+    <!-- RR START OBJECTIVES-->
+    <!-- manslayer -->
     <Node Id="14" Class="Quest:Objective" pos="1360,760,0">
       <Inputs In="" Tracked="" Name="perk_manSlayer" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
     </Node>
-    <!-- RR -->
+    <!-- arms dealer -->
+    <Node Id="12" Class="Quest:Objective" pos="1360,760,0">
+      <Inputs In="" Tracked="" Name="perk_armsDealer" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Outputs Out="" />
+    </Node>
+    <!-- politician -->
+    <Node Id="11" Class="Quest:Objective" pos="1360,760,0">
+      <Inputs In="" Tracked="" Name="perk_politician" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Outputs Out="" />
+    </Node>
+    <!-- white death -->
+    <Node Id="10" Class="Quest:Objective" pos="1360,760,0">
+      <Inputs In="" Tracked="" Name="perk_whiteDeath" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
+      <Outputs Out="" />
+    </Node>
+    <!-- RR END OBJECTIVES -->
     <Node Id="17" Class="Quest:Objective" pos="1840,0,0">
       <Inputs In="" Tracked="" Name="perk_AllUnlocked" Exp="0" IsHidden="0" IsExclusive="0" Timer="-1" Autocomplete="-1" Condition="1" />
       <Outputs Out="" />
@@ -39,12 +55,28 @@
       <Outputs Out="" />
       <Inputs StatisticId="18" />
     </Node>
-    <!-- RR -->
+    <!-- RR START STAT -->
+    <!-- manslayer -->
     <Node Id="16" pos="420,620,0" Class="Quest:AssetStatistic">
       <Outputs Out="" />
       <Inputs StatisticId="30" />
     </Node>
-    <!-- RR -->
+    <!-- arms dealer -->
+    <Node Id="17" pos="420,620,0" Class="Quest:AssetStatistic">
+      <Outputs Out="" />
+      <Inputs StatisticId="33" />
+    </Node>
+    <!-- politician -->
+    <Node Id="18" pos="420,620,0" Class="Quest:AssetStatistic">
+      <Outputs Out="" />
+      <Inputs StatisticId="53" />
+    </Node>
+    <!-- white death -->
+    <Node Id="19" pos="420,620,0" Class="Quest:AssetStatistic">
+      <Outputs Out="" />
+      <Inputs StatisticId="73" />
+    </Node>
+    <!-- RR END STAT -->
     <Node Id="23" pos="400,1020,0" Class="Quest:AssetStatistic">
       <Outputs Out="" />
       <Inputs StatisticId="95" />
@@ -57,12 +89,28 @@
       <Inputs Asset="" TrackCnt="33" OnMap="0" User="0" MapAsset="0" />
       <Outputs Objective="" />
     </Node>
-    <!-- RR -->
+    <!-- RR START TRACK -->
+    <!-- manslayer -->
     <Node Id="22" Class="Quest:AssetTracked" pos="760,420,0">
-      <Inputs Asset="" TrackCnt="1" OnMap="0" User="0" MapAsset="0" />
+      <Inputs Asset="" TrackCnt="100" OnMap="0" User="0" MapAsset="0" />
       <Outputs Objective="" />
     </Node>
-    <!-- RR -->
+    <!-- arms dealer -->
+    <Node Id="40" Class="Quest:AssetTracked" pos="760,420,0">
+      <Inputs Asset="" TrackCnt="77" OnMap="0" User="0" MapAsset="0" />
+      <Outputs Objective="" />
+    </Node>
+    <!-- politician -->
+    <Node Id="41" Class="Quest:AssetTracked" pos="760,420,0">
+      <Inputs Asset="" TrackCnt="66" OnMap="0" User="0" MapAsset="0" />
+      <Outputs Objective="" />
+    </Node>
+    <!-- white death -->
+    <Node Id="42" Class="Quest:AssetTracked" pos="760,420,0">
+      <Inputs Asset="" TrackCnt="50" OnMap="0" User="0" MapAsset="0" />
+      <Outputs Objective="" />
+    </Node>
+    <!-- RR END TRACK -->
     <Node Id="26" Class="Quest:AssetTracked" pos="760,1020,0">
       <Inputs Asset="" TrackCnt="100" OnMap="0" User="0" MapAsset="0" />
       <Outputs Objective="" />
@@ -79,40 +127,86 @@
       <Outputs Objective="" />
       <Inputs SoulId="00000000-0000-0000-0000-000000000000" PerkId="0dd2c3df-9f61-4743-b5ca-8c3ac39fb57d" UnlockOnly="0" Immediately="1" />
     </Node>
-    <!-- RR -->
+    <!-- RR START REWARD -->
+    <!-- manslayer -->
     <Node Id="30" Class="Quest:RewardPerk" pos="760,580,0">
       <Outputs Objective="" />
       <Inputs SoulId="00000000-0000-0000-0000-000000000000" PerkId="a66149e3-71a7-440a-b287-60c23efbe6a8" UnlockOnly="0" Immediately="1" />
     </Node>
-    <!-- RR -->
+    <!-- arms dealer -->
+    <Node Id="31" Class="Quest:RewardPerk" pos="760,580,0">
+      <Outputs Objective="" />
+      <Inputs SoulId="00000000-0000-0000-0000-000000000000" PerkId="35168285-1dcb-4301-88bc-f4888cdb79ec" UnlockOnly="0" Immediately="1" />
+    </Node>
+    <!-- politician -->
+    <Node Id="32" Class="Quest:RewardPerk" pos="760,580,0">
+      <Outputs Objective="" />
+      <Inputs SoulId="00000000-0000-0000-0000-000000000000" PerkId="a66149e3-71a7-440a-b287-60c23efbe6a7" UnlockOnly="0" Immediately="1" />
+    </Node>
+    <!-- white death -->
+    <Node Id="33" Class="Quest:RewardPerk" pos="760,580,0">
+      <Outputs Objective="" />
+      <Inputs SoulId="00000000-0000-0000-0000-000000000000" PerkId="a66149e3-71a7-440a-b287-60c23efce7a3" UnlockOnly="0" Immediately="1" />
+    </Node>
+    <!-- RR END REWARD -->
   </Nodes>
   <Edges>
     <Edge nodeIn="4" nodeOut="24" portIn="Tracked" portOut="Objective" enabled="1" />
     <Edge nodeIn="24" nodeOut="6" portIn="Asset" portOut="Out" enabled="1" />
     <Edge nodeIn="13" nodeOut="25" portIn="Tracked" portOut="Objective" enabled="1" />
     <Edge nodeIn="25" nodeOut="15" portIn="Asset" portOut="Out" enabled="1" />
-
+    <!-- manslayer -->
     <Edge nodeIn="14" nodeOut="22" portIn="Tracked" portOut="Objective" enabled="1" />
     <Edge nodeIn="22" nodeOut="16" portIn="Asset" portOut="Out" enabled="1" />
+    <!-- arms dealer -->
+    <Edge nodeIn="12" nodeOut="40" portIn="Tracked" portOut="Objective" enabled="1" />
+    <Edge nodeIn="40" nodeOut="17" portIn="Asset" portOut="Out" enabled="1" />
+    <!-- politician -->
+    <Edge nodeIn="11" nodeOut="41" portIn="Tracked" portOut="Objective" enabled="1" />
+    <Edge nodeIn="41" nodeOut="18" portIn="Asset" portOut="Out" enabled="1" />
+    <!-- white death -->
+    <Edge nodeIn="10" nodeOut="42" portIn="Tracked" portOut="Objective" enabled="1" />
+    <Edge nodeIn="42" nodeOut="19" portIn="Asset" portOut="Out" enabled="1" />
 
     <Edge nodeIn="21" nodeOut="26" portIn="Tracked" portOut="Objective" enabled="1" />
     <Edge nodeIn="26" nodeOut="23" portIn="Asset" portOut="Out" enabled="1" />
     <Edge nodeIn="4" nodeOut="27" portIn="Reward" portOut="Objective" enabled="1" />
     <Edge nodeIn="13" nodeOut="28" portIn="Reward" portOut="Objective" enabled="1" />
 
+    <!-- manslayer -->
     <Edge nodeIn="14" nodeOut="30" portIn="Reward" portOut="Objective" enabled="1" />
+    <!-- arms dealer -->
+    <Edge nodeIn="12" nodeOut="31" portIn="Reward" portOut="Objective" enabled="1" />
+    <!-- politician -->
+    <Edge nodeIn="11" nodeOut="32" portIn="Reward" portOut="Objective" enabled="1" />
+    <!-- white death -->
+    <Edge nodeIn="10" nodeOut="33" portIn="Reward" portOut="Objective" enabled="1" />
 
     <Edge nodeIn="21" nodeOut="29" portIn="Reward" portOut="Objective" enabled="1" />
     <Edge nodeIn="4" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
     <Edge nodeIn="13" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
 
+    <!-- manslayer -->
     <Edge nodeIn="14" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
+    <!-- arms dealer -->
+    <Edge nodeIn="12" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
+    <!-- politician -->
+    <Edge nodeIn="11" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
+    <!-- white death -->
+    <Edge nodeIn="10" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
 
     <Edge nodeIn="21" nodeOut="2" portIn="In" portOut="Out" enabled="1" />
     <Edge nodeIn="17" nodeOut="4" portIn="In" portOut="Out" enabled="1" />
     <Edge nodeIn="17" nodeOut="13" portIn="In" portOut="Out" enabled="1" />
 
+    <!-- manslayer -->
     <Edge nodeIn="17" nodeOut="14" portIn="In" portOut="Out" enabled="1" />
+    <!-- manslayer -->
+    <Edge nodeIn="17" nodeOut="12" portIn="In" portOut="Out" enabled="1" />
+    <!-- manslayer -->
+    <Edge nodeIn="17" nodeOut="11" portIn="In" portOut="Out" enabled="1" />
+    <!-- manslayer -->
+    <Edge nodeIn="17" nodeOut="10" portIn="In" portOut="Out" enabled="1" />
 
     <Edge nodeIn="3" nodeOut="17" portIn="In" portOut="Out" enabled="1" />
     <Edge nodeIn="17" nodeOut="21" portIn="In" portOut="Out" enabled="1" />

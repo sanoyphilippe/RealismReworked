@@ -13,7 +13,14 @@
     </header>
     <rows>
       <!-- RealismReworked -->
-      <row count="1" map_asset_id="" objective_id="14" on_map="False" pos="760,420,0" quest_asset_id="16" quest_id="60537812" user_id="0" />
+      <!-- manslayer -->
+      <row count="100" map_asset_id="" objective_id="14" on_map="False" pos="760,420,0" quest_asset_id="16" quest_id="60537812" user_id="0" />
+      <!-- arms dealer -->
+      <row count="77" map_asset_id="" objective_id="12" on_map="False" pos="760,420,0" quest_asset_id="17" quest_id="60537812" user_id="0" />
+      <!-- politician -->
+      <row count="66" map_asset_id="" objective_id="11" on_map="False" pos="760,420,0" quest_asset_id="18" quest_id="60537812" user_id="0" />
+      <!-- white death -->
+      <row count="50" map_asset_id="" objective_id="10" on_map="False" pos="760,420,0" quest_asset_id="19" quest_id="60537812" user_id="0" />
       <!-- RealismReworked -->
       <row count="1" map_asset_id="" objective_id="4" on_map="True" pos="-150,-250,0" quest_asset_id="6" quest_id="668347" user_id="7" />
       <row count="0" map_asset_id="" objective_id="4" on_map="True" pos="-1030,-130,0" quest_asset_id="21" quest_id="6083011" user_id="101" />

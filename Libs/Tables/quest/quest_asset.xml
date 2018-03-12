@@ -9,7 +9,14 @@
     </header>
     <rows>
       <!-- RealismReworked -->
+      <!-- manslayer -->
       <row pos="420,620,0" quest_asset_id="16" quest_id="60537812" type="4" />
+      <!-- arms dealer -->
+      <row pos="420,620,0" quest_asset_id="17" quest_id="60537812" type="4" />
+      <!-- politician -->
+      <row pos="420,620,0" quest_asset_id="18" quest_id="60537812" type="4" />
+      <!-- white death -->
+      <row pos="420,620,0" quest_asset_id="19" quest_id="60537812" type="4" />
       <!-- RealismReworked -->
       <row pos="580,-280,0" quest_asset_id="4" quest_id="33645489" type="1" />
       <row pos="-1150,-1070,0" quest_asset_id="4" quest_id="39005493" type="1" />

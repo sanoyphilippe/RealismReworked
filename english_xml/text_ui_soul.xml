@@ -114,7 +114,7 @@
 <Row><Cell>buff_injured_torso_desc</Cell><Cell>Your torso is injured. This injury can result in bleeding if you are not careful.</Cell><Cell>Your torso is injured. This injury can result in bleeding if you're not careful.</Cell></Row>
 <Row><Cell>buff_instant_cure</Cell><Cell>Heals you immediately without delay.</Cell><Cell>Heals you immediately without delay.</Cell></Row>
 <Row><Cell>buff_instant_cure_nm</Cell><Cell>Imminent cure</Cell><Cell>Imminent Cure</Cell></Row>
-<Row><Cell>buff_intimidating_posture_desc</Cell><Cell>Your armour is one third more frightening.</Cell><Cell>Your armour is one third more frightening.</Cell></Row>
+<!-- <Row><Cell>buff_intimidating_posture_desc</Cell><Cell>Your armour is one third more frightening.</Cell><Cell>Your armour is one third more frightening.</Cell></Row> -->
 <Row><Cell>buff_jail_desc</Cell><Cell>You are currently in jail and the guards are feeding you and keeping you alive.</Cell><Cell>You are currently in jail and the guards are feeding you and keeping you alive.</Cell></Row>
 <Row><Cell>buff_jail_recovery</Cell><Cell>Released Prisoner</Cell><Cell>Released Prisoner</Cell></Row>
 <Row><Cell>buff_jail_recovery_desc</Cell><Cell>Your stay in jail has left you malnourished and in an overall weak condition. Your Strength, Agility and Vitality are lowered. The longer you've been in jail, the worse the penalties.</Cell><Cell>Your stay in jail has left you malnourished and in an overall weak condition. Your Strength, Agility and Vitality are lowered. The longer you've been in jail, the worse the penalties.</Cell></Row>
@@ -681,8 +681,8 @@
 <Row><Cell>perk_butcher_name</Cell><Cell>Butcher</Cell><Cell>Butcher</Cell></Row>
 <Row><Cell>perk_cartographer_desc</Cell><Cell>The whole map is revealed to you, showing all settlements, hunting spots and caves.</Cell><Cell>The whole map is revealed to you, showing all settlements, hunting spots and caves.</Cell></Row>
 <Row><Cell>perk_cartographer_name</Cell><Cell>Cartographer</Cell><Cell>Cartographer</Cell></Row>
-<Row><Cell>perk_clinch_master_desc</Cell><Cell>Gives you a 40% higher chance of overpowering your opponent in a clinch.</Cell><Cell>Gives you a 40% higher chance of overpowering your opponent in a clinch.</Cell></Row>
-<Row><Cell>perk_clinch_master_name</Cell><Cell>Clinch master</Cell><Cell>Clinch Master</Cell></Row>
+<!-- <Row><Cell>perk_clinch_master_desc</Cell><Cell>Gives you a 40% higher chance of overpowering your opponent in a clinch.</Cell><Cell>Gives you a 40% higher chance of overpowering your opponent in a clinch.</Cell></Row> -->
+<!-- <Row><Cell>perk_clinch_master_name</Cell><Cell>Clinch master</Cell><Cell>Clinch Master</Cell></Row> -->
 <Row><Cell>perk_colleague_desc</Cell><Cell>All books are cheaper in shops.</Cell><Cell>All books are cheaper in shops.</Cell></Row>
 <Row><Cell>perk_colleague_name</Cell><Cell>Colleague</Cell><Cell>Colleague</Cell></Row>
 <Row><Cell>perk_comrade_desc</Cell><Cell>Increases your chance of pickpocketing someone with the same Charisma level as you have. Such people are usually dressed similarly to you.</Cell><Cell>Increases your chance of pickpocketing someone with the same Charisma level as you have. Such people are usually dressed similarly to you.</Cell></Row>
@@ -693,7 +693,7 @@
 <Row><Cell>perk_crouching_chameleon_name</Cell><Cell>Crouching chameleon</Cell><Cell>Crouching Chameleon</Cell></Row>
 <Row><Cell>perk_crowd_control_desc</Cell><Cell>Reduces your chance of being discovered when there's a lot of people around. </Cell><Cell>Reduces your chance of being discovered when there's a lot of people around. </Cell></Row>
 <Row><Cell>perk_crowd_control_name</Cell><Cell>Crowd control</Cell><Cell>Crowd Control</Cell></Row>
-<Row><Cell>perk_cuman_in_killer</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be twice as effective.</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be twice as effective.</Cell></Row>
+<!-- <Row><Cell>perk_cuman_in_killer</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be twice as effective.</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be twice as effective.</Cell></Row> -->
 <Row><Cell>perk_cuman_nm_killer</Cell><Cell>Cuman Killer</Cell><Cell>Cuman Killer</Cell></Row>
 <Row><Cell>perk_cushion_desc</Cell><Cell>If you're sitting comfortably, you get a double reading bonus.</Cell><Cell>If you're sitting comfortably, you get a double reading bonus.</Cell></Row>
 <Row><Cell>perk_cushion_name</Cell><Cell>Cushion</Cell><Cell>Cushion</Cell></Row>
@@ -777,7 +777,7 @@
 <Row><Cell>perk_insomniac_desc</Cell><Cell>Increases the time you can do without sleep. Your rest level falls one quarter more slowly.</Cell><Cell>Increases the time you can do without sleep. Your Energy level falls one quarter more slowly.</Cell></Row>
 <Row><Cell>perk_insomniac_name</Cell><Cell>Insomniac</Cell><Cell>Insomniac</Cell></Row>
 <Row><Cell>perk_intimidating_posture</Cell><Cell>Golem</Cell><Cell>Golem</Cell></Row>
-<Row><Cell>perk_intimidating_posture_desc</Cell><Cell>Your armour is one third more frightening than usual.</Cell><Cell>Your armour is one third more frightening than usual.</Cell></Row>
+<!-- <Row><Cell>perk_intimidating_posture_desc</Cell><Cell>Your armour is one third more frightening than usual.</Cell><Cell>Your armour is one third more frightening than usual.</Cell></Row> -->
 <Row><Cell>perk_item_expert_1_desc</Cell><Cell>Reveals stats for half the items in a robbery victim's purse.</Cell><Cell>Reveals stats for half the items in a pickpocketing victim's purse.</Cell></Row>
 <Row><Cell>perk_item_expert_1_name</Cell><Cell>Item expert I</Cell><Cell>Item Expert I</Cell></Row>
 <Row><Cell>perk_item_expert_2_desc</Cell><Cell>Reveals the stats for all items in a robbery victim's purse.</Cell><Cell>Reveals the stats for all items in a pickpocketing victim's purse.</Cell></Row>
@@ -813,7 +813,7 @@
 <Row><Cell>perk_lock_lucky_desc</Cell><Cell>If your lockpick breaks, you'll have a 10% chance of opening the lock instantly.</Cell><Cell>If your lockpick breaks, you'll have a 10% chance of opening the lock instantly.</Cell></Row>
 <Row><Cell>perk_lock_lucky_name</Cell><Cell>Lucky Thief</Cell><Cell>Lucky Thief</Cell></Row>
 <Row><Cell>perk_lockpickers_knack</Cell><Cell>The Lock Picker's Knack</Cell><Cell>Lockpicker's Knack</Cell></Row>
-<Row><Cell>perk_loose_tongue_desc</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell></Row>
+<!-- <Row><Cell>perk_loose_tongue_desc</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell></Row> -->
 <Row><Cell>perk_loose_tongue_name</Cell><Cell>Loose tongue</Cell><Cell>Loose Tongue</Cell></Row>
 <Row><Cell>perk_lowborn_desc</Cell><Cell>Your Speech stat will rise by +3 when you talk to commoners. You can't have the perk Highborn at the same time.</Cell><Cell>Your Speech stat will rise by +3 when you talk to commoners. You can't have the perk Highborn at the same time.</Cell></Row>
 <Row><Cell>perk_lowborn_name</Cell><Cell>Lowborn</Cell><Cell>Lowborn</Cell></Row>
@@ -891,12 +891,12 @@
 <Row><Cell>perk_salty_name</Cell><Cell>Salty</Cell><Cell>Salty</Cell></Row>
 <Row><Cell>perk_savage_desc</Cell><Cell>In the wilds you have a +1 bonus on Strength, Agility, Vitality and Speech.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Burgher perk.</Cell><Cell>In the wilds you have a +1 bonus on Strength, Agility, Vitality and Speech.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Burgher perk.</Cell></Row>
 <Row><Cell>perk_savage_name</Cell><Cell>Savage</Cell><Cell>Savage</Cell></Row>
-<Row><Cell>perk_scout_1_desc</Cell><Cell>Slightly increases the range of Fast Travel and also the chances of Evading by 10%.</Cell><Cell>Slightly increases the sight distance of Fast Travel and also the chances of Evading by 10%.</Cell></Row>
+<!-- <Row><Cell>perk_scout_1_desc</Cell><Cell>Slightly increases the range of Fast Travel and also the chances of Evading by 10%.</Cell><Cell>Slightly increases the sight distance of Fast Travel and also the chances of Evading by 10%.</Cell></Row>
 <Row><Cell>perk_scout_1_name</Cell><Cell>Scout I</Cell><Cell>Scout I</Cell></Row>
 <Row><Cell>perk_scout_2_desc</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by 20%.</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by another 10%.</Cell></Row>
-<Row><Cell>perk_scout_2_name</Cell><Cell>Scout II</Cell><Cell>Scout II</Cell></Row>
-<Row><Cell>perk_scout_3_desc</Cell><Cell>Greatly increases the sight distance of Fast Travel and also the chances of evading by 30%.</Cell><Cell>Greatly increases the sight distance of Fast Travel and also increases the chances of evading by another 10%.</Cell></Row>
-<Row><Cell>perk_scout_3_name</Cell><Cell>Scout III</Cell><Cell>Scout III</Cell></Row>
+<Row><Cell>perk_scout_2_name</Cell><Cell>Scout II</Cell><Cell>Scout II</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_3_desc</Cell><Cell>Greatly increases the sight distance of Fast Travel and also the chances of evading by 30%.</Cell><Cell>Greatly increases the sight distance of Fast Travel and also increases the chances of evading by another 10%.</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_3_name</Cell><Cell>Scout III</Cell><Cell>Scout III</Cell></Row> -->
 <Row><Cell>perk_secret_pockets_desc</Cell><Cell>When looting corpses, you have a chance of finding more money.</Cell><Cell>When looting corpses, you'll find more money.</Cell></Row>
 <Row><Cell>perk_secret_pockets_name</Cell><Cell>Secret pockets</Cell><Cell>Secret Pockets</Cell></Row>
 <Row><Cell>perk_serration_desc</Cell><Cell>A sword you've sharpened yourself has a 15% greater chance of causing bleeding.</Cell><Cell>A weapon you've sharpened yourself has a 15% greater chance of causing bleeding.</Cell></Row>
@@ -928,7 +928,7 @@
 <Row><Cell>perk_strength_name</Cell><Cell>Brute</Cell><Cell>Brute</Cell></Row>
 <Row><Cell>perk_strong_thighs_desc</Cell><Cell>Increases your chances of staying in the saddle if an opponent tries to dehorse you.</Cell><Cell>Increases your chances of staying in the saddle if an opponent tries to unhorse you.</Cell></Row>
 <Row><Cell>perk_strong_thighs_name</Cell><Cell>Strong thighs</Cell><Cell>Strong Thighs</Cell></Row>
-<Row><Cell>perk_stronghold_desc</Cell><Cell>Blocking an opponent's strikes with your shield will will cost you 30% less stamina.</Cell><Cell>Blocking an opponent's strikes with your shield will cost you 30% less stamina.</Cell></Row>
+<!-- <Row><Cell>perk_stronghold_desc</Cell><Cell>Blocking an opponent's strikes with your shield will will cost you 30% less stamina.</Cell><Cell>Blocking an opponent's strikes with your shield will cost you 30% less stamina.</Cell></Row> -->
 <Row><Cell>perk_stronghold_name</Cell><Cell>Stronghold </Cell><Cell>Stronghold </Cell></Row>
 <Row><Cell>perk_supremely_attentive_desc</Cell><Cell>It doesn't matter to you where you read, you get a learning bonus anywhere you read.</Cell><Cell>It doesn't matter to you where you read, you get a learning bonus anywhere you read.</Cell></Row>
 <Row><Cell>perk_supremely_attentive_name</Cell><Cell>Supremely attentive </Cell><Cell>Swot</Cell></Row>
@@ -997,7 +997,7 @@
 <Row><Cell>perk_warhorse_name</Cell><Cell>Warhorse</Cell><Cell>Warhorse</Cell></Row>
 <Row><Cell>perk_water_of_life_desc</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you 50% more.</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you 50% more.</Cell></Row>
 <Row><Cell>perk_water_of_life_name</Cell><Cell>Water of life</Cell><Cell>Water of Life</Cell></Row>
-<Row><Cell>perk_weapon_cruncher_desc</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell></Row>
+<!-- <Row><Cell>perk_weapon_cruncher_desc</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell></Row> -->
 <Row><Cell>perk_weapon_cruncher_name</Cell><Cell>Weapon-cruncher</Cell><Cell>Weapon-Cruncher</Cell></Row>
 <Row><Cell>perk_well_maintained_desc</Cell><Cell>The attire you have on will suffer 15% less wear and tear.</Cell><Cell>The attire you have on will suffer 15% less wear and tear.</Cell></Row>
 <Row><Cell>perk_well_maintained_name</Cell><Cell>Well maintained</Cell><Cell>Well Groomed</Cell></Row>

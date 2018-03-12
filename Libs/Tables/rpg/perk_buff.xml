@@ -8,34 +8,28 @@
     <rows>
       <!-- RealimsReworked - manslayer -->
       <row buff_id="658deed5-9498-41a0-b57f-8e67c3f4f25a" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a8" />
-      <!-- RealimsReworked - manslayer -->
 
-      <!-- Drunken Brawler -->
-      <row buff_id="44d83d23-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d3-5346-402c-a7cb-a084d624b62e" />
+      <!-- Arms dealer -->
+      <row buff_id="22fa0e64-b33c-4dd9-8c61-7f73b4bfb03d" perk_id="35168285-1dcb-4301-88bc-f4888cdb79ec" />
 
-      <!-- Grappler I -->
+      <!-- Manslayer -->
+      <row buff_id="658deed5-9498-41a0-b57f-8e67c3f4f25a" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a8" />
+
+      <!-- White Death -->
+      <row buff_id="658deed5-9498-41a0-b57f-8e67c2f4f25d" perk_id="a66149e3-71a7-440a-b287-60c23efce7a3" />
+
+      <!-- Politician -->
+      <row buff_id="3e0867d9-cdb1-469f-a59e-e05a377b2b6c" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a7" />
+      <!-- RealimsReworked -->
+
+      <!-- Amateur Grappler -->
       <row buff_id="44d83d25-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d5-5346-402c-a7cb-a084d624b62e" />
 
-      <!-- Grappler II -->
+      <!-- Adept Grappler -->
       <row buff_id="8dc445d5-cb2b-43eb-92fb-fe929806a86e" perk_id="3e76fac9-cdff-4fbe-b3d2-85dd0ca26fc5" />
 
-      <!-- Grappler III -->
+      <!-- Master Grappler -->
       <row buff_id="1d9ee3f8-7cd8-4798-a03d-576b1bf8d30a" perk_id="ebb49c08-8792-40fd-ac15-1210aac60d88" />
-
-      <!-- Fast Striker I -->
-      <row buff_id="7a08825e-053d-4e18-a75d-55b60db1c4c8" perk_id="97aac44f-2789-4030-8438-a8421c7ae5e2" />
-
-      <!-- Fast Striker II -->
-      <row buff_id="d5e5eced-b170-4b06-a3cf-a9348d72072b" perk_id="32002d32-190f-4f99-a6ff-3b440543347c" />
-
-      <!-- Fast Striker III -->
-      <row buff_id="d5e5ecee-b170-4b06-a3cf-a9348d72072b" perk_id="32002d33-190f-4f99-a6ff-3b440543347c" />
-
-      <!-- Featherweight I -->
-      <row buff_id="44d83d12-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08c7-5346-402c-a7cb-a084d624b62e" />
-
-      <!-- Firm Grip II -->
-      <row buff_id="d17df55e-3ff2-45e6-9c4f-a9dc0f83a830" perk_id="4b876925-f960-4332-9b28-e9176a9eac09" />
 
       <!-- Headcracker I -->
       <row buff_id="bcb5d2df-5e75-4211-af98-6f93308d8928" perk_id="ff42b2ac-184d-44f7-b6a2-7a9b8ae87c45" />
@@ -46,17 +40,8 @@
       <!-- Headcracker III -->
       <row buff_id="91614c4f-b442-4dd4-bbcd-ae9f568c2b9a" perk_id="6a29492e-34e2-4d0a-a66b-85997ed6515a" />
 
-      <!-- Heavy Hands -->
+      <!-- Hard Hitter -->
       <row buff_id="44d83d22-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d2-5346-402c-a7cb-a084d624b62e" />
-
-      <!-- Heavy Swing I -->
-      <row buff_id="74213ddf-7a92-4a49-ae40-dca43e179197" perk_id="4b54447c-d283-4338-b433-6153969612fc" />
-
-      <!-- Heavy Swing II -->
-      <row buff_id="6d93207c-aaaa-406e-af1b-5e9990416f25" perk_id="8f7c618d-9b6e-4be8-95d4-72e3588ac452" />
-
-      <!-- Heavy Swing III -->
-      <row buff_id="228bd46a-5565-40fb-86ed-d61450cc2123" perk_id="49528c27-f4c1-4461-986d-cedeaccac029" />
 
       <!-- Highborn I -->
       <row buff_id="35c0fb6e-bb7e-4208-afd1-8c18ca1fb80f" perk_id="f19f542a-979a-4627-8d1c-9038f7dfc7be" />
@@ -79,58 +64,28 @@
       <!-- Lowborn II - Ruffian -->
       <row buff_id="380254c9-65fd-4037-a521-c0bebf76bf58" perk_id="7f8c781b-142d-4bca-a9ab-2ba11dc9dfd6" />
 
-      <!-- Marathon Man II -->
-      <row buff_id="4f63885e-fdd8-4648-8c2b-79dcf5516906" perk_id="736a7f7e-98a6-4b12-88c9-d15e2e76ac6b" />
-
-      <!-- Marathon Man III -->
-      <row buff_id="4f63885f-fdd8-4648-8c2b-79dcf5516906" perk_id="736a7f7d-98a6-4b12-88c9-d15e2e76ac6b" />
-
-      <!-- Natural Speed -->
+      <!-- Apex Performance -->
       <row buff_id="44d83d21-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d1-5346-402c-a7cb-a084d624b62e" />
 
-      <!-- Physical Fitness -->
+      <!-- Gladiator -->
       <row buff_id="44d83d27-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d7-5346-402c-a7cb-a084d624b62e" />
-
-      <!-- Revenant I -->
-      <row buff_id="854af3e0-abd9-4318-b9fb-559836c92d47" perk_id="170757df-5808-4ca4-b710-f646a823ed13" />
-
-      <!-- Revenant II -->
-      <row buff_id="7cf3df96-fbf1-4169-a72e-3d2e0f600d92" perk_id="f496c6ff-0ab8-4a2c-b8bd-3ed4f8555afb" />
-
-      <!-- Revenant III -->
-      <row buff_id="27c4cbce-9338-4fe9-83b8-327868d204c6" perk_id="236367a7-bc03-495c-80a9-2a6d59b7c72c" />
 
       <!-- Secret Pockets -->
       <row buff_id="567652f3-9a3d-4129-9cf7-7bcdaffdd406" perk_id="4dcedbb3-7173-4e28-bf9e-51bd9249fc85" />
 
-      <!-- Sprinter I -->
-      <row buff_id="3aab6e69-7a29-4c54-8f2a-db8f4ab7ebff" perk_id="c84a0e84-d342-4635-a3e0-acb915888582" />
-
-      <!-- Sprinter II -->
-      <row buff_id="ea00d8ce-651a-4fd0-b9b4-3f3ff0459a9c" perk_id="50df2711-d1a4-45ad-84c2-ab563ea032c4" />
-
-      <!-- Sprinter III -->
-      <row buff_id="db1febb4-bb4c-4e5e-822f-70ca15684104" perk_id="e9904b07-d1e2-4c27-aaa4-2f62d200de89" />
-
-      <!-- Steady Shot I -->
+      <!-- Novice Marksman -->
       <row buff_id="44d83d28-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d8-5346-402c-a7cb-a084d624b62e" />
 
-      <!-- Steady Shot II -->
+      <!-- Adept Marksman-->
       <row buff_id="44d83d29-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d9-5346-402c-a7cb-a084d624b62e" />
 
-      <!-- Steady Shot III -->
+      <!-- Master Marksman -->
       <row buff_id="44d83d30-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08e0-5346-402c-a7cb-a084d624b62e" />
 
-      <!-- Street Fighter -->
+      <!-- Street Brawler -->
       <row buff_id="44d83d20-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08d0-5346-402c-a7cb-a084d624b62e" />
 
-      <!-- Venomous Blade I -->
-      <row buff_id="fac2cea8-c014-4548-8d80-70f6b49c8f5b" perk_id="6b3f9cde-eb05-4072-9875-0853c85dc4a6" />
-
-      <!-- Venomous Blade II -->
-      <row buff_id="42d4e801-27b9-4130-9af5-11b50b283377" perk_id="23c0d750-d817-456a-b759-882b1abd3c4c" />
-
-      <!-- Veteran -->
+      <!-- War Veteran -->
       <row buff_id="44d83d34-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08e4-5346-402c-a7cb-a084d624b62e" />
       <!-- END -->
       <row buff_id="44d83d12-9709-4e54-9b7d-9b6bcfb630be" perk_id="010b08c7-5346-402c-a7cb-a084d624b62e" />

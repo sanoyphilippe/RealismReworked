@@ -17,7 +17,14 @@
     </header>
     <rows>
       <!-- RealismReworked -->
+      <!-- manslayer -->
       <row autocomplete_timeout="" autocomplete_timeout_str="-1" condition="1" experience_coef="0" expiration_timeout_str="-1" is_exclusive="False" is_hidden="False" objective_id="14" objective_name="perk_manSlayer" pos="1360,760,0" quest_id="60537812" time="0" />
+      <!-- arms dealer -->
+      <row autocomplete_timeout="" autocomplete_timeout_str="-1" condition="1" experience_coef="0" expiration_timeout_str="-1" is_exclusive="False" is_hidden="False" objective_id="12" objective_name="perk_armsDealer" pos="1360,760,0" quest_id="60537812" time="0" />
+      <!-- politician -->
+      <row autocomplete_timeout="" autocomplete_timeout_str="-1" condition="1" experience_coef="0" expiration_timeout_str="-1" is_exclusive="False" is_hidden="False" objective_id="11" objective_name="perk_politician" pos="1360,760,0" quest_id="60537812" time="0" />
+      <!-- white death -->
+      <row autocomplete_timeout="" autocomplete_timeout_str="-1" condition="1" experience_coef="0" expiration_timeout_str="-1" is_exclusive="False" is_hidden="False" objective_id="10" objective_name="perk_whiteDeath" pos="1360,760,0" quest_id="60537812" time="0" />
       <!-- RealismReworked -->
       <row autocomplete_timeout="" autocomplete_timeout_str="" condition="1" experience_coef="0" expiration_timeout_str="" is_exclusive="False" is_hidden="False" objective_id="4" objective_name="4" pos="229,-171,0" quest_id="655066" time="0" />
       <row autocomplete_timeout="" autocomplete_timeout_str="" condition="0" experience_coef="0" expiration_timeout_str="" is_exclusive="False" is_hidden="False" objective_id="4" objective_name="4" pos="80,-50,0" quest_id="668347" time="0" />

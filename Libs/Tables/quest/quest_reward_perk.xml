@@ -13,7 +13,14 @@
     </header>
     <rows>
       <!-- RealismReworked -->
+      <!-- manslayer -->
       <row is_immediate="True" objective_id="14" only_unlock="False" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a8" pos="760,580,0" quest_id="60537812" quest_reward_perk_id="30" soul_id="" />
+      <!-- arms dealer -->
+      <row is_immediate="True" objective_id="12" only_unlock="False" perk_id="35168285-1dcb-4301-88bc-f4888cdb79ec" pos="760,580,0" quest_id="60537812" quest_reward_perk_id="31" soul_id="" />
+      <!-- politician -->
+      <row is_immediate="True" objective_id="11" only_unlock="False" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a7" pos="760,580,0" quest_id="60537812" quest_reward_perk_id="32" soul_id="" />
+      <!-- white death -->
+      <row is_immediate="True" objective_id="10" only_unlock="False" perk_id="a66149e3-71a7-440a-b287-60c23efce7a3" pos="760,580,0" quest_id="60537812" quest_reward_perk_id="33" soul_id="" />
       <!-- RealismReworked -->
       <row is_immediate="True" objective_id="75" only_unlock="False" perk_id="0133008f-09cf-4b68-a434-ea7f7b0283b3" pos="-290,-1670,0" quest_id="11544573" quest_reward_perk_id="137" soul_id="" />
       <row is_immediate="True" objective_id="1453" only_unlock="False" perk_id="ad889d46-e087-4752-95d9-fa6652e8cab3" pos="-2570,-1140,0" quest_id="13691296" quest_reward_perk_id="1579" soul_id="41bb20df-0860-9371-6df0-55fc2cab2eb4" />

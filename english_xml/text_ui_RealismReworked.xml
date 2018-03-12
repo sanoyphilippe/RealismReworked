@@ -1,23 +1,75 @@
 <Table>
+    <!-- REWORKING -->
     <Row>
-        <Cell>perk_tight_grip_desc</Cell>
-        <Cell>Your Stamina regeneration will not slow down in combat, even on the weapon backswing.</Cell>
-        <Cell>Your Stamina regeneration will not slow down in combat, even on the weapon backswing.</Cell>
+        <Cell>perk_intimidating_posture</Cell>
+        <Cell>Golem</Cell>
+        <Cell>Golem</Cell>
     </Row>
     <Row>
-        <Cell>perk_tight_grip_name</Cell>
-        <Cell>Combat Conditioning</Cell>
-        <Cell>Combat Conditioning</Cell>
+        <Cell>perk_intimidating_posture_desc</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_intimidating_posture_desc</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_white_death_desc</Cell>
+        <Cell>Having killed a lot of people, with an arrow to the head, has earned you the nickname of "White Death". Your weapon sway is significantly reduced.</Cell>
+        <Cell>Having killed a lot of people, with an arrow to the head, has earned you the nickname of "White Death". Your weapon sway is significantly reduced.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_white_death_name</Cell>
+        <Cell>White Death</Cell>
+        <Cell>White Death</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_politician_desc</Cell>
+        <Cell>You have established your reputation and have become well connected enough. Your Reputation rises much faster than usual, negative acts have a lower effect on your reputation and the penalties for jail time last shorter.</Cell>
+        <Cell>You have established your reputation and have become well connected enough. Your Reputation rises much faster than usual, negative acts have a lower effect on your reputation and the penalties for jail time last shorter.
+        </Cell>
+    </Row>
+    <Row>
+        <Cell>perk_politician_name</Cell>
+        <Cell>Politician</Cell>
+        <Cell>Politician</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_politician_desc</Cell>
+        <Cell>You have managed to claw your way into politics. You face lower penalties for wrongdoing and your reputation improves faster.</Cell>
+        <Cell>You have managed to claw your way into politics. You face lower penalties for wrongdoing and your reputation improves faster.</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_politician_name</Cell>
+        <Cell>Politician</Cell>
+        <Cell>Politician</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_arms_dealer_desc</Cell>
+        <Cell>After much experience dealing with merchants, you've finally established yourself as a well known trader. The armor equipment you sell have a 15% higher price, and you're able to buy armor and equipment for 15% less.</Cell>
+        <Cell>After much experience dealing with merchants, you've finally established yourself as a well known trader. The armor equipment you sell have a 15% higher price, and you're able to buy armor and equipment for 15% less.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_arms_dealer_name</Cell>
+        <Cell>Arms Dealer</Cell>
+        <Cell>Arms Dealer</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_arms_dealer_desc</Cell>
+        <Cell>You get better prices for selling or buying armor equipment.</Cell>
+        <Cell>You get better prices for selling or buying armor equipment.</Cell>
     </Row>
     <Row>
         <Cell>perk_cuman_in_killer</Cell>
-        <Cell>You've killed so many Cumans your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat with you. Your attacks against them will also be 15% more effective.</Cell>
-        <Cell>You've killed so many Cumans your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat with you. Your attacks against them will also be 15% more effective.</Cell>
+        <Cell>You've killed so many Cumans your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
+        <Cell>You've killed so many Cumans your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
     </Row>
     <Row>
         <Cell>perk_man_in_killer</Cell>
-        <Cell>You've killed so many enemies your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat with you. Your attacks against them will also be 15% more effective.</Cell>
-        <Cell>You've killed so many enemies your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat with you. Your attacks against them will also be 15% more effective.</Cell>
+        <Cell>You've killed so many enemies that you've earned the nickname 'Death Knight'. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
+        <Cell>You've killed so many enemies that you've earned the nickname 'Death Knight'. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
     </Row>
     <Row>
         <Cell>perk_man_nm_killer</Cell>
@@ -30,6 +82,16 @@
         <Cell>You scare the enemy with your terrifying reputation.</Cell>
     </Row>
     <Row>
+        <Cell>perk_tight_grip_desc</Cell>
+        <Cell>Your Stamina regeneration will not slow down in combat, even on the weapon backswing.</Cell>
+        <Cell>Your Stamina regeneration will not slow down in combat, even on the weapon backswing.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_tight_grip_name</Cell>
+        <Cell>Combat Conditioning</Cell>
+        <Cell>Combat Conditioning</Cell>
+    </Row>
+    <Row>
         <Cell>perk_drinking_habit_desc</Cell>
         <Cell>While under the influence, your hand will shake 25% less and you'll gain +2 to your Bow skill, but while sober, your hand will shake 25% more.</Cell>
         <Cell>While under the influence, your hand will shake 25% less and you'll gain +2 to your Bow skill, but while sober, your hand will shake 25% more.</Cell>
@@ -40,114 +102,41 @@
         <Cell>Drunken Marksman</Cell>
     </Row>
     <Row>
-        <Cell>perk_fast_striker_desc</Cell>
-        <Cell>Your attacks demand 10% less stamina but cause 5% less injury.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Agility-based weapons</Cell>
-        <Cell>Your attacks demand 10% less stamina but cause 5% less injury.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Agility-based weapons</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_fast_striker_name</Cell>
-        <Cell>Fast Striker I</Cell>
-        <Cell>Fast Striker I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_fast_striker2_desc</Cell>
-        <Cell>Your attacks demand 20% less stamina but cause 10% less injury.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Agility-based weapons</Cell>
-        <Cell>Your attacks demand 20% less stamina but cause 10% less injury.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Agility-based weapons</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_fast_striker2_name</Cell>
-        <Cell>Fast Striker II</Cell>
-        <Cell>Fast Striker II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_fast_striker3_desc</Cell>
-        <Cell>Your attacks demand 30% less stamina but cause 15% less injury.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Agility-based weapons</Cell>
-        <Cell>Your attacks demand 30% less stamina but cause 15% less injury.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Agility-based weapons</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_fast_striker3_name</Cell>
-        <Cell>Fast Striker III</Cell>
-        <Cell>Fast Striker III</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_like_a_feather_desc</Cell>
-        <Cell>You suffer 10% less injury from falling.</Cell>
-        <Cell>You suffer 10% less injury from falling.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_like_a_feather_name</Cell>
-        <Cell>Featherweight I</Cell>
-        <Cell>Featherweight I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_like_a_feather2_desc</Cell>
-        <Cell>You suffer 25% less injury from falling.</Cell>
-        <Cell>You suffer 25% less injury from falling.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_like_a_feather2_name</Cell>
-        <Cell>Featherweight II</Cell>
-        <Cell>Featherweight II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_like_a_feather3_desc</Cell>
-        <Cell>You suffer 50% less injury from falling.</Cell>
-        <Cell>You suffer 50% less injury from falling.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_like_a_feather3_name</Cell>
-        <Cell>Featherweight III</Cell>
-        <Cell>Featherweight III</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_film_grip_desc</Cell>
-        <Cell>Blocking an opponent's strikes with a Shield costs them 10% more Stamina.</Cell>
-        <Cell>Blocking an opponent's strikes with a Shield costs them 10% more Stamina.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_film_grip_name</Cell>
-        <Cell>Firm Grip I</Cell>
-        <Cell>Firm Grip I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_film_grip2_desc</Cell>
-        <Cell>Blocking an opponent's strikes with a Shield costs them 20% more Stamina.</Cell>
-        <Cell>Blocking an opponent's strikes with a Shield costs them 20% more Stamina.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_film_grip2_name</Cell>
-        <Cell>Firm Grip II</Cell>
-        <Cell>Firm Grip II</Cell>
-    </Row>
-    <Row>
         <Cell>perk_wrestler_desc</Cell>
         <Cell>You gain a 10% greater chance to overpower your opponent in a clinch.</Cell>
         <Cell>You gain a 10% greater chance to overpower your opponent in a clinch.</Cell>
     </Row>
+    <Row>
+        <Cell>perk_weapon_cruncher_desc</Cell>
+        <Cell>If you beat your opponent in a clinch, you'll damage his weapon 10% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell>
+        <Cell>If you beat your opponent in a clinch, you'll damage his weapon 10% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.
+        </Cell>
+    </Row>
+    <Row><Cell>perk_weapon_cruncher_name</Cell><Cell>Weapon-cruncher</Cell><Cell>Weapon-Cruncher</Cell></Row>
 	<Row>
 		<Cell>perk_wrestler_name</Cell>
-		<Cell>Grappling I</Cell>
-		<Cell>Grappling I</Cell>
+		<Cell>Amateur Grappler</Cell>
+		<Cell>Amateur Grappler</Cell>
 	</Row>
     <Row>
         <Cell>perk_clinch_master_desc</Cell>
-        <Cell>You gain a 25% greater chance to overpower your opponent in a clinch.</Cell>
-        <Cell>You gain a 25% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 20% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 20% greater chance to overpower your opponent in a clinch.</Cell>
     </Row>
     <Row>
         <Cell>perk_clinch_master_name</Cell>
-        <Cell>Grappling II</Cell>
-        <Cell>Grappling II</Cell>
+        <Cell>Adept Grappler</Cell>
+        <Cell>Adept Grappler</Cell>
     </Row>
     <Row>
         <Cell>perk_clinch_master2_desc</Cell>
-        <Cell>You gain a 50% greater chance to overpower your opponent in a clinch.</Cell>
-        <Cell>You gain a 50% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 30% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 30% greater chance to overpower your opponent in a clinch.</Cell>
     </Row>
     <Row>
         <Cell>perk_clinch_master2_name</Cell>
-        <Cell>Grappling III</Cell>
-        <Cell>Grappling III</Cell>
+        <Cell>Master Grappler</Cell>
+        <Cell>Master Grappler</Cell>
     </Row>
     <Row>
         <Cell>perk_headcrakcer_desc</Cell>
@@ -161,8 +150,8 @@
     </Row>
     <Row>
         <Cell>perk_headcrakcer2_desc</Cell>
-        <Cell>You gain a 20% greater chance of knocking out an opponent with a blow to the head.</Cell>
-        <Cell>You gain a 20% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 18% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 18% greater chance of knocking out an opponent with a blow to the head.</Cell>
     </Row>
     <Row>
         <Cell>perk_headcrakcer2_name</Cell>
@@ -171,8 +160,8 @@
     </Row>
     <Row>
         <Cell>perk_headcrakcer3_desc</Cell>
-        <Cell>You gain a 30% greater chance of knocking out an opponent with a blow to the head.</Cell>
-        <Cell>You gain a 30% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 25% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 25% greater chance of knocking out an opponent with a blow to the head.</Cell>
     </Row>
     <Row>
         <Cell>perk_headcrakcer3_name</Cell>
@@ -186,39 +175,9 @@
 	</Row>
 	<Row>
 		<Cell>perk_hard_hitter_name</Cell>
-		<Cell>Heavy Hands</Cell>
-		<Cell>Heavy Hands</Cell>
+		<Cell>Hard Hitter</Cell>
+		<Cell>Hard Hitter</Cell>
 	</Row>
-    <Row>
-        <Cell>perk_heavy_swing_desc</Cell>
-        <Cell>Your attacks deal 10% more damage but cost 5% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Strength-based weapons</Cell>
-        <Cell>Your attacks deal 10% more damage but cost 5% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Strength-based weapons</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_heavy_swing_name</Cell>
-        <Cell>Heavy Swing I</Cell>
-        <Cell>Heavy Swing I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_heavy_swing2_desc</Cell>
-        <Cell>Your attacks deal 20% more damage but cost 10% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Strength-based weapons</Cell>
-        <Cell>Your attacks deal 20% more damage but cost 10% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Strength-based weapons</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_heavy_swing2_name</Cell>
-        <Cell>Heavy Swing II</Cell>
-        <Cell>Heavy Swing II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_heavy_swing3_desc</Cell>
-        <Cell>Your attacks deal 30% more damage but cost 15% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Strength-based weapons</Cell>
-        <Cell>Your attacks deal 30% more damage but cost 15% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Restrictions: Strength-based weapons</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_heavy_swing3_name</Cell>
-        <Cell>Heavy Swing III</Cell>
-        <Cell>Heavy Swing III</Cell>
-    </Row>
     <Row>
         <Cell>perk_highborn_desc</Cell>
         <Cell>You gain +3 Speech when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Lowborn</Cell>
@@ -231,8 +190,8 @@
     </Row>
     <Row>
         <Cell>perk_bard_desc</Cell>
-        <Cell>You gain +3 Charisma when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Gallant</Cell>
-        <Cell>You gain +3 Charisma when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Gallant</Cell>
+        <Cell>You gain +2 Charisma when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Gallant</Cell>
+        <Cell>You gain +2 Charisma when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Gallant</Cell>
     </Row>
     <Row>
         <Cell>perk_bard_name</Cell>
@@ -241,8 +200,8 @@
     </Row>
     <Row>
         <Cell>perk_knighterrant_desc</Cell>
-        <Cell>You gain +3 Badassness when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Minstrel</Cell>
-        <Cell>You gain +3 Badassness when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Minstrel</Cell>
+        <Cell>You gain +2 Badassness when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Minstrel</Cell>
+        <Cell>You gain +2 Badassness when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Minstrel</Cell>
     </Row>
     <Row>
         <Cell>perk_knighterrant_name</Cell>
@@ -291,53 +250,23 @@
     </Row>
     <Row>
         <Cell>perk_rogue_desc</Cell>
-        <Cell>You gain +3 Charisma when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Thug</Cell>
-        <Cell>You gain +3 Charisma when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Thug</Cell>
+        <Cell>You gain +2 Charisma when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Leekuanian</Cell>
+        <Cell>You gain +2 Charisma when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Leekuanian</Cell>
     </Row>
     <Row>
         <Cell>perk_rogue_name</Cell>
-        <Cell>Scoundrel</Cell>
-        <Cell>Scoundrel</Cell>
+        <Cell>Dutertian</Cell>
+        <Cell>Dutertian</Cell>
     </Row>
     <Row>
         <Cell>perk_ruffian_desc</Cell>
-        <Cell>You gain +3 Badassness when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Scoundrel</Cell>
-        <Cell>You gain +3 Badassness when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Scoundrel</Cell>
+        <Cell>You gain +2 Badassness when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Dutertian</Cell>
+        <Cell>You gain +2 Badassness when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Dutertian</Cell>
     </Row>
     <Row>
         <Cell>perk_ruffian_name</Cell>
-        <Cell>Thug</Cell>
-        <Cell>Thug</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_marathon_man_desc</Cell>
-        <Cell>You sprint 10% slower, but you can run farther by expending 10% less Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Sprinter</Cell>
-        <Cell>You sprint 10% slower, but you can run farther by expending 10% less Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Sprinter</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_marathon_man_name</Cell>
-        <Cell>Marathon Man I</Cell>
-        <Cell>Marathon Man I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_marathon_man2_desc</Cell>
-        <Cell>You sprint 20% slower, but you can run farther by expending 20% less Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Sprinter</Cell>
-        <Cell>You sprint 20% slower, but you can run farther by expending 20% less Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Sprinter</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_marathon_man2_name</Cell>
-        <Cell>Marathon Man II</Cell>
-        <Cell>Marathon Man II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_marathon_man3_desc</Cell>
-        <Cell>You sprint 30% slower, but you can run farther by expending 30% less Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Sprinter</Cell>
-        <Cell>You sprint 30% slower, but you can run farther by expending 30% less Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Sprinter</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_marathon_man3_name</Cell>
-        <Cell>Marathon Man III</Cell>
-        <Cell>Marathon Man III</Cell>
+        <Cell>Leekuanian</Cell>
+        <Cell>Leekuanian</Cell>
     </Row>
 	<Row>
 		<Cell>perk_physical_fitness_desc</Cell>
@@ -346,49 +275,19 @@
 	</Row>
 	<Row>
 		<Cell>perk_physical_fitness_name</Cell>
-		<Cell>Natural Speed</Cell>
-		<Cell>Natural Speed</Cell>
+		<Cell>Apex Performance</Cell>
+		<Cell>Apex Performance</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_fighting_spirit_desc</Cell>
+		<Cell>perk_gladiator_desc</Cell>
 		<Cell>You regenerate your stamina 10% quicker.</Cell>
 		<Cell>You regenerate your stamina 10% quicker.</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_fighting_spirit_name</Cell>
-		<Cell>Physical Fitness</Cell>
-		<Cell>Physical Fitness</Cell>
+		<Cell>perk_gladiator_name</Cell>
+		<Cell>Gladiator</Cell>
+		<Cell>Gladiator</Cell>
 	</Row>
-    <Row>
-        <Cell>perk_revenant_desc</Cell>
-        <Cell>Your health will regenerate gradually. (0.001 health/s)</Cell>
-        <Cell>Your health will regenerate gradually. (0.001 health/s)</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_revenant_name</Cell>
-        <Cell>Revenant I</Cell>
-        <Cell>Revenant I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_revenant2_desc</Cell>
-        <Cell>Your health will regenerate faster. (0.003 health/s)</Cell>
-        <Cell>Your health will regenerate faster. (0.003 health/s)</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_revenant2_name</Cell>
-        <Cell>Revenant II</Cell>
-        <Cell>Revenant II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_revenant3_desc</Cell>
-        <Cell>Your health will regenerate much faster. (0.005 health/s)</Cell>
-        <Cell>Your health will regenerate much faster. (0.005 health/s)</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_revenant3_name</Cell>
-        <Cell>Revenant III</Cell>
-        <Cell>Revenant III</Cell>
-    </Row>
     <Row>
         <Cell>perk_scout_1_desc</Cell>
         <Cell>Slightly increases the sight distance of Fast Travel, and you have a 10% greater chance to evade.</Cell>
@@ -419,75 +318,35 @@
         <Cell>Scout III</Cell>
         <Cell>Scout III</Cell>
     </Row>
-    <Row>
-        <Cell>perk_secret_pockets_desc</Cell>
-        <Cell>When looting corpses, you have a chance of finding more money.</Cell>
-        <Cell>When looting corpses, you have a chance of finding more money.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_secret_pockets_name</Cell>
-        <Cell>Secret Pockets</Cell>
-        <Cell>Secret Pockets</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_sprinter_desc</Cell>
-        <Cell>Sprinting is 10% faster but costs 10% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Marathon Man</Cell>
-        <Cell>Sprinting is 10% faster but costs 10% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Marathon Man</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_sprinter_name</Cell>
-        <Cell>Sprinter I</Cell>
-        <Cell>Sprinter I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_sprinter2_desc</Cell>
-        <Cell>Sprinting is 20% faster but costs 20% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Marathon Man</Cell>
-        <Cell>Sprinting is 20% faster but costs 20% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Marathon Man</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_sprinter2_name</Cell>
-        <Cell>Sprinter II</Cell>
-        <Cell>Sprinter II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_sprinter3_desc</Cell>
-        <Cell>Sprinting is 30% faster but costs 30% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Marathon Man</Cell>
-        <Cell>Sprinting is 30% faster but costs 30% more Stamina.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Marathon Man</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_sprinter3_name</Cell>
-        <Cell>Sprinter III</Cell>
-        <Cell>Sprinter III</Cell>
-    </Row>
 	<Row>
-		<Cell>perk_steady_shot_desc_1</Cell>
+		<Cell>perk_marksman_desc_1</Cell>
 		<Cell>Shooting your Bow is 5% more accurate.</Cell>
 		<Cell>Shooting your Bow is 5% more accurate.</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_steady_shot_name_1</Cell>
-		<Cell>Steady Aim I</Cell>
-		<Cell>Steady Aim I</Cell>
+		<Cell>perk_marksman_name_1</Cell>
+		<Cell>Novice Marksman</Cell>
+		<Cell>Novice Marksman</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_steady_shot_desc_2</Cell>
+		<Cell>perk_marksman_desc_2</Cell>
 		<Cell>Shooting your Bow is 10% more accurate.</Cell>
 		<Cell>Shooting your Bow is 10% more accurate.</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_steady_shot_name_2</Cell>
-		<Cell>Steady Aim II</Cell>
-		<Cell>Steady Aim II</Cell>
+		<Cell>perk_marksman_name_2</Cell>
+		<Cell>Adept Marksman</Cell>
+		<Cell>Adept Marksman</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_steady_shot_desc_3</Cell>
+		<Cell>perk_marksman_desc_3</Cell>
 		<Cell>Shooting your Bow is 15% more accurate.</Cell>
 		<Cell>Shooting your Bow is 15% more accurate.</Cell>
 	</Row>
 	<Row>
-		<Cell>perk_steady_shot_name_3</Cell>
-		<Cell>Steady Aim III</Cell>
-		<Cell>Steady Aim III</Cell>
+		<Cell>perk_marksman_name_3</Cell>
+		<Cell>Master Marksman</Cell>
+		<Cell>Master Marksman</Cell>
 	</Row>
 	<Row>
 		<Cell>perk_martial_artist_desc</Cell>
@@ -496,77 +355,28 @@
 	</Row>
 	<Row>
 		<Cell>perk_martial_artist_name</Cell>
-		<Cell>Street Fighter</Cell>
-		<Cell>Street Fighter</Cell>
+		<Cell>Street Brawler</Cell>
+		<Cell>Street Brawler</Cell>
 	</Row>
     <Row>
         <Cell>perk_stronghold_desc</Cell>
-        <Cell>Blocking an opponent's blows will cost you 20% less Stamina.</Cell>
-        <Cell>Blocking an opponent's blows will cost you 20% less Stamina.</Cell>
+        <Cell>Blocking an opponent's blows will cost you 25% less Stamina.</Cell>
+        <Cell>Blocking an opponent's blows will cost you 25% less Stamina.</Cell>
     </Row>
     <Row>
         <Cell>perk_stronghold_name</Cell>
         <Cell>Stronghold</Cell>
         <Cell>Stronghold</Cell>
     </Row>
-    <Row>
-        <Cell>perk_thickblooded_desc</Cell>
-        <Cell>You bleed two times slower.</Cell>
-        <Cell>You bleed two times slower.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_thickblooded_name</Cell>
-        <Cell>Thickblooded I</Cell>
-        <Cell>Thickblooded I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_thickblooded2_desc</Cell>
-        <Cell>You bleed three times slower.</Cell>
-        <Cell>You bleed three times slower.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_thickblooded2_name</Cell>
-        <Cell>Thickblooded II</Cell>
-        <Cell>Thickblooded II</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_troubadour_desc</Cell>
-        <Cell>You have a 50% higher Reputation and +1 Speech when talking to women, and you can avail of bathwenches' services for free.</Cell>
-        <Cell>You have a 50% higher Reputation and +1 Speech when talking to women, and you can avail of bathwenches' services for free.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_troubadour_name</Cell>
-        <Cell>Troubadour</Cell>
-        <Cell>Troubadour</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_venomous_blade_desc</Cell>
-        <Cell>Poison applied to a weapon will last 25% longer.</Cell>
-        <Cell>Poison applied to a weapon will last 25% longer.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_venomous_blade_name</Cell>
-        <Cell>Venomous Blade I</Cell>
-        <Cell>Venomous Blade I</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_venomous_blade2_desc</Cell>
-        <Cell>Poison applied to a weapon will last 50% longer.</Cell>
-        <Cell>Poison applied to a weapon will last 50% longer.</Cell>
-    </Row>
-    <Row>
-        <Cell>perk_venomous_blade2_name</Cell>
-        <Cell>Venomous Blade II</Cell>
-        <Cell>Venomous Blade II</Cell>
-    </Row>
 	<Row>
 		<Cell>perk_proficiency_desc</Cell>
-		<Cell>Your maximum stamina is increased by 10%.</Cell>
-		<Cell>Your maximum stamina is increased by 10%.</Cell>
+		<Cell>Your maximum stamina is increased by 15%.</Cell>
+		<Cell>Your maximum stamina is increased by 15%.</Cell>
 	</Row>
 	<Row>
 		<Cell>perk_proficiency_name</Cell>
-		<Cell>Veteran</Cell>
-		<Cell>Veteran</Cell>
+		<Cell>War Veteran</Cell>
+		<Cell>War Veteran</Cell>
 	</Row>
+    <!-- REWORKING END -->
 </Table>

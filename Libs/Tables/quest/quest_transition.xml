@@ -9,8 +9,18 @@
     </header>
     <rows>
       <!-- RealismReworked -->
+      <!-- manslayer -->
       <row enabled="True" from_objective_id="2" quest_id="60537812" to_objective_id="14" />
       <row enabled="True" from_objective_id="14" quest_id="60537812" to_objective_id="17" />
+      <!-- arms dealer -->
+      <row enabled="True" from_objective_id="2" quest_id="60537812" to_objective_id="12" />
+      <row enabled="True" from_objective_id="12" quest_id="60537812" to_objective_id="17" />
+      <!-- politician -->
+      <row enabled="True" from_objective_id="2" quest_id="60537812" to_objective_id="11" />
+      <row enabled="True" from_objective_id="11" quest_id="60537812" to_objective_id="17" />
+      <!-- white death -->
+      <row enabled="True" from_objective_id="2" quest_id="60537812" to_objective_id="10" />
+      <row enabled="True" from_objective_id="10" quest_id="60537812" to_objective_id="17" />
       <!-- RealismReworked -->
       <row enabled="False" from_objective_id="2" quest_id="653794" to_objective_id="15" />
       <row enabled="True" from_objective_id="2" quest_id="653794" to_objective_id="22" />
