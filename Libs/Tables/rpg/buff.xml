@@ -111,14 +111,20 @@
            icon_id="0"
            implementation="Cpp:AgilityWeaponBuff"
            is_persistent="True"
-           params="was-0.3"
+           params="was-0.4"
            slot_buff_ui_name=""
            slot_icon_id=""
            visual_effect="" />
       <!-- manslayer -->
       <!-- Hidden Skills END-->
+      <!-- INFAMOUS PERK - BUG FIX JRM -> 1.2 -->
+      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_infamous_desc" buff_exclusivity_id="1" buff_id="ab1fdda7-e59b-48aa-926f-94e19a35300c" buff_lifetime_id="0" buff_name="perk_infamous" buff_ui_name="buff_infamous_name" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="2" duration="-1" icon_id="23" implementation="Cpp:Infamous" is_persistent="True" params="grm*1.5,jrm*1.2;str+1,spc+1,agi+1,vit+1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+
       <!-- golem reworked -->
       <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_intimidating_posture_desc" buff_exclusivity_id="1" buff_id="ccc3ba27-b7b8-4055-bbee-7218a0c58313" buff_lifetime_id="1" buff_name="perk_intimidating_posture" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:WithPlatingArmor" is_persistent="True" params="arr*1.2" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+
+      <!-- Reworked revenant perk - less OP(1 hp/120secs) -->
+      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="" buff_exclusivity_id="1" buff_id="854af3e0-abd9-4318-b9fb-559836c92d47" buff_lifetime_id="1" buff_name="perk_revenant" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="health+0.0083/s" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
       <!-- Weapon cruncher -->
       <row buff_ai_tag_id=""
@@ -931,7 +937,7 @@
       <row buff_ai_tag_id="" buff_class_id="1" buff_desc="buff_jail_desc" buff_exclusivity_id="1" buff_id="a8b03550-5e68-417a-9d10-2064b289a7e5" buff_lifetime_id="0" buff_name="jail" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="dig*0,exh*0,jrm*0,health+100/s" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
       <row buff_ai_tag_id="" buff_class_id="0" buff_desc="" buff_exclusivity_id="0" buff_id="a933d97c-698c-41cf-a935-e0fb687d7970" buff_lifetime_id="0" buff_name="test_boost_charisma" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="cha+5" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
       <row buff_ai_tag_id="" buff_class_id="1" buff_desc="" buff_exclusivity_id="1" buff_id="ab1503b5-1494-456a-baa1-0c2f4efbf3e5" buff_lifetime_id="1" buff_name="perk_player_horse" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="imm=1,health+1/s" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_infamous_desc" buff_exclusivity_id="1" buff_id="ab1fdda7-e59b-48aa-926f-94e19a35300c" buff_lifetime_id="0" buff_name="perk_infamous" buff_ui_name="buff_infamous_name" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="2" duration="-1" icon_id="23" implementation="Cpp:Infamous" is_persistent="True" params="grm*1.5,jrm*0.8;str+1,spc+1,agi+1,vit+1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <!-- <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_infamous_desc" buff_exclusivity_id="1" buff_id="ab1fdda7-e59b-48aa-926f-94e19a35300c" buff_lifetime_id="0" buff_name="perk_infamous" buff_ui_name="buff_infamous_name" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="2" duration="-1" icon_id="23" implementation="Cpp:Infamous" is_persistent="True" params="grm*1.5,jrm*0.8;str+1,spc+1,agi+1,vit+1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" /> -->
       <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_berserk_desc" buff_exclusivity_id="1" buff_id="ab52bcd4-2a16-4bed-95fb-dac933f624e8" buff_lifetime_id="1" buff_name="perk_berserk" buff_ui_name="buff_berserk_name" buff_ui_order="120" buff_ui_type_id="4" buff_ui_visibility_id="3" duration="-1" icon_id="34" implementation="Cpp:Berserk" is_persistent="True" params="srg*4" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
       <row buff_ai_tag_id="" buff_class_id="0" buff_desc="" buff_exclusivity_id="1" buff_id="ab97ed6c-e830-4fc6-a45a-261117cd5c85" buff_lifetime_id="0" buff_name="very_tough_guy" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="hlh*0.13" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
       <row buff_ai_tag_id="" buff_class_id="0" buff_desc="" buff_exclusivity_id="0" buff_id="ac563832-a5d6-427c-86c0-564c119c7948" buff_lifetime_id="0" buff_name="test_turtle_skin" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="60" icon_id="0" implementation="Cpp:BasicTimed" is_persistent="True" params="ade*1.2" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />

@@ -29,9 +29,12 @@
       <row rpg_param_key="BaseAttackStaminaCost" rpg_param_value="13" />
       <row rpg_param_key="BaseInventoryCapacity" rpg_param_value="80" />
       <row rpg_param_key="BasketSuspiciencyNoDealThreashold" rpg_param_value="9999999" />
-      <row rpg_param_key="ClassCourageMoraleWeight" rpg_param_value="0" />
+      <row rpg_param_key="ClassCourageMoraleWeight" rpg_param_value="0.01" />
       <row rpg_param_key="CollisionVelocityDeltaToDmgR" rpg_param_value="0.25" />
-      <row rpg_param_key="CombatAutoAttackDelayIncreasePerAttacker" rpg_param_value="0.8" />
+      <row rpg_param_key="CombatAutoAggressionDiffScale" rpg_param_value="12" />
+      <row rpg_param_key="CombatAutoNaturalComboRatio" rpg_param_value="0.7" />
+      <row rpg_param_key="CombatAutoAttackDelayIncreasePerAttacker" rpg_param_value="0.15" />
+      <row rpg_param_key="CombatAutoAttackDelayIncreasePerAttackerMissile" rpg_param_value="0.1" />
       <row rpg_param_key="CombatAutoDodgeWeight" rpg_param_value="1.1" />
       <row rpg_param_key="CombatAutoMaxAttackDelay" rpg_param_value="2" />
       <row rpg_param_key="CombatAutoNoDefenseWeight" rpg_param_value="0.4" />
