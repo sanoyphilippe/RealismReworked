@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="social_class" version="1">
+    <header>
+      <column name="preset_items_health_base" type="real" />
+      <column name="preset_items_health_random" type="real" />
+      <column name="social_class_id" type="integer" />
+      <column name="social_class_name" type="character varying" />
+      <column name="soul_crime_role_id" type="integer" />
+      <column name="wealth" type="integer" />
+    </header>
+    <rows>
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="0" social_class_name="none" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="1" social_class_name="villager" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.9" preset_items_health_random="0.15" social_class_id="2" social_class_name="priest" soul_crime_role_id="1" wealth="10" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="3" social_class_name="townsman" soul_crime_role_id="1" wealth="10" />
+      <row preset_items_health_base="0.15" preset_items_health_random="0.15" social_class_id="5" social_class_name="beggar" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="6" social_class_name="merchant" soul_crime_role_id="1" wealth="10" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="7" social_class_name="craftsman" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="8" social_class_name="animal-wild" soul_crime_role_id="0" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="9" social_class_name="animal-tamed" soul_crime_role_id="0" wealth="0" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="11" social_class_name="monk" soul_crime_role_id="4" wealth="0" />
+      <row preset_items_health_base="0.9" preset_items_health_random="0.15" social_class_id="12" social_class_name="circator" soul_crime_role_id="5" wealth="0" />
+      <row preset_items_health_base="1" preset_items_health_random="0" social_class_id="13" social_class_name="player" soul_crime_role_id="0" wealth="0" />
+      <row preset_items_health_base="0.9" preset_items_health_random="0.1" social_class_id="14" social_class_name="nobleman" soul_crime_role_id="1" wealth="20" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.2" social_class_id="20" social_class_name="bailiff" soul_crime_role_id="2" wealth="10" />
+      <row preset_items_health_base="0.4" preset_items_health_random="0.15" social_class_id="21" social_class_name="herbalist" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="22" social_class_name="innkeeper" soul_crime_role_id="1" wealth="10" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="23" social_class_name="bartender" soul_crime_role_id="1" wealth="10" />
+      <row preset_items_health_base="0.15" preset_items_health_random="0.15" social_class_id="24" social_class_name="refugee" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.6" preset_items_health_random="0.15" social_class_id="25" social_class_name="miller" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="26" social_class_name="blacksmith" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="27" social_class_name="baker" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="28" social_class_name="butcher" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="30" social_class_name="scribe" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.6" preset_items_health_random="0.15" social_class_id="31" social_class_name="tanner" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.85" preset_items_health_random="0.15" social_class_id="33" social_class_name="soldier" soul_crime_role_id="2" wealth="0" />
+      <row preset_items_health_base="0.6" preset_items_health_random="0.3" social_class_id="38" social_class_name="bandit" soul_crime_role_id="3" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.2" social_class_id="43" social_class_name="cuman" soul_crime_role_id="3" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="47" social_class_name="tailor" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="48" social_class_name="armorer" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="49" social_class_name="weaponsmith" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="50" social_class_name="shoemaker" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="51" social_class_name="ruffian" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="52" social_class_name="collier" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="53" social_class_name="lumberjack" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="54" social_class_name="apothecary" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="55" social_class_name="bathhouseMaid" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.35" preset_items_health_random="0.15" social_class_id="56" social_class_name="miner" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="57" social_class_name="officer" soul_crime_role_id="2" wealth="10" />
+      <row preset_items_health_base="0.75" preset_items_health_random="0.15" social_class_id="58" social_class_name="shootmaster" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.55" preset_items_health_random="0.15" social_class_id="59" social_class_name="poacher" soul_crime_role_id="3" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="60" social_class_name="wanderer" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="61" social_class_name="mercenary" soul_crime_role_id="3" wealth="10" />
+      <row preset_items_health_base="0.8" preset_items_health_random="0.15" social_class_id="62" social_class_name="bathhouseAbbess" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.6" preset_items_health_random="0.15" social_class_id="63" social_class_name="fortuneTeller" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.75" preset_items_health_random="0.25" social_class_id="68" social_class_name="watchman" soul_crime_role_id="2" wealth="0" />
+      <row preset_items_health_base="0.75" preset_items_health_random="0.25" social_class_id="69" social_class_name="security" soul_crime_role_id="3" wealth="0" />
+      <row preset_items_health_base="0.75" preset_items_health_random="0.15" social_class_id="70" social_class_name="fake_soldier" soul_crime_role_id="3" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="72" social_class_name="mason" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="73" social_class_name="blacksmithApprentice" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.4" preset_items_health_random="0.15" social_class_id="74" social_class_name="quarryman" soul_crime_role_id="1" wealth="0" />
+      <row preset_items_health_base="0.5" preset_items_health_random="0.15" social_class_id="75" social_class_name="fightClubFighter" soul_crime_role_id="3" wealth="0" />
+      <row preset_items_health_base="0.7" preset_items_health_random="0.15" social_class_id="76" social_class_name="renegade" soul_crime_role_id="3" wealth="0" />
+    </rows>
+  </table>
+</database>

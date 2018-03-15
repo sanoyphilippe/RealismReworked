@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="item_manipulation_type" version="1">
+    <header>
+      <column name="allow_run" type="boolean" />
+      <column name="allow_sprint" type="boolean" />
+      <column name="id" type="integer" />
+      <column name="sharpening_anim" type="character varying" />
+      <column name="tag" type="character varying" />
+    </header>
+    <rows>
+      <row allow_run="True" allow_sprint="True" id="0" sharpening_anim="" tag="MANIPULATION_FORBIDDEN" />
+      <row allow_run="True" allow_sprint="True" id="1" sharpening_anim="" tag="default" />
+      <row allow_run="True" allow_sprint="True" id="2" sharpening_anim="lngsw" tag="longsword" />
+      <row allow_run="True" allow_sprint="True" id="3" sharpening_anim="" tag="shield" />
+      <row allow_run="True" allow_sprint="True" id="4" sharpening_anim="" tag="bow" />
+      <row allow_run="False" allow_sprint="False" id="5" sharpening_anim="" tag="fishingRod" />
+      <row allow_run="True" allow_sprint="True" id="6" sharpening_anim="" tag="torch" />
+      <row allow_run="False" allow_sprint="False" id="7" sharpening_anim="" tag="tankard" />
+      <row allow_run="False" allow_sprint="False" id="8" sharpening_anim="" tag="stein" />
+      <row allow_run="False" allow_sprint="False" id="9" sharpening_anim="" tag="broom" />
+      <row allow_run="False" allow_sprint="False" id="10" sharpening_anim="" tag="hoe" />
+      <row allow_run="False" allow_sprint="False" id="11" sharpening_anim="" tag="sack" />
+      <row allow_run="False" allow_sprint="False" id="12" sharpening_anim="" tag="shovel" />
+      <row allow_run="False" allow_sprint="False" id="13" sharpening_anim="" tag="bucket" />
+      <row allow_run="False" allow_sprint="False" id="14" sharpening_anim="" tag="tray" />
+      <row allow_run="False" allow_sprint="False" id="15" sharpening_anim="" tag="basket" />
+      <row allow_run="True" allow_sprint="True" id="16" sharpening_anim="axe" tag="axe" />
+      <row allow_run="False" allow_sprint="False" id="17" sharpening_anim="" tag="cage" />
+      <row allow_run="False" allow_sprint="False" id="18" sharpening_anim="" tag="smallAnimal" />
+      <row allow_run="False" allow_sprint="False" id="19" sharpening_anim="" tag="barrel" />
+      <row allow_run="False" allow_sprint="False" id="20" sharpening_anim="" tag="butcherBowl" />
+      <row allow_run="True" allow_sprint="True" id="21" sharpening_anim="" tag="hammer" />
+      <row allow_run="False" allow_sprint="False" id="22" sharpening_anim="" tag="cup" />
+      <row allow_run="False" allow_sprint="False" id="23" sharpening_anim="" tag="heavy" />
+      <row allow_run="True" allow_sprint="True" id="24" sharpening_anim="" tag="light" />
+      <row allow_run="False" allow_sprint="False" id="25" sharpening_anim="" tag="long" />
+      <row allow_run="False" allow_sprint="False" id="26" sharpening_anim="" tag="plate" />
+      <row allow_run="True" allow_sprint="False" id="27" sharpening_anim="" tag="lamp" />
+      <row allow_run="True" allow_sprint="True" id="28" sharpening_anim="" tag="noweapon" />
+      <row allow_run="True" allow_sprint="True" id="29" sharpening_anim="lngsw" tag="sword" />
+      <row allow_run="True" allow_sprint="True" id="30" sharpening_anim="lngsw" tag="dagger" />
+      <row allow_run="False" allow_sprint="False" id="31" sharpening_anim="" tag="butcherDoe" />
+      <row allow_run="True" allow_sprint="False" id="32" sharpening_anim="" tag="ladder" />
+      <row allow_run="True" allow_sprint="False" id="33" sharpening_anim="" tag="trunk" />
+      <row allow_run="True" allow_sprint="True" id="34" sharpening_anim="" tag="mace" />
+      <row allow_run="True" allow_sprint="False" id="35" sharpening_anim="" tag="axe_tool" />
+      <row allow_run="True" allow_sprint="True" id="36" sharpening_anim="axe" tag="halberd" />
+      <row allow_run="True" allow_sprint="True" id="37" sharpening_anim="lngsw" tag="sabre" />
+      <row allow_run="False" allow_sprint="False" id="38" sharpening_anim="" tag="doePiece" />
+    </rows>
+  </table>
+</database>

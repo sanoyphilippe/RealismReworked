@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="melee_weapon" version="1">
+    <header>
+      <column name="attack" type="real" />
+      <column name="item_id" type="uuid" />
+      <column name="slash_att_mod" type="real" />
+      <column name="smash_att_mod" type="real" />
+      <column name="stab_att_mod" type="real" />
+    </header>
+    <rows>
+      <row attack="1.3" item_id="00000000-0000-0000-0000-000000000005" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="8.363636" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="0" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="5.5" item_id="0ad36c8c-cfc7-44ab-8e8f-fe85e7646b71" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.05" />
+      <row attack="0" item_id="0eb0ac15-f0d9-49ce-9dd8-b37381a7a508" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="9.272727" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" slash_att_mod="0.5" smash_att_mod="0.1" stab_att_mod="1.25" />
+      <row attack="1.3" item_id="10f00d6e-66ce-4dbe-a4e0-71db8a1ba511" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="4.9" item_id="11324f3e-d7f0-49f7-b39d-14622de4d410" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.05" />
+      <row attack="0" item_id="14aaa78f-49fe-49aa-bf46-bc6b8b06a6b7" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="5.25" item_id="1592a436-4a22-4636-b82d-14af8127ee01" slash_att_mod="0.75" smash_att_mod="0.05" stab_att_mod="1.25" />
+      <row attack="0" item_id="17b7104f-d747-41ed-b701-d964584a0b37" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="3.7" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.05" />
+      <row attack="0" item_id="1af2b27c-06bf-42a9-b203-8e7c83361d50" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="11.09091" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" slash_att_mod="1.1" smash_att_mod="0.25" stab_att_mod="0.9" />
+      <row attack="4" item_id="1ff6e150-de1d-4cff-b263-e3dad48eef1a" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="5.25" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="1.5" />
+      <row attack="5.964286" item_id="21afc054-37d2-4cce-928e-c7d0d2e295c5" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="4.3" item_id="24a7c868-f23f-4799-8e64-331435a77404" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.05" />
+      <row attack="1.3" item_id="26ddf0fa-c425-42a2-8879-fabaa66f414e" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="4.8" item_id="28a3a4be-3866-47be-91db-878888340674" slash_att_mod="0.9" smash_att_mod="0.25" stab_att_mod="1" />
+      <row attack="0" item_id="2b652926-fb99-406f-9955-8a45dd1f1cd9" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="1.3" item_id="2c9e4731-1858-423d-a898-a15484507cb7" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="12" item_id="2db35809-5a6b-4a5b-8782-eaf85c46f1d5" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.05" />
+      <row attack="0" item_id="2e32ab30-aa7e-4628-8482-a229a68dfa72" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="375edea9-2d3c-4d1a-a6cc-e81ffa6bba26" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="3846de6d-530b-4fcb-9d45-aac007498f04" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="1.3" item_id="3e1e9a1d-37b5-4564-be23-af1017296d6c" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="0" item_id="3e7657f2-d653-4e57-ae77-6f2225ac642b" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="11.54545" item_id="3ef71c79-57c2-4f28-8f31-a091d9b78798" slash_att_mod="0.05" smash_att_mod="0.75" stab_att_mod="0.5" />
+      <row attack="7" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" slash_att_mod="0.75" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="1.3" item_id="419bd251-9da5-1971-10cd-8428a6bdcb91" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="3.5" item_id="42f20475-2329-4771-8b12-0cad34574bc8" slash_att_mod="0.75" smash_att_mod="0.25" stab_att_mod="0.5" />
+      <row attack="4.375" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="7.909091" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="4.6" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.25" />
+      <row attack="0.2" item_id="49fa5ec9-92a9-4bfb-b56e-a33d04b69ee1" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="5.375" item_id="4ac3347e-a93a-4cc0-9ba5-add86391bc12" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="4.18" item_id="4b6b9d8f-6b39-42da-90df-63d8d5adc68e" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.5" />
+      <row attack="1.3" item_id="4bd249c6-0fea-4296-b60a-8d8a56ce76e6" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="0" item_id="4bf59325-6ee7-4200-8b61-ed0c505674ae" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.875" item_id="4c0874f3-67f9-4e5f-ad53-9ed29156acd5" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="0" item_id="4cea28a0-0814-405a-bf24-4fd711f7eb63" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.75" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" slash_att_mod="1" smash_att_mod="0.1" stab_att_mod="1" />
+      <row attack="4.15" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="3.9875" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" slash_att_mod="0.75" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="0" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="539f94d5-d9b4-4e0b-a0b1-8403d27d96ff" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="3.8" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.05" />
+      <row attack="1.3" item_id="581f1eb0-7d42-4d6d-9609-9902d3690c07" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="4.3125" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="3.875" item_id="58ef3e13-d40f-4b25-b4bc-3b06df0f2578" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="4" item_id="5ab5581a-be10-4520-9ab4-90c6985498d3" slash_att_mod="0.75" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="0" item_id="5b7ed53e-3554-47c7-817b-b971a2d99713" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.8" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.5" />
+      <row attack="4.6375" item_id="5e079d0b-0909-45c8-9306-8ac579b7b407" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="5.071429" item_id="5e2ba1cd-4a42-407c-9261-8afdbc3e86b4" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="0" item_id="60734204-5a17-47cc-8fa2-9e8dfdf4ed62" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="608922e3-0405-4110-a026-dcd3c69b2bf2" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <!-- dagger -->
+      <row attack="1" item_id="6195801f-e7e4-429c-9db9-8b31a62126c8" slash_att_mod="0" smash_att_mod="0" stab_att_mod="4" />
+      <row attack="5.2" item_id="662a3ac5-5883-4b7d-bd84-173eaa136a73" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.25" />
+      <!-- dagger ornamental -->
+      <row attack="1" item_id="67ef62fd-7d5a-4235-b68e-eede03cd9c99" slash_att_mod="0" smash_att_mod="0" stab_att_mod="4" />
+      <row attack="5.25" item_id="68a35c34-51db-4f5d-827b-fed5a45ddfcd" slash_att_mod="1.5" smash_att_mod="0.1" stab_att_mod="0.5" />
+      <row attack="0" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.625" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="1.3" item_id="6dda19ab-a26d-4585-9600-15942e16caeb" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="0" item_id="6de91117-0ce4-4a84-a903-3f0dcc1517a0" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.9" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.5" />
+      <row attack="4.475" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" slash_att_mod="0.9" smash_att_mod="0.25" stab_att_mod="1" />
+      <row attack="1.3" item_id="726322dd-f2e6-4cf2-922f-0ff715e20633" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="7.454545" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="0" item_id="75f6a7ef-7144-46c6-b044-b94ab4167f67" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="772c5d38-66b3-43f7-9757-5f10439aee97" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="3.6625" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" slash_att_mod="0.9" smash_att_mod="0.25" stab_att_mod="0.5" />
+      <row attack="4.714286" item_id="791ca878-59c2-455f-a3d1-c12bafa0e74f" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="1" item_id="7d102b4d-52ae-4abb-84ca-e976c2ccf8ef" slash_att_mod="0" smash_att_mod="0" stab_att_mod="4" />
+      <row attack="2.8" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.05" />
+      <row attack="0" item_id="80a90ce0-50f5-4273-8f3e-562f0965f30b" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="823df2a1-bd59-4820-ab53-35e23c46149c" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0.1" item_id="8468933a-7d6b-4cf9-92f0-af5874d40a9b" slash_att_mod="1" smash_att_mod="0.1" stab_att_mod="1" />
+      <row attack="4.535714" item_id="85b71c81-e087-47f1-a290-bb80ed1bfaf2" slash_att_mod="0.75" smash_att_mod="0.25" stab_att_mod="0.25" />
+      <row attack="4.178571" item_id="86386baf-5228-4a29-b545-4e6784b81f7c" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="3.825" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" slash_att_mod="1" smash_att_mod="0.1" stab_att_mod="0.75" />
+      <row attack="5.02" item_id="8e2ccaa1-17c2-4cef-b378-e71dc83bddb7" slash_att_mod="0.8" smash_att_mod="0.9" stab_att_mod="0.05" />
+      <row attack="8.818182" item_id="8ef902ea-0c32-44c9-b101-71f35b9cbe3d" slash_att_mod="0.9" smash_att_mod="0.25" stab_att_mod="0.75" />
+      <row attack="1.3" item_id="8f2764bc-e4e7-407a-b1ed-8ee221b2bb5d" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="1.3" item_id="929e08b0-9cda-4eb6-a7c4-28e8bd4dd32d" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="3.4" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.1" />
+      <row attack="5" item_id="937c90ad-fdee-45ff-a712-6fae845a5210" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="3.5" item_id="965cc83a-1d34-416f-aabd-c4a461a6e583" slash_att_mod="0.75" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="4.3125" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" slash_att_mod="1" smash_att_mod="0.25" stab_att_mod="0.5" />
+      <row attack="1.3" item_id="98851303-bf50-4a41-9aa7-aa33e025d0fb" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="6.142857" item_id="9d2561cc-892f-4527-94cc-4fa607102949" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="4.3" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" slash_att_mod="0.25" smash_att_mod="0.9" stab_att_mod="0.05" />
+      <row attack="6.321429" item_id="9f754566-7fb2-47e1-951b-22c27debb3c8" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="5.785714" item_id="9fb601d5-486c-4082-93cc-6356b0771b05" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="0" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="5.607143" item_id="a415c3a7-82f0-4a73-925a-bb2c1674955f" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="6.75" item_id="a7d5c50c-de7d-4982-969e-33fcbccb749a" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="4.25" item_id="a8014877-ce10-4331-88ab-04173b6370ad" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="3.3" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.05" />
+      <row attack="4.8" item_id="aca90050-0b70-4ca0-9d29-b94326203c75" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="3.55" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.05" />
+      <row attack="4.6" item_id="af7fd872-0830-4e33-843e-5c015bbe9e73" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.05" />
+      <row attack="1.3" item_id="b11aeb90-5752-48a2-962e-af64fe618b4d" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="0" item_id="b129a71e-cadb-47db-bc2c-6ce85e3b278c" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="b173f48f-6f4f-42eb-a119-37d2402e74f0" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="5.125" item_id="b59ab3c7-f70b-4de4-937e-074e97bfe327" slash_att_mod="1.25" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="3.05" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.05" />
+      <row attack="1.3" item_id="b6ce8b62-9cab-428f-b1e8-0e12823f18c8" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="5.8" item_id="b741463f-fe65-430b-9082-13d1950a523d" slash_att_mod="0.05" smash_att_mod="1.1" stab_att_mod="0.05" />
+      <row attack="4" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.05" />
+      <row attack="0" item_id="bd0beb13-9c64-40fb-988c-ed1f0a122b14" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.9" item_id="c2d79308-ce89-41e4-b07c-8c00f4496370" slash_att_mod="0.05" smash_att_mod="1.25" stab_att_mod="0.05" />
+      <row attack="5.5" item_id="c316062a-5633-4e1e-bea3-f226717c0258" slash_att_mod="1.1" smash_att_mod="0.1" stab_att_mod="1.1" />
+      <row attack="1.3" item_id="c76986a8-7b55-4bd3-bb20-cdbb0eea8727" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="3.9875" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" slash_att_mod="1" smash_att_mod="0.25" stab_att_mod="1" />
+      <row attack="1.3" item_id="c8c010e2-4ae9-42b3-8b02-df7d797237f9" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="4.125" item_id="c9cc366b-7192-4261-8861-be7877e9ef17" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="9.727273" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" slash_att_mod="0.25" smash_att_mod="0.25" stab_att_mod="1.25" />
+      <row attack="0" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="5.428571" item_id="d14a845b-3787-4172-9fe4-f4dfcd6ac0ec" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="0.9" />
+      <row attack="10.18182" item_id="d289be6f-a7cb-44b2-b2d0-a0a45105ef98" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="1.3" item_id="d2fdde4f-0d45-46d0-949b-b061b6619af6" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="5.25" item_id="d41af9ba-400f-49ae-91fa-38c7da4b815b" slash_att_mod="0.5" smash_att_mod="0.05" stab_att_mod="0.5" />
+      <row attack="6.5" item_id="d459cb3a-04b5-4de7-b115-35ec17d293ba" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="5.3" item_id="d5ca8f35-28ec-4bf3-b042-7c97ce4c4f14" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.5" />
+      <row attack="0" item_id="d70b732b-c924-4dad-aa56-2f27e6e9c656" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.5" item_id="d7a081e8-2b8c-49d0-915d-2d3c8d4c5274" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="6.5" item_id="db0725ac-c0e0-41db-b7a6-2887c57df612" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="3.75" item_id="db35e15d-ccc0-4c59-b76e-f7d6be6939f2" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="0" item_id="dcdc05d3-2ac9-40b1-b54f-d25c91966de8" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="1.3" item_id="de21749a-627d-406c-9dc6-e3e08d65d8d9" slash_att_mod="1" smash_att_mod="1" stab_att_mod="1" />
+      <row attack="4.5" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.5" />
+      <row attack="5.5" item_id="e16b0af6-fb6a-43e2-9a9c-1b8c227e64b8" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.25" />
+      <row attack="4.15" item_id="e3ee5787-f4c5-42b7-a900-33dc97c60706" slash_att_mod="1.25" smash_att_mod="0.25" stab_att_mod="0.05" />
+      <row attack="3.625" item_id="e5ab81a9-d02e-4361-acf5-ac755df7f2dc" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="0" item_id="e5dfafd0-f45b-4b79-9e5d-b95d545a85f8" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0.5" item_id="e5fc1a89-9bb1-44a9-a524-c6834a5e2e76" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="4.5" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="1.1" />
+      <row attack="4.357143" item_id="e680ebb5-c752-4640-906d-70f332106154" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="1.25" />
+      <row attack="0.1" item_id="e73cf113-a458-40fc-82a5-36c00f96da08" slash_att_mod="0.25" smash_att_mod="1" stab_att_mod="0.25" />
+      <row attack="4" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.25" />
+      <row attack="4.475" item_id="ec470e0c-5bbd-43bb-803e-0e7867253c25" slash_att_mod="1.1" smash_att_mod="0.05" stab_att_mod="0.75" />
+      <row attack="4.3" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" slash_att_mod="0.8" smash_att_mod="0.75" stab_att_mod="0.5" />
+      <row attack="0" item_id="eef9a291-fa86-454b-9a01-22d92647f5f1" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="0" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+      <row attack="4.5" item_id="f07a9b9b-10b5-4662-8b2a-8e5cd34b04a3" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="10.63636" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" slash_att_mod="0.75" smash_att_mod="0.25" stab_att_mod="1.1" />
+      <row attack="4.6375" item_id="f42fb3ff-9790-4831-a364-ae7b9c60a519" slash_att_mod="0.9" smash_att_mod="0.25" stab_att_mod="0.9" />
+      <row attack="3.1" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" slash_att_mod="0.05" smash_att_mod="1" stab_att_mod="0.05" />
+      <row attack="4.892857" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" slash_att_mod="1" smash_att_mod="0.05" stab_att_mod="1" />
+      <row attack="3.5" item_id="ff88dfd6-181a-4de0-b82a-ad8f1d649bc8" slash_att_mod="0.9" smash_att_mod="0.05" stab_att_mod="1.25" />
+    </rows>
+  </table>
+</database>
