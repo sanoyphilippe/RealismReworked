@@ -229,19 +229,6 @@
         stat_selector="3"
         ui_priority="0"
         visibility="2" />
-      <!-- Leg Day -->
-      <row icon_id="leg_day"
-        level="10"
-        metaperk_id=""
-        parent_id=""
-        perk_id="522dc497-df0a-4f87-8e46-e35fb4b64246"
-        perk_name="Leg day"
-        perk_ui_desc="perk_leg_day_desc"
-        perk_ui_name="perk_leg_day_name"
-        skill_selector="25"
-        stat_selector=""
-        ui_priority="0"
-        visibility="2" />
       <!-- Lone Hunter -->
       <row icon_id="scout"
         level="14"
@@ -655,7 +642,7 @@
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="83d79374-903c-46ce-84a2-3f826e75f70f" perk_name="Racing horse Companion" perk_ui_desc="" perk_ui_name="" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="840f43d6-ff7b-416b-87e2-5fbaa8f221bb" perk_name="codex_char_radzig" perk_ui_desc="" perk_ui_name="ui_codex_name_radzig" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="snake_oils_salesman" level="8" metaperk_id="" parent_id="" perk_id="842f6ba5-2f02-4807-ab26-e5aad5cc7d19" perk_name="Snake oil salesman" perk_ui_desc="perk_snake_oil_salesman_desc" perk_ui_name="perk_snake_oil_salesman_name" skill_selector="6" stat_selector="" ui_priority="0" visibility="2" />
-      <row icon_id="lowborn" level="4" metaperk_id="" parent_id="" perk_id="84c272a9-d81f-4e7b-bee9-0142bdb7a116" perk_name="Lowborn" perk_ui_desc="perk_lowborn_desc" perk_ui_name="perk_lowborn_name" skill_selector="" stat_selector="3" ui_priority="0" visibility="2" />
+      <!-- <row icon_id="lowborn" level="4" metaperk_id="" parent_id="" perk_id="84c272a9-d81f-4e7b-bee9-0142bdb7a116" perk_name="Lowborn" perk_ui_desc="perk_lowborn_desc" perk_ui_name="perk_lowborn_name" skill_selector="" stat_selector="3" ui_priority="0" visibility="2" /> -->
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="8521c9ba-e8f9-4f3e-bd75-9f8a68ba061e" perk_name="codex_soc_executioner" perk_ui_desc="" perk_ui_name="ui_codex_name_executioner" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="855594e8-f71c-4e0e-8e17-7c922c380755" perk_name="codex_soc_platner" perk_ui_desc="" perk_ui_name="ui_codex_name_platner" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="educated" level="0" metaperk_id="" parent_id="" perk_id="85b2b5a4-fac9-4463-ab91-ffb2d7ef7500" perk_name="Educated_old" perk_ui_desc="perk_educated_desc" perk_ui_name="perk_educated_name" skill_selector="" stat_selector="" ui_priority="0" visibility="3" />
@@ -846,7 +833,7 @@
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="ef2039dd-c893-4eb2-b41e-2d84b4cc1117" perk_name="codex_gen_bozi_soud" perk_ui_desc="" perk_ui_name="ui_codex_name_bozi_soud" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="efe716f3-8d95-4d87-adc9-3d7d9055567c" perk_name="codex_char_henry_rosenberg" perk_ui_desc="" perk_ui_name="ui_codex_name_henry_rosenberg" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="deft_grif" level="6" metaperk_id="" parent_id="" perk_id="f115ece0-669e-4084-8063-0a448b0ae9a5" perk_name="Deft Grip" perk_ui_desc="perk_lock_knack_desc" perk_ui_name="perk_lock_knack_name" skill_selector="4" stat_selector="" ui_priority="0" visibility="2" />
-      <row icon_id="highborn" level="4" metaperk_id="" parent_id="" perk_id="f19f542a-979a-4627-8d1c-9038f7dfc7be" perk_name="highborn" perk_ui_desc="perk_highborn_desc" perk_ui_name="perk_highborn_name" skill_selector="" stat_selector="3" ui_priority="0" visibility="2" />
+      <!-- <row icon_id="highborn" level="4" metaperk_id="" parent_id="" perk_id="f19f542a-979a-4627-8d1c-9038f7dfc7be" perk_name="highborn" perk_ui_desc="perk_highborn_desc" perk_ui_name="perk_highborn_name" skill_selector="" stat_selector="3" ui_priority="0" visibility="2" /> -->
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="f1c32c23-bcda-4d37-a6be-cdb4030b04e6" perk_name="codex_gen_sedlak" perk_ui_desc="" perk_ui_name="ui_codex_name_sedlak" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="brute" level="8" metaperk_id="" parent_id="" perk_id="f3178ac4-c895-4f9e-9e21-985aa64c665b" perk_name="general_strength" perk_ui_desc="perk_strength_desc" perk_ui_name="perk_strength_name" skill_selector="" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="magister" level="5" metaperk_id="" parent_id="" perk_id="f34875de-7236-4c61-ab85-5ea66d7537ff" perk_name="Magister 1" perk_ui_desc="perk_magister_1_desc" perk_ui_name="perk_magister_1_name" skill_selector="26" stat_selector="" ui_priority="0" visibility="2" />
@@ -871,7 +858,7 @@
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="fd55477e-e581-4e45-9cda-f9136d106331" perk_name="tutorial_skills" perk_ui_desc="" perk_ui_name="ui_tutorial_name_skills" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="fe543779-f290-428a-acd5-f99d19208e87" perk_name="codex_gen_lidove_pisne" perk_ui_desc="" perk_ui_name="ui_codex_name_lidove_pisne" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
       <row icon_id="safe_passage" level="10" metaperk_id="" parent_id="" perk_id="fe59bbf6-86df-4d34-b80f-21e52da5f92b" perk_name="Safe Passage" perk_ui_desc="perk_safe_passage_desc" perk_ui_name="perk_safe_passage_name" skill_selector="13" stat_selector="" ui_priority="0" visibility="2" />
-      <row icon_id="headcrakcer" level="8" metaperk_id="" parent_id="" perk_id="ff42b2ac-184d-44f7-b6a2-7a9b8ae87c45" perk_name="Headcracker" perk_ui_desc="perk_headcrakcer_desc" perk_ui_name="perk_headcrakcer_name" skill_selector="" stat_selector="0" ui_priority="0" visibility="2" />
+      <!-- <row icon_id="headcrakcer" level="8" metaperk_id="" parent_id="" perk_id="ff42b2ac-184d-44f7-b6a2-7a9b8ae87c45" perk_name="Headcracker" perk_ui_desc="perk_headcrakcer_desc" perk_ui_name="perk_headcrakcer_name" skill_selector="" stat_selector="0" ui_priority="0" visibility="2" /> -->
       <row icon_id="diagonal" level="7" metaperk_id="" parent_id="" perk_id="fff632cd-967d-4646-97f5-6a7abb3e82f0" perk_name="Combo srt 05 diagonalstrike axe META" perk_ui_desc="perk_w_short_comb2_axe_desc" perk_ui_name="perk_w_short_comb2" skill_selector="17" stat_selector="" ui_priority="0" visibility="2" />
       <row icon_id="" level="" metaperk_id="" parent_id="" perk_id="fffd2b9b-188b-4dbd-8cd4-a57747cade77" perk_name="codex_gen_cestovani" perk_ui_desc="" perk_ui_name="ui_codex_name_cestovani" skill_selector="" stat_selector="" ui_priority="0" visibility="0" />
     </rows>

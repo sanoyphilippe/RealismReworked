@@ -1,6 +1,26 @@
 <Table>
     <!-- REWORKING -->
     <Row>
+        <Cell>perk_heavy_swing_desc</Cell>
+        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina. Applies only to force weapons.</Cell>
+        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina. Applies only to weapons that require strength to wield.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_fast_striker_desc</Cell>
+        <Cell>Your attacks will demand 25% less stamina, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
+        <Cell>Your attacks will demand 25% less stamina, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_contemplative_desc</Cell>
+        <Cell>As long as you remain still, your tiredness and hunger level will slow down by 30%.</Cell>
+        <Cell>As long as you remain still, your tiredness and hunger level will slow down by 30%.</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_contemplative_desc</Cell>
+        <Cell>You don't move around, so you get tired or hungry at a much slower rate.</Cell>
+        <Cell>You don't move around, so you get tired or hungry at a much slower rate.</Cell>
+    </Row>
+    <Row>
         <Cell>perk_intimidating_posture</Cell>
         <Cell>Golem</Cell>
         <Cell>Golem</Cell>

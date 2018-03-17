@@ -33,7 +33,7 @@
 <Row><Cell>buff_burgess_desc</Cell><Cell>You're in a civilised area and therefore get a +1 bonus on Strength, Agility, Vitality and Speech.</Cell><Cell>You're in a civilised area and therefore get a +1 bonus on Strength, Agility, Vitality and Speech.</Cell></Row>
 <Row><Cell>buff_burgess_name</Cell><Cell>Burgher</Cell><Cell>Burgher</Cell></Row>
 <Row><Cell>buff_coleague_desc</Cell><Cell>You trade in books and get a better price for them. </Cell><Cell>You trade in books and get a better price for them.</Cell></Row>
-<Row><Cell>buff_contemplative_desc</Cell><Cell>You don't move around, so you don't get tired or hungry.</Cell><Cell>You don't move around, so you don't get tired or hungry.</Cell></Row>
+<!-- <Row><Cell>buff_contemplative_desc</Cell><Cell>You don't move around, so you don't get tired or hungry.</Cell><Cell>You don't move around, so you don't get tired or hungry.</Cell></Row> -->
 <Row><Cell>buff_crouching_chameleon_desc</Cell><Cell>You're crouched and not moving, so you get a 30% Stealth bonus.</Cell><Cell>You're crouched and not moving, so you get a 30% Stealth bonus.</Cell></Row>
 <Row><Cell>buff_crouching_chameleon_name</Cell><Cell>Crouching chameleon</Cell><Cell>Crouching Chameleon</Cell></Row>
 <Row><Cell>buff_cuman_killer_desc</Cell><Cell>You scare the Cumans with your terrifying reputation.</Cell><Cell>You scare the Cumans with your terrifying reputation.</Cell></Row>
@@ -687,7 +687,7 @@
 <Row><Cell>perk_colleague_name</Cell><Cell>Colleague</Cell><Cell>Colleague</Cell></Row>
 <Row><Cell>perk_comrade_desc</Cell><Cell>Increases your chance of pickpocketing someone with the same Charisma level as you have. Such people are usually dressed similarly to you.</Cell><Cell>Increases your chance of pickpocketing someone with the same Charisma level as you have. Such people are usually dressed similarly to you.</Cell></Row>
 <Row><Cell>perk_comrade_name</Cell><Cell>Comrade</Cell><Cell>Comrade</Cell></Row>
-<Row><Cell>perk_contemplative_desc</Cell><Cell>As long as you remain still, your tiredness and hunger will stay at the same level.</Cell><Cell>As long as you remain still, your tiredness and hunger will stay at the same level.</Cell></Row>
+<!-- <Row><Cell>perk_contemplative_desc</Cell><Cell>As long as you remain still, your tiredness and hunger will stay at the same level.</Cell><Cell>As long as you remain still, your tiredness and hunger will stay at the same level.</Cell></Row> -->
 <Row><Cell>perk_contemplative_name</Cell><Cell>Contemplative</Cell><Cell>Contemplative</Cell></Row>
 <Row><Cell>perk_crouching_chameleon_desc</Cell><Cell>When crouching without movement you get a 30% Stealth bonus.</Cell><Cell>When crouching without movement you get a 30% Stealth bonus.</Cell></Row>
 <Row><Cell>perk_crouching_chameleon_name</Cell><Cell>Crouching chameleon</Cell><Cell>Crouching Chameleon</Cell></Row>
@@ -719,7 +719,7 @@
 <Row><Cell>perk_empathic_name</Cell><Cell>Empathetic</Cell><Cell>Empathetic</Cell></Row>
 <Row><Cell>perk_et_tu_brutus_desc</Cell><Cell>Your attacks from behind will be one third stronger.</Cell><Cell>Your attacks from behind will be one third stronger.</Cell></Row>
 <Row><Cell>perk_et_tu_brutus_name</Cell><Cell>Et tu Brutus</Cell><Cell>Et Tu, Brute</Cell></Row>
-<Row><Cell>perk_fast_striker_desc</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.</Cell></Row>
+<!-- <Row><Cell>perk_fast_striker_desc</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.</Cell></Row> -->
 <Row><Cell>perk_fast_striker_name</Cell><Cell>Fast striker</Cell><Cell>Fast Striker</Cell></Row>
 <Row><Cell>perk_feint_desc</Cell><Cell>Unlocks the ability to conduct feints in combat.</Cell><Cell>Unlocks the ability to conduct feints in combat.</Cell></Row>
 <Row><Cell>perk_feint_name</Cell><Cell>Feint</Cell><Cell>Feint</Cell></Row>
@@ -751,7 +751,7 @@
 <Row><Cell>perk_haggle_secondChance_name</Cell><Cell>Final Offer</Cell><Cell>Final Offer</Cell></Row>
 <Row><Cell>perk_headcrakcer_desc</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell></Row>
 <Row><Cell>perk_headcrakcer_name</Cell><Cell>Headcracker</Cell><Cell>Headcracker</Cell></Row>
-<Row><Cell>perk_heavy_swing_desc</Cell><Cell>Your attacks cause 20% greater damage, but cost you 10% more Stamina. Applies only to force weapons.</Cell><Cell>Your attacks cause 20% greater damage, but cost you 10% more Stamina. Applies only to weapons that require strength to wield.</Cell></Row>
+<!-- <Row><Cell>perk_heavy_swing_desc</Cell><Cell>Your attacks cause 20% greater damage, but cost you 10% more Stamina. Applies only to force weapons.</Cell><Cell>Your attacks cause 20% greater damage, but cost you 10% more Stamina. Applies only to weapons that require strength to wield.</Cell></Row> -->
 <Row><Cell>perk_heavy_swing_name</Cell><Cell>Heavy swing </Cell><Cell>Heavy Swing </Cell></Row>
 <Row><Cell>perk_heavy_tip_desc</Cell><Cell>A weapon you've sharpened yourself will cause 15% greater damage to your opponent's armour and equipment.</Cell><Cell>A weapon you've sharpened yourself will cause 15% greater damage to your opponent's armour and equipment.</Cell></Row>
 <Row><Cell>perk_heavy_tip_name</Cell><Cell>Heavy tip</Cell><Cell>Tin Opener</Cell></Row>
