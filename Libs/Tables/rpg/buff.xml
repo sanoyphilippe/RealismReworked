@@ -129,11 +129,11 @@
       <!-- Reworked Contemplative perk -->
       <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_contemplative_desc" buff_exclusivity_id="1" buff_id="041bdeeb-cc02-428d-93bb-58dab72010b5" buff_lifetime_id="1" buff_name="perk_contemplative" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="0" duration="-1" icon_id="0" implementation="Cpp:Still" is_persistent="True" params="dig*0.7,exh*0.7" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
-      <!-- FIXED and reworked heavy swing - 20% more damage, 20% more stamina -->
-      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_heavy_swing_desc" buff_exclusivity_id="1" buff_id="74213ddf-7a92-4a49-ae40-dca43e179197" buff_lifetime_id="1" buff_name="perk_heavy_swing" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:StrengthWeaponBuff" is_persistent="True" params="wat*1.2,wac*1.2" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <!-- FIXED and reworked heavy swing - 20% more damage, 20% more stamina, 10% slower attack speed-->
+      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_heavy_swing_desc" buff_exclusivity_id="1" buff_id="74213ddf-7a92-4a49-ae40-dca43e179197" buff_lifetime_id="1" buff_name="perk_heavy_swing" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:StrengthWeaponBuff" is_persistent="True" params="wat*1.2,wac*1.2,asp*0.9" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
-      <!-- Fixed and reworked Fast Striker - 15% less damage -->
-      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_fast_striker_desc" buff_exclusivity_id="1" buff_id="7a08825e-053d-4e18-a75d-55b60db1c4c8" buff_lifetime_id="1" buff_name="perk_fast_striker" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="0" duration="-1" icon_id="0" implementation="Cpp:AgilityWeaponBuff" is_persistent="True" params="wat*0.85,wac*0.75" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <!-- Fixed and reworked Fast Striker - 15% less damage, 20% less stam cost, 10% faster attack speed -->
+      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_fast_striker_desc" buff_exclusivity_id="1" buff_id="7a08825e-053d-4e18-a75d-55b60db1c4c8" buff_lifetime_id="1" buff_name="perk_fast_striker" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="0" duration="-1" icon_id="0" implementation="Cpp:AgilityWeaponBuff" is_persistent="True" params="wat*0.85,wac*0.8,asp*1.1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
       <!-- Weapon cruncher -->
       <row buff_ai_tag_id=""
