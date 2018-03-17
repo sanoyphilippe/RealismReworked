@@ -2,13 +2,13 @@
     <!-- REWORKING -->
     <Row>
         <Cell>perk_heavy_swing_desc</Cell>
-        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina. Applies only to force weapons.</Cell>
-        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina. Applies only to weapons that require strength to wield.</Cell>
+        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina and you attack slower by 10%. Applies only to force weapons.</Cell>
+        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina and you attack slower by 10%. Applies only to weapons that require strength to wield.</Cell>
     </Row>
     <Row>
         <Cell>perk_fast_striker_desc</Cell>
-        <Cell>Your attacks will demand 25% less stamina, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
-        <Cell>Your attacks will demand 25% less stamina, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
+        <Cell>Your attacks will demand 20% less stamina and will be 10% faster, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
+        <Cell>Your attacks will demand 20% less stamina and will be 10% faster, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
     </Row>
     <Row>
         <Cell>perk_contemplative_desc</Cell>
