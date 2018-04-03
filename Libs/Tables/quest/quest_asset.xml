@@ -265,7 +265,7 @@
       <row pos="560,1170,0" quest_asset_id="26" quest_id="52739772" type="1" />
       <row pos="660,-290,0" quest_asset_id="26" quest_id="71582720" type="1" />
       <row pos="-2530,-330,0" quest_asset_id="26" quest_id="71656292" type="1" />
-      <row pos="550,-342,0" quest_asset_id="26" quest_id="81939923" type="2" />
+      <row pos="640,-170,0" quest_asset_id="26" quest_id="81939923" type="2" />
       <row pos="-1170,0,0" quest_asset_id="26" quest_id="84887206" type="2" />
       <row pos="-1620,140,0" quest_asset_id="26" quest_id="84955486" type="2" />
       <row pos="-1110,-160,0" quest_asset_id="26" quest_id="87746300" type="2" />
@@ -991,7 +991,7 @@
       <row pos="90,360,0" quest_asset_id="269" quest_id="84549423" type="2" />
       <row pos="-10,-710,0" quest_asset_id="270" quest_id="42381581" type="3" />
       <row pos="430,-1410,0" quest_asset_id="271" quest_id="50510365" type="2" />
-      <row pos="-580,2310,0" quest_asset_id="271" quest_id="52074508" type="3" />
+      <row pos="-580,2360,0" quest_asset_id="271" quest_id="52074508" type="3" />
       <row pos="-60,1380,0" quest_asset_id="271" quest_id="60010910" type="2" />
       <row pos="-970,-980,0" quest_asset_id="272" quest_id="53858429" type="3" />
       <row pos="-60,1500,0" quest_asset_id="272" quest_id="60010910" type="2" />
@@ -1084,6 +1084,7 @@
       <row pos="-1740,-3270,0" quest_asset_id="360" quest_id="33046666" type="3" />
       <row pos="-705,-396,0" quest_asset_id="361" quest_id="84955486" type="1" />
       <row pos="-691,-178,0" quest_asset_id="363" quest_id="84955486" type="1" />
+      <row pos="530,930,0" quest_asset_id="364" quest_id="5571166" type="3" />
       <row pos="1130,490,0" quest_asset_id="364" quest_id="49026310" type="3" />
       <row pos="90,-1220,0" quest_asset_id="364" quest_id="72023007" type="3" />
       <row pos="270,810,0" quest_asset_id="366" quest_id="42381581" type="3" />
@@ -1120,6 +1121,7 @@
       <row pos="-170,-480,0" quest_asset_id="426" quest_id="13691296" type="3" />
       <row pos="-170,-330,0" quest_asset_id="427" quest_id="13691296" type="3" />
       <row pos="2370,1330,0" quest_asset_id="431" quest_id="42381581" type="3" />
+      <row pos="-480,-910,0" quest_asset_id="431" quest_id="51547682" type="3" />
       <row pos="-1640,-550,0" quest_asset_id="432" quest_id="50330758" type="3" />
       <row pos="-4280,-220,0" quest_asset_id="438" quest_id="72289807" type="2" />
       <row pos="1070,-250,0" quest_asset_id="441" quest_id="61209157" type="1" />
@@ -1304,6 +1306,7 @@
       <row pos="-1980,1830,0" quest_asset_id="1102" quest_id="32103248" type="2" />
       <row pos="3110,-370,0" quest_asset_id="1108" quest_id="61209157" type="2" />
       <row pos="-3870,3540,0" quest_asset_id="1116" quest_id="33995473" type="3" />
+      <row pos="3100,2000,0" quest_asset_id="1129" quest_id="52739772" type="1" />
       <row pos="10,-1480,0" quest_asset_id="1132" quest_id="61209157" type="2" />
       <row pos="20,-960,0" quest_asset_id="1134" quest_id="61209157" type="2" />
       <row pos="2140,-1330,0" quest_asset_id="1148" quest_id="53442887" type="2" />

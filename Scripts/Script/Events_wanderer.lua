@@ -53,7 +53,7 @@ EventSystem.wandererConfig = {
         keywords = {"poachersNest","huntsman"},
     },
     {
-        name="duel",
+        name="duelist",
         cooldown = 2400,
         soulList = {"45da943b-837b-eddc-4ec8-50af81ea29a3"},
         probability = 1.25,
@@ -66,17 +66,20 @@ EventSystem.wandererConfig = {
         keywords = {"duel","duelist"},
     },
     {
-        name="duel",
+        name="knight",
         cooldown = 2400,
         soulList = {"431dd698-37c0-a087-0839-a6736f8495a8"},
         probability = 1.25,
         attentionMonolog = "event_wanderer_knighterrant_att",
         farewellMonolog = "event_wanderer_knighterrant_bye",
+        condition = function ( location )
+            return not QuestSystem.IsObjectiveCompleted('event_wanderer_persistent','knightErrantDead');
+        end,
         combatFromFader = true,
         keywords = {"duel","duelKnight"},
     },
     {
-        name="duel",
+        name="mercenary",
         cooldown = 2400,
         soulList = {"4fcb793f-2815-3eeb-f323-35d635f05992","45e28f3c-761a-94a9-1c61-00a312ef44b5","478f364b-0e46-a3c1-1384-39823f062993","4c898ff4-977d-cb3a-5d38-5e467f58d796","aefafd7b-587c-428b-8236-a681a5eecad5","495efc80-fe2c-4c65-9054-311bf0611428","fb438972-cc5c-4a12-aff6-d243a597aff2","1ff85f8a-5c06-4328-b67c-261d659084eb"},
         probability = 1.25,
@@ -186,7 +189,12 @@ function EventSystem.PickWandererVariation( location, variation )
     end
     local event
     if( EventSystem.fixedRandomElements and EventSystem.fixedRandomElements['wanderer_variation'] ) then
-        event = EventSystem.wandererConfig[ EventSystem.fixedRandomElements['wanderer_variation'] ]
+        local hasteSelectedEvent = EventSystem.wandererConfig[EventSystem.fixedRandomElements['wanderer_variation']]
+        if not hasteSelectedEvent.condition or hasteSelectedEvent.condition(location) then
+            event = hasteSelectedEvent
+        else
+            TWarning("Selected event " .. hasteSelectedEvent.name .. " wont be spawned due to its spawing condition is evaluated to false")
+        end
     else
         event = Utils.WeightedSample( EventSystem.wandererConfig, weights )
     end

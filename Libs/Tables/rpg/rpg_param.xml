@@ -67,6 +67,7 @@
       <row rpg_param_key="HorseRidingXPPerDistance" rpg_param_value="5" />
       <row rpg_param_key="HunterXPKill" rpg_param_value="10" />
       <row rpg_param_key="ItemHealthPriceStatusWeight" rpg_param_value="0.8" />
+      <row rpg_param_key="InjuryRegenInterval" rpg_param_value="20" />
       <row rpg_param_key="JailRecoveryDebuffMaxHours" rpg_param_value="336" />
       <row rpg_param_key="JumpCostBase" rpg_param_value="10" />
       <row rpg_param_key="LockPickingAppropriateTolerance" rpg_param_value="0.045" />
@@ -84,8 +85,8 @@
       <row rpg_param_key="MaxDmgR" rpg_param_value="4" />
       <row rpg_param_key="MaxLightProbeValue" rpg_param_value="65" />
       <row rpg_param_key="MaxPedalCost" rpg_param_value="2" />
-      <row rpg_param_key="MaxPerfectBlockSlotModifier" rpg_param_value="0.85" />
-      <row rpg_param_key="MaxSpecialPerfectBlockSlotModifier" rpg_param_value="0.6" />
+      <row rpg_param_key="MaxPerfectBlockSlotModifier" rpg_param_value="0.75" />
+      <row rpg_param_key="MaxSpecialPerfectBlockSlotModifier" rpg_param_value="0.4" />
       <row rpg_param_key="MaxStatToAttackMult" rpg_param_value="1.1" />
       <row rpg_param_key="MaxStatToAttackStaminaCostMult" rpg_param_value="2" />
       <row rpg_param_key="MaxStealthHitSoundMultiplier" rpg_param_value="0.22" />
@@ -148,8 +149,10 @@
       <row rpg_param_key="StamRegenCooldown" rpg_param_value="1.6" />
       <row rpg_param_key="StamRegenFromVit" rpg_param_value="1" />
       <row rpg_param_key="StarvationHealthLossSpeed" rpg_param_value="0.001" />
-      <row rpg_param_key="StarvationPlayerEffectMaxMin" rpg_param_value="90" />
-      <row rpg_param_key="StarvationPlayerEffectMinMin" rpg_param_value="60" />
+      <row rpg_param_key="StarvationPlayerEffectMaxMax" rpg_param_value="75" />
+      <row rpg_param_key="StarvationPlayerEffectMaxMin" rpg_param_value="120" />
+      <row rpg_param_key="StarvationPlayerEffectMinMax" rpg_param_value="45" />
+      <row rpg_param_key="StarvationPlayerEffectMinMin" rpg_param_value="90" />
       <row rpg_param_key="StatXPComboHit" rpg_param_value="3" />
       <row rpg_param_key="StatXPHit" rpg_param_value="1.5" />
       <row rpg_param_key="StatXPKill" rpg_param_value="3" />
@@ -161,8 +164,10 @@
       <row rpg_param_key="StealthAttackFailXp" rpg_param_value="7.5" />
       <row rpg_param_key="StealthAttackMaxXp" rpg_param_value="33" />
       <row rpg_param_key="StealthAttackMinXp" rpg_param_value="17" />
+      <row rpg_param_key="StealthCooldown" rpg_param_value="2" />
       <row rpg_param_key="StealthKillProbCoefA" rpg_param_value="4" />
       <row rpg_param_key="StealthKillProbCoefB" rpg_param_value="1" />
+      <row rpg_param_key="StealthSneakCheckRadius" rpg_param_value="10" />
       <row rpg_param_key="StealthKnockOutUnconsciousDepthBase" rpg_param_value="250" />
       <row rpg_param_key="StealthSkillToFootstepSoundMult" rpg_param_value="0.4" />
       <row rpg_param_key="StealthSkillToRecogTime" rpg_param_value="0.05" />

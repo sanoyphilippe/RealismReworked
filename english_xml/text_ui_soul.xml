@@ -71,6 +71,7 @@
 <Row><Cell>buff_food_poisoning_desc</Cell><Cell>You've got food poisoning. Next time, be more careful what you eat.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Your Health is gradually depleting and so are your Strength, Agility and Vitality in proportion to the degree of poisoning.</Cell><Cell>You've got food poisoning. Next time, be more careful what you eat.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Your Health is gradually depleting and so are your Strength, Agility and Vitality in proportion to the degree of poisoning.</Cell></Row>
 <Row><Cell>buff_forester</Cell><Cell>Forester</Cell><Cell>Forester</Cell></Row>
 <Row><Cell>buff_forester_desc</Cell><Cell>You're in the woods. Your Conspicuousness and Visibility are lowered.</Cell><Cell>You're in the woods. Your Conspicuousness and Visibility are lowered.</Cell></Row>
+<Row><Cell>buff_fresh_cut</Cell><Cell>New Haircut</Cell><Cell>New Haircut</Cell></Row>
 <Row><Cell>buff_full_heal</Cell><Cell>Your health is renewed.</Cell><Cell>Your health is renewed.</Cell></Row>
 <Row><Cell>buff_full_heal_nm</Cell><Cell>Healing   </Cell><Cell>Healing   </Cell></Row>
 <Row><Cell>buff_furious_desc</Cell><Cell>Your maximum stamina is low, but not your strength.</Cell><Cell>Your maximum Stamina is low, but not your Strength.</Cell></Row>
@@ -83,6 +84,8 @@
 <Row><Cell>buff_general_strength</Cell><Cell>Brute</Cell><Cell>Brute</Cell></Row>
 <Row><Cell>buff_general_strength_desc</Cell><Cell>You get a permanent +2 bonus on strength, but also a -1 speech and charisma penalty.</Cell><Cell>You get a permanent +2 bonus on Strength, but also a -1 Speech and Charisma penalty.</Cell></Row>
 <Row><Cell>buff_glissade_desc</Cell><Cell>Your weapons and armour suffer 20% less wear and tear in combat.</Cell><Cell>Your weapons and armour suffer 20% less wear and tear in combat.</Cell></Row>
+<Row><Cell>buff_golden_egg</Cell><Cell>Golden egg</Cell><Cell>Golden egg</Cell></Row>
+<Row><Cell>buff_golden_egg_desc</Cell><Cell>You ate the golden egg! They say it brings enormous amount of luck. ON the other side, gold is pretty heavy.</Cell><Cell>You ate the golden egg! They say it brings enormous amount of luck. ON the other side, gold is pretty heavy.</Cell></Row>
 <Row><Cell>buff_good_appetite</Cell><Cell>Good Appetite</Cell><Cell>Good Appetite</Cell></Row>
 <Row><Cell>buff_greater_attack</Cell><Cell>Greater Attack</Cell><Cell>Greater Attack</Cell></Row>
 <Row><Cell>buff_half_heal</Cell><Cell>Marigold concoction is regenerating your health by half.</Cell><Cell>Marigold concoction is regenerating your health by half.</Cell></Row>
@@ -114,7 +117,7 @@
 <Row><Cell>buff_injured_torso_desc</Cell><Cell>Your torso is injured. This injury can result in bleeding if you are not careful.</Cell><Cell>Your torso is injured. This injury can result in bleeding if you're not careful.</Cell></Row>
 <Row><Cell>buff_instant_cure</Cell><Cell>Heals you immediately without delay.</Cell><Cell>Heals you immediately without delay.</Cell></Row>
 <Row><Cell>buff_instant_cure_nm</Cell><Cell>Imminent cure</Cell><Cell>Imminent Cure</Cell></Row>
-<!-- <Row><Cell>buff_intimidating_posture_desc</Cell><Cell>Your armour is one third more frightening.</Cell><Cell>Your armour is one third more frightening.</Cell></Row> -->
+<!-- <Row><Cell>buff_intimidating_posture_desc</Cell><Cell>Your armour makes a 30% more frightening impression in dialogues.</Cell><Cell>Your armour makes a 30% more frightening impression in dialogues.</Cell></Row> -->
 <Row><Cell>buff_jail_desc</Cell><Cell>You are currently in jail and the guards are feeding you and keeping you alive.</Cell><Cell>You are currently in jail and the guards are feeding you and keeping you alive.</Cell></Row>
 <Row><Cell>buff_jail_recovery</Cell><Cell>Released Prisoner</Cell><Cell>Released Prisoner</Cell></Row>
 <Row><Cell>buff_jail_recovery_desc</Cell><Cell>Your stay in jail has left you malnourished and in an overall weak condition. Your Strength, Agility and Vitality are lowered. The longer you've been in jail, the worse the penalties.</Cell><Cell>Your stay in jail has left you malnourished and in an overall weak condition. Your Strength, Agility and Vitality are lowered. The longer you've been in jail, the worse the penalties.</Cell></Row>
@@ -211,6 +214,7 @@
 <Row><Cell>buff_wormwood_spirit</Cell><Cell>Effects of Artemisia potion</Cell><Cell>Artemisia Potion Effect</Cell></Row>
 <Row><Cell>buff_wormwood_spirit_desc</Cell><Cell>The bitter taste of Artemisia will put strength in your blood, but also bewilder your eyes with strange visions.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Strength +5&lt;br/&gt;Warfare +5.</Cell><Cell>The bitter taste of Artemisia will put strength in your blood, but also bewilder your eyes with strange visions.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Strength +5&lt;br/&gt;Warfare +5.</Cell></Row>
 <Row><Cell>drinking_habit_desc</Cell><Cell>You're drunk and your Bow skill is improved by +2.</Cell><Cell>You're drunk and your Bow skill is improved by +2.</Cell></Row>
+<Row><Cell>fresh_cut_desc</Cell><Cell>You've used the bathhouse services.</Cell><Cell>You've used the bathhouse services.</Cell></Row>
 <Row><Cell>char_10_uiName</Cell><Cell>Sir Robard </Cell><Cell>Sir Robard</Cell></Row>
 <Row><Cell>char_100_uiName</Cell><Cell>Punch</Cell><Cell>Punch</Cell></Row>
 <Row><Cell>char_101_uiName</Cell><Cell>Prokop</Cell><Cell>Procopius</Cell></Row>
@@ -665,7 +669,7 @@
 <Row><Cell>perk_berserk_name</Cell><Cell>Berserk</Cell><Cell>Berserk</Cell></Row>
 <Row><Cell>perk_blacksmithsson_desc</Cell><Cell>Weapons you repair with a repair kit have a 10% stronger attack, until they get too damaged.</Cell><Cell>Weapons you repair with a repair kit have a 10% stronger attack, until they get too damaged.</Cell></Row>
 <Row><Cell>perk_blacksmithsson_name</Cell><Cell>Blacksmith's son</Cell><Cell>Blacksmith's Son</Cell></Row>
-<Row><Cell>perk_blood_rush_desc</Cell><Cell>After beating your first opponent, you get a 50% attack bonus and your stamina will regenerate one quarter faster.</Cell><Cell>After beating your first opponent, you get a 50% attack bonus and your stamina will regenerate one quarter faster.</Cell></Row>
+<Row><Cell>perk_blood_rush_desc</Cell><Cell>After beating your first opponent, the power of your attacks will increase for a while and your stamina will regenerate faster.</Cell><Cell>After beating your first opponent, the power of your attacks will increase for a while and your stamina will regenerate faster.</Cell></Row>
 <Row><Cell>perk_blood_rush_name</Cell><Cell>Blood rush</Cell><Cell>Blood Rush</Cell></Row>
 <Row><Cell>perk_bloodletter_desc</Cell><Cell>You have a greater chance of drawing your opponent's blood.</Cell><Cell>You have a greater chance of drawing your opponent's blood.</Cell></Row>
 <Row><Cell>perk_bloodletter_name</Cell><Cell>Bloodletter</Cell><Cell>Bloodletter</Cell></Row>
@@ -693,7 +697,7 @@
 <Row><Cell>perk_crouching_chameleon_name</Cell><Cell>Crouching chameleon</Cell><Cell>Crouching Chameleon</Cell></Row>
 <Row><Cell>perk_crowd_control_desc</Cell><Cell>Reduces your chance of being discovered when there's a lot of people around. </Cell><Cell>Reduces your chance of being discovered when there's a lot of people around. </Cell></Row>
 <Row><Cell>perk_crowd_control_name</Cell><Cell>Crowd control</Cell><Cell>Crowd Control</Cell></Row>
-<!-- <Row><Cell>perk_cuman_in_killer</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be twice as effective.</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be twice as effective.</Cell></Row> -->
+<!-- <Row><Cell>perk_cuman_in_killer</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be a lot more effective.</Cell><Cell>You've killed so many Cumans that your reputation precedes you  - Cumans are afraid of you and there's a 50% greater chance they'll flee from combat with you. Your strikes against them will also be a lot more effective.</Cell></Row> -->
 <Row><Cell>perk_cuman_nm_killer</Cell><Cell>Cuman Killer</Cell><Cell>Cuman Killer</Cell></Row>
 <Row><Cell>perk_cushion_desc</Cell><Cell>If you're sitting comfortably, you get a double reading bonus.</Cell><Cell>If you're sitting comfortably, you get a double reading bonus.</Cell></Row>
 <Row><Cell>perk_cushion_name</Cell><Cell>Cushion</Cell><Cell>Cushion</Cell></Row>
@@ -719,7 +723,7 @@
 <Row><Cell>perk_empathic_name</Cell><Cell>Empathetic</Cell><Cell>Empathetic</Cell></Row>
 <Row><Cell>perk_et_tu_brutus_desc</Cell><Cell>Your attacks from behind will be one third stronger.</Cell><Cell>Your attacks from behind will be one third stronger.</Cell></Row>
 <Row><Cell>perk_et_tu_brutus_name</Cell><Cell>Et tu Brutus</Cell><Cell>Et Tu, Brute</Cell></Row>
-<!-- <Row><Cell>perk_fast_striker_desc</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.</Cell></Row> -->
+<!-- <Row><Cell>perk_fast_striker_desc</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause slightly less injury. Applies only to weapons that are based on agility.</Cell><Cell>Your attacks will demand 30% less stamina, but will also cause slightly less injury. Applies only to weapons that are based on agility.</Cell></Row> -->
 <Row><Cell>perk_fast_striker_name</Cell><Cell>Fast striker</Cell><Cell>Fast Striker</Cell></Row>
 <Row><Cell>perk_feint_desc</Cell><Cell>Unlocks the ability to conduct feints in combat.</Cell><Cell>Unlocks the ability to conduct feints in combat.</Cell></Row>
 <Row><Cell>perk_feint_name</Cell><Cell>Feint</Cell><Cell>Feint</Cell></Row>
@@ -737,7 +741,7 @@
 <Row><Cell>perk_forester_name</Cell><Cell>Forester</Cell><Cell>Forester</Cell></Row>
 <Row><Cell>perk_fragrance_desc</Cell><Cell>With freshly laundered clothes on, you have +1 higher Charisma for one day.</Cell><Cell>With freshly laundered clothes on, you have +1 higher Charisma for one day.</Cell></Row>
 <Row><Cell>perk_fragrance_name</Cell><Cell>Fragrance</Cell><Cell>Fragrance</Cell></Row>
-<Row><Cell>perk_furious_desc</Cell><Cell>The less your maximum Stamina, the greater injury you cause.</Cell><Cell>The less your maximum Stamina, the greater injury you cause.</Cell></Row>
+<Row><Cell>perk_furious_desc</Cell><Cell>The more you're wounded, the stronger your attacks.</Cell><Cell>The more you're wounded, the stronger your attacks.</Cell></Row>
 <Row><Cell>perk_furious_name</Cell><Cell>Furious</Cell><Cell>Furious</Cell></Row>
 <Row><Cell>perk_glissade_desc</Cell><Cell>Your armour and shields will suffer 20% less wear and tear in combat.</Cell><Cell>Your armour and shields will suffer 20% less wear and tear in combat.</Cell></Row>
 <Row><Cell>perk_glissade_name</Cell><Cell>Glissade</Cell><Cell>Glissade</Cell></Row>
@@ -751,7 +755,7 @@
 <Row><Cell>perk_haggle_secondChance_name</Cell><Cell>Final Offer</Cell><Cell>Final Offer</Cell></Row>
 <Row><Cell>perk_headcrakcer_desc</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell></Row>
 <Row><Cell>perk_headcrakcer_name</Cell><Cell>Headcracker</Cell><Cell>Headcracker</Cell></Row>
-<!-- <Row><Cell>perk_heavy_swing_desc</Cell><Cell>Your attacks cause 20% greater damage, but cost you 10% more Stamina. Applies only to force weapons.</Cell><Cell>Your attacks cause 20% greater damage, but cost you 10% more Stamina. Applies only to weapons that require strength to wield.</Cell></Row> -->
+<!-- <Row><Cell>perk_heavy_swing_desc</Cell><Cell>Your attacks cause greater damage, but cost you 10% more Stamina. Applies only to force weapons.</Cell><Cell>Your attacks cause greater damage, but cost you 10% more Stamina. Applies only to weapons that require strength to wield.</Cell></Row> -->
 <Row><Cell>perk_heavy_swing_name</Cell><Cell>Heavy swing </Cell><Cell>Heavy Swing </Cell></Row>
 <Row><Cell>perk_heavy_tip_desc</Cell><Cell>A weapon you've sharpened yourself will cause 15% greater damage to your opponent's armour and equipment.</Cell><Cell>A weapon you've sharpened yourself will cause 15% greater damage to your opponent's armour and equipment.</Cell></Row>
 <Row><Cell>perk_heavy_tip_name</Cell><Cell>Heavy tip</Cell><Cell>Tin Opener</Cell></Row>
@@ -765,6 +769,7 @@
 <Row><Cell>perk_horsenip_name</Cell><Cell>Horsenip</Cell><Cell>Horsenip</Cell></Row>
 <Row><Cell>perk_human_dustbin_desc</Cell><Cell>You can dispel hunger with anything. You won't suffer from eating poisoned or spoiled food, but neither will you have any positive effect from it. Does not apply to alcohol.</Cell><Cell>You can dispel hunger with anything. You won't suffer from eating poisoned or spoiled food, but neither will you have any positive effect from it. Does not apply to alcohol.</Cell></Row>
 <Row><Cell>perk_human_dustbin_name</Cell><Cell>Human dustbin</Cell><Cell>Human Dustbin</Cell></Row>
+<Row><Cell>perk_hunting_permit_desc</Cell><Cell>Sir Divish has appointed you Master Huntsman, giving you exclusive rights to hunt in his woods, so any meat you get from game won't be identified as stolen.</Cell><Cell>Sir Divish has appointed you Master Huntsman, giving you exclusive rights to hunt in his woods, so any meat you get from game won't be identified as stolen.</Cell></Row>
 <Row><Cell>perk_hunting_permit_name</Cell><Cell>Gamekeeper Rules the Woods</Cell><Cell>Gamekeeper Rules the Woods</Cell></Row>
 <Row><Cell>perk_huntsman_desc</Cell><Cell>You'll cause wild animals 20% more damage.</Cell><Cell>You'll cause wild animals 20% more damage.</Cell></Row>
 <Row><Cell>perk_huntsman_name</Cell><Cell>Huntsman</Cell><Cell>Huntsman</Cell></Row>
@@ -777,14 +782,14 @@
 <Row><Cell>perk_insomniac_desc</Cell><Cell>Increases the time you can do without sleep. Your rest level falls one quarter more slowly.</Cell><Cell>Increases the time you can do without sleep. Your Energy level falls one quarter more slowly.</Cell></Row>
 <Row><Cell>perk_insomniac_name</Cell><Cell>Insomniac</Cell><Cell>Insomniac</Cell></Row>
 <Row><Cell>perk_intimidating_posture</Cell><Cell>Golem</Cell><Cell>Golem</Cell></Row>
-<!-- <Row><Cell>perk_intimidating_posture_desc</Cell><Cell>Your armour is one third more frightening than usual.</Cell><Cell>Your armour is one third more frightening than usual.</Cell></Row> -->
+<!-- <Row><Cell>perk_intimidating_posture_desc</Cell><Cell>Your armour makes a 30% more frightening impression in dialogues.</Cell><Cell>Your armour makes a 30% more frightening impression in dialogues.</Cell></Row> -->
 <Row><Cell>perk_item_expert_1_desc</Cell><Cell>Reveals stats for half the items in a robbery victim's purse.</Cell><Cell>Reveals stats for half the items in a pickpocketing victim's purse.</Cell></Row>
 <Row><Cell>perk_item_expert_1_name</Cell><Cell>Item expert I</Cell><Cell>Item Expert I</Cell></Row>
 <Row><Cell>perk_item_expert_2_desc</Cell><Cell>Reveals the stats for all items in a robbery victim's purse.</Cell><Cell>Reveals the stats for all items in a pickpocketing victim's purse.</Cell></Row>
 <Row><Cell>perk_item_expert_2_name</Cell><Cell>Item expert II</Cell><Cell>Item Expert II</Cell></Row>
 <Row><Cell>perk_jockey_desc</Cell><Cell>A horse will never throw you outside of combat.</Cell><Cell>A horse will never throw you outside of combat.</Cell></Row>
 <Row><Cell>perk_jockey_name</Cell><Cell>Jockey</Cell><Cell>Jockey</Cell></Row>
-<Row><Cell>perk_juggler_desc</Cell><Cell>You've been exceptionally supple and agile since childhood. However, turning somersaults and falling on your head and left their mark. You have a +1 Agility bonus, but a -1 penalty on Speech and Charisma.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Ken, Golden Tongue or Cloak and Dagger.</Cell><Cell>You've been exceptionally supple and agile since childhood. However, turning somersaults and falling on your head and left their mark. You have a +1 Agility bonus, but a -1 penalty on Speech and Charisma.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Ken, Golden Tongue or Cloak and Dagger.</Cell></Row>
+<Row><Cell>perk_juggler_desc</Cell><Cell>You've been exceptionally supple and agile since childhood. However, turning somersaults and falling on your head and left their mark. You have a +1 Agility bonus, but a -1 penalty on Speech and Charisma.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Ken, Golden Tongue or Cloak and Dagger.</Cell><Cell>You've been exceptionally supple and agile since childhood. However, turning somersaults and falling on your head and left their mark. You have a +2 Agility bonus, but a -1 penalty on Speech and Charisma.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Ken, Golden Tongue or Cloak and Dagger.</Cell></Row>
 <Row><Cell>perk_juggler_name</Cell><Cell>Juggler</Cell><Cell>Juggler</Cell></Row>
 <Row><Cell>perk_ken_desc</Cell><Cell>You're handsome and charismatic, but you haven't built up your strength. Charisma +2, Strength -2.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Golden Tongue, Juggler or Cloak and Dagger.</Cell><Cell>You're handsome and charismatic, but you haven't built up your strength. Charisma +2, Strength -2.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Golden Tongue, Juggler or Cloak and Dagger.</Cell></Row>
 <Row><Cell>perk_ken_name</Cell><Cell>Ken</Cell><Cell>Ken</Cell></Row>
@@ -810,7 +815,7 @@
 <Row><Cell>perk_local_hero_name</Cell><Cell>Local Hero</Cell><Cell>Local Hero</Cell></Row>
 <Row><Cell>perk_lock_knack_desc</Cell><Cell>The starting position when lockpicking will be closer to the end of the lock, making it easier to open.</Cell><Cell>The starting position when lockpicking will be closer to the end of the lock, making it easier to open.</Cell></Row>
 <Row><Cell>perk_lock_knack_name</Cell><Cell>Deft Grip</Cell><Cell>Deft Grip</Cell></Row>
-<Row><Cell>perk_lock_lucky_desc</Cell><Cell>If your lockpick breaks, you'll have a 10% chance of opening the lock instantly.</Cell><Cell>If your lockpick breaks, you'll have a 10% chance of opening the lock instantly.</Cell></Row>
+<Row><Cell>perk_lock_lucky_desc</Cell><Cell>If your lockpick breaks, you'll have a 10% chance of opening the lock instantly. Your chances increase even more with easy locks, but on the contrary decrease with harder locks.</Cell><Cell>If your lockpick breaks, you'll have a 10% chance of opening the lock instantly. Your chances increase even more with easy locks, but on the contrary decrease with harder locks.</Cell></Row>
 <Row><Cell>perk_lock_lucky_name</Cell><Cell>Lucky Thief</Cell><Cell>Lucky Thief</Cell></Row>
 <Row><Cell>perk_lockpickers_knack</Cell><Cell>The Lock Picker's Knack</Cell><Cell>Lockpicker's Knack</Cell></Row>
 <!-- <Row><Cell>perk_loose_tongue_desc</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell></Row> -->
@@ -891,10 +896,10 @@
 <Row><Cell>perk_salty_name</Cell><Cell>Salty</Cell><Cell>Salty</Cell></Row>
 <Row><Cell>perk_savage_desc</Cell><Cell>In the wilds you have a +1 bonus on Strength, Agility, Vitality and Speech.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Burgher perk.</Cell><Cell>In the wilds you have a +1 bonus on Strength, Agility, Vitality and Speech.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Burgher perk.</Cell></Row>
 <Row><Cell>perk_savage_name</Cell><Cell>Savage</Cell><Cell>Savage</Cell></Row>
-<!-- <Row><Cell>perk_scout_1_desc</Cell><Cell>Slightly increases the range of Fast Travel and also the chances of Evading by 10%.</Cell><Cell>Slightly increases the sight distance of Fast Travel and also the chances of Evading by 10%.</Cell></Row>
-<Row><Cell>perk_scout_1_name</Cell><Cell>Scout I</Cell><Cell>Scout I</Cell></Row>
-<Row><Cell>perk_scout_2_desc</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by 20%.</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by another 10%.</Cell></Row>
-<Row><Cell>perk_scout_2_name</Cell><Cell>Scout II</Cell><Cell>Scout II</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_1_desc</Cell><Cell>Slightly increases the range of Fast Travel and also the chances of Evading by 10%.</Cell><Cell>Slightly increases the sight distance of Fast Travel and also the chances of Evading by 10%.</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_1_name</Cell><Cell>Scout I</Cell><Cell>Scout I</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_2_desc</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by 20%.</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by another 10%.</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_2_name</Cell><Cell>Scout II</Cell><Cell>Scout II</Cell></Row> -->
 <!-- <Row><Cell>perk_scout_3_desc</Cell><Cell>Greatly increases the sight distance of Fast Travel and also the chances of evading by 30%.</Cell><Cell>Greatly increases the sight distance of Fast Travel and also increases the chances of evading by another 10%.</Cell></Row> -->
 <!-- <Row><Cell>perk_scout_3_name</Cell><Cell>Scout III</Cell><Cell>Scout III</Cell></Row> -->
 <Row><Cell>perk_secret_pockets_desc</Cell><Cell>When looting corpses, you have a chance of finding more money.</Cell><Cell>When looting corpses, you'll find more money.</Cell></Row>
@@ -995,7 +1000,7 @@
 <Row><Cell>perk_wanderer_name</Cell><Cell>Wanderer</Cell><Cell>Wanderer</Cell></Row>
 <Row><Cell>perk_warhorse_desc</Cell><Cell>Your horse won't shy at nearby foes, at least as long as no one hits him.</Cell><Cell>Your horse won't shy at nearby foes, at least as long as no one hits him.</Cell></Row>
 <Row><Cell>perk_warhorse_name</Cell><Cell>Warhorse</Cell><Cell>Warhorse</Cell></Row>
-<Row><Cell>perk_water_of_life_desc</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you 50% more.</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you 50% more.</Cell></Row>
+<Row><Cell>perk_water_of_life_desc</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you. The stronger the healing effect, the drunker it will make you.</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you. The stronger the healing effect, the drunker it will make you.</Cell></Row>
 <Row><Cell>perk_water_of_life_name</Cell><Cell>Water of life</Cell><Cell>Water of Life</Cell></Row>
 <!-- <Row><Cell>perk_weapon_cruncher_desc</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell></Row> -->
 <Row><Cell>perk_weapon_cruncher_name</Cell><Cell>Weapon-cruncher</Cell><Cell>Weapon-Cruncher</Cell></Row>
@@ -1554,7 +1559,8 @@
 <Row><Cell>ui_tutorial_name_alcohol</Cell><Cell>Alcohol and Drunkenness</Cell><Cell>Alcohol and Drunkenness</Cell></Row>
 <Row><Cell>ui_tutorial_name_alchemy</Cell><Cell>Alchemy</Cell><Cell>Alchemy</Cell></Row>
 <Row><Cell>ui_tutorial_name_basics</Cell><Cell>Basic controls</Cell><Cell>Basic Controls</Cell></Row>
-<Row><Cell>ui_tutorial_name_combat_basic</Cell><Cell>Combat - Basic Controls</Cell><Cell>Combat - Basic Controls</Cell></Row>
+<Row><Cell>ui_tutorial_name_combat_advance</Cell><Cell>Combat: Advanced Techniques</Cell><Cell>Combat: Advanced Techniques</Cell></Row>
+<Row><Cell>ui_tutorial_name_combat_basic</Cell><Cell>Combat - Basic Controls</Cell><Cell>Basic Combat</Cell></Row>
 <Row><Cell>ui_tutorial_name_dice</Cell><Cell>Dice</Cell><Cell>Dice</Cell></Row>
 <Row><Cell>ui_tutorial_name_horse</Cell><Cell>Horse</Cell><Cell>Horse</Cell></Row>
 <Row><Cell>ui_tutorial_name_injury</Cell><Cell>Wounds and Healing</Cell><Cell>Wounds and Healing</Cell></Row>
